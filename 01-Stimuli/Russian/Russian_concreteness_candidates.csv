@@ -1,0 +1,1753 @@
+"word","mean_percentile","n_sources","sources","mean_raw_concreteness","gloss_english","tier","selected"
+"самолёт",0.99896694214876,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.3125,"airplane","core",TRUE
+"корова",0.998922413793103,1,"Grigoriev2026_cmp_Soloviev2022_500",1.033333333,"cow","core",TRUE
+"пуля",0.998922413793103,1,"Grigoriev2026_cmp_Soloviev2022_500",1.033333333,"bullet","core",TRUE
+"мальчик",0.997933884297521,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.333333333,"boy","core",TRUE
+"квартира",0.996900826446281,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.339622642,"apartment, flat","core",TRUE
+"больница",0.995867768595041,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.387755102,"hospital","core",TRUE
+"рубашка",0.995689655172414,1,"Grigoriev2026_cmp_Soloviev2022_500",1.05,"shirt","core",TRUE
+"врач",0.994834710743802,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.395833333,"doctor, physician","core",TRUE
+"платье",0.992768595041322,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.413043478,"dress","core",TRUE
+"кровать",0.991735537190083,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.415384615,"bed","core",TRUE
+"барсук",0.991666666666667,1,"Grigoriev2026_cmp_Grigoriev2022",7,"badger","core",TRUE
+"брюква",0.991666666666667,1,"Grigoriev2026_cmp_Grigoriev2022",7,"rutabaga, swede","core",TRUE
+"вилы",0.991666666666667,1,"Grigoriev2026_cmp_Grigoriev2022",7,"pitchfork","core",TRUE
+"картон",0.991666666666667,1,"Grigoriev2026_cmp_Grigoriev2022",7,"cardboard","core",TRUE
+"кларнет",0.991666666666667,1,"Grigoriev2026_cmp_Grigoriev2022",7,"clarinet","core",TRUE
+"лимон",0.991666666666667,1,"Grigoriev2026_cmp_Grigoriev2022",7,"lemon","core",TRUE
+"майонез",0.991666666666667,1,"Grigoriev2026_cmp_Grigoriev2022",7,"mayonnaise","core",TRUE
+"морковь",0.991666666666667,1,"Grigoriev2026_cmp_Grigoriev2022",7,"carrot","core",TRUE
+"муравей",0.991666666666667,1,"Grigoriev2026_cmp_Grigoriev2022",7,"ant","core",TRUE
+"пиджак",0.991379310344828,1,"Grigoriev2026_cmp_Soloviev2022_500",1.114754098,"jacket","core",TRUE
+"девочка",0.990185950413223,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.416666667,"girl","core",TRUE
+"телефон",0.990185950413223,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.416666667,"telephone","core",TRUE
+"палец",0.988636363636364,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.425,"finger; toe","core",TRUE
+"карандаш",0.988146551724138,1,"Grigoriev2026_cmp_Soloviev2022_500",1.116666667,"pencil","core",TRUE
+"коньяк",0.988146551724138,1,"Grigoriev2026_cmp_Soloviev2022_500",1.116666667,"cognac; brandy","core",TRUE
+"фотография",0.987603305785124,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.428571429,"photograph; photography","core",TRUE
+"рубль",0.986570247933884,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.433962264,"ruble","core",TRUE
+"поезд",0.985537190082645,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.446153846,"train","core",TRUE
+"баня",0.984913793103448,1,"Grigoriev2026_cmp_Soloviev2022_500",1.131147541,"banya, bathhouse, steam bath","core",TRUE
+"птица",0.984504132231405,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.448979592,"bird","core",TRUE
+"стакан",0.983471074380165,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.458333333,"glass; cup","core",TRUE
+"луна",0.982758620689655,1,"Grigoriev2026_cmp_Soloviev2022_500",1.133333333,"moon","core",TRUE
+"остров",0.981921487603306,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.469387755,"island","core",TRUE
+"сосед",0.981921487603306,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.469387755,"neighbor","core",TRUE
+"сахар",0.980603448275862,1,"Grigoriev2026_cmp_Soloviev2022_500",1.147540984,"sugar","core",TRUE
+"серп",0.980555555555556,1,"Grigoriev2026_cmp_Grigoriev2022",6.944444444,"sickle","core",TRUE
+"соболь",0.980555555555556,1,"Grigoriev2026_cmp_Grigoriev2022",6.944444444,"sable","core",TRUE
+"мясо",0.980371900826446,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.479166667,"meat","core",TRUE
+"бабушка",0.978822314049587,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.490566038,"grandmother, grandma","core",TRUE
+"кресло",0.977272727272727,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.492307692,"armchair; seat","core",TRUE
+"метро",0.976293103448276,1,"Grigoriev2026_cmp_Soloviev2022_500",1.166666667,"metro; subway","core",TRUE
+"шоссе",0.976293103448276,1,"Grigoriev2026_cmp_Soloviev2022_500",1.166666667,"highway, road","core",TRUE
+"жена",0.975206611570248,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.5,"wife","core",TRUE
+"стул",0.975206611570248,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.5,"chair","core",TRUE
+"ухо",0.975206611570248,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.5,"ear","core",TRUE
+"ладонь",0.973140495867769,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.507692308,"palm (of hand)","core",TRUE
+"этаж",0.972107438016529,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.509433962,"floor, story","core",TRUE
+"автомобиль",0.971074380165289,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.511627907,"car, automobile","core",TRUE
+"шкаф",0.970378352490421,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",3.9833333335,"cupboard, closet, wardrobe","core",TRUE
+"грабли",0.97037037037037,1,"Grigoriev2026_cmp_Grigoriev2022",6.933333333,"rake","core",TRUE
+"змея",0.97037037037037,1,"Grigoriev2026_cmp_Grigoriev2022",6.933333333,"snake","core",TRUE
+"колбаса",0.97037037037037,1,"Grigoriev2026_cmp_Grigoriev2022",6.933333333,"sausage","core",TRUE
+"персик",0.97037037037037,1,"Grigoriev2026_cmp_Grigoriev2022",6.933333333,"peach","core",TRUE
+"пчела",0.97037037037037,1,"Grigoriev2026_cmp_Grigoriev2022",6.933333333,"bee","core",TRUE
+"тунец",0.97037037037037,1,"Grigoriev2026_cmp_Grigoriev2022",6.933333333,"tuna","core",TRUE
+"оркестр",0.969827586206897,1,"Grigoriev2026_cmp_Soloviev2022_500",1.183333333,"orchestra","core",TRUE
+"пальто",0.969827586206897,1,"Grigoriev2026_cmp_Soloviev2022_500",1.183333333,"coat","core",TRUE
+"яйцо",0.969827586206897,1,"Grigoriev2026_cmp_Soloviev2022_500",1.183333333,"egg","core",TRUE
+"лошадь",0.96900826446281,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.520833333,"horse","core",TRUE
+"спина",0.96900826446281,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.520833333,"back (of the body)","core",TRUE
+"телевизор",0.96900826446281,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.520833333,"tv set","core",TRUE
+"слеза",0.966942148760331,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.531914894,"tear","core",TRUE
+"крыльцо",0.96551724137931,1,"Grigoriev2026_cmp_Soloviev2022_500",1.2,"porch; steps (to a house)","core",TRUE
+"танк",0.965040557086012,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.252380952,"tank","core",TRUE
+"газета",0.964876033057851,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.547169811,"newspaper","core",TRUE
+"рука",0.964007499234772,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.2541666665,"arm; hand","core",TRUE
+"бутылка",0.963842975206612,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.553191489,"bottle","core",TRUE
+"шея",0.962293388429752,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.5625,"neck","core",TRUE
+"гриб",0.962284482758621,1,"Grigoriev2026_cmp_Soloviev2022_500",1.229508197,"mushroom, fungus","core",TRUE
+"настурция",0.961111111111111,1,"Grigoriev2026_cmp_Grigoriev2022",6.916666667,"nasturtium","core",TRUE
+"автобус",0.96026936026936,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.216183575,"bus","core",TRUE
+"диван",0.959710743801653,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.571428571,"sofa, couch","core",TRUE
+"пиво",0.959710743801653,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.571428571,"beer","core",TRUE
+"комар",0.959259259259259,1,"Grigoriev2026_cmp_Grigoriev2022",6.909090909,"mosquito","core",TRUE
+"одеяло",0.959051724137931,1,"Grigoriev2026_cmp_Soloviev2022_500",1.233333333,"blanket","core",TRUE
+"кот",0.956896551724138,1,"Grigoriev2026_cmp_Soloviev2022_500",1.25,"cat (male)","core",TRUE
+"нож",0.956611570247934,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.581395349,"knife","core",TRUE
+"щека",0.955578512396694,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.583333333,"cheek","core",TRUE
+"бабочка",0.95462962962963,1,"Grigoriev2026_cmp_Grigoriev2022",6.888888889,"butterfly; bow tie","core",TRUE
+"горох",0.95462962962963,1,"Grigoriev2026_cmp_Grigoriev2022",6.888888889,"peas","core",TRUE
+"хурма",0.95462962962963,1,"Grigoriev2026_cmp_Grigoriev2022",6.888888889,"persimmon","core",TRUE
+"башня",0.953663793103448,1,"Grigoriev2026_cmp_Soloviev2022_500",1.266666667,"tower","core",TRUE
+"волк",0.953663793103448,1,"Grigoriev2026_cmp_Soloviev2022_500",1.266666667,"wolf","core",TRUE
+"мужчина",0.953512396694215,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.58490566,"man","core",TRUE
+"хлеб",0.953512396694215,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.58490566,"bread","core",TRUE
+"чашка",0.950574712643678,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",4.1779661015,"cup","core",TRUE
+"курица",0.950431034482759,1,"Grigoriev2026_cmp_Soloviev2022_500",1.271186441,"chicken","core",TRUE
+"неделя",0.949380165289256,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.603773585,"week","core",TRUE
+"колесо",0.948347107438017,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.604651163,"wheel","core",TRUE
+"брюки",0.94827187100894,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",4.0238450075,"trousers, pants","core",TRUE
+"рожь",0.947222222222222,1,"Grigoriev2026_cmp_Grigoriev2022",6.866666667,"rye","core",TRUE
+"сабля",0.947222222222222,1,"Grigoriev2026_cmp_Grigoriev2022",6.866666667,"saber","core",TRUE
+"шаль",0.947222222222222,1,"Grigoriev2026_cmp_Grigoriev2022",6.866666667,"shawl","core",TRUE
+"мама",0.946280991735537,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.613636364,"mom; mother","core",TRUE
+"лапа",0.946120689655172,1,"Grigoriev2026_cmp_Soloviev2022_500",1.283333333,"paw","core",TRUE
+"руль",0.946120689655172,1,"Grigoriev2026_cmp_Soloviev2022_500",1.283333333,"steering wheel; helm","core",TRUE
+"соль",0.946120689655172,1,"Grigoriev2026_cmp_Soloviev2022_500",1.283333333,"salt","core",TRUE
+"пистолет",0.946093510866238,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.214285714,"pistol","core",TRUE
+"офицер",0.944731404958678,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.622641509,"officer","core",TRUE
+"дерево",0.941632231404959,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.625,"tree; wood","core",TRUE
+"доллар",0.941632231404959,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.625,"dollar","core",TRUE
+"зеркало",0.941632231404959,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.625,"mirror","core",TRUE
+"горчица",0.940740740740741,1,"Grigoriev2026_cmp_Grigoriev2022",6.833333333,"mustard","core",TRUE
+"секвойя",0.940740740740741,1,"Grigoriev2026_cmp_Grigoriev2022",6.833333333,"sequoia","core",TRUE
+"мышь",0.939655172413793,1,"Grigoriev2026_cmp_Soloviev2022_500",1.3,"mouse","core",TRUE
+"шофёр",0.939655172413793,1,"Grigoriev2026_cmp_Soloviev2022_500",1.3,"driver, chauffeur","core",TRUE
+"растение",0.93904958677686,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.632653061,"plant","core",TRUE
+"сестра",0.93801652892562,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.641509434,"sister","core",TRUE
+"палтус",0.937037037037037,1,"Grigoriev2026_cmp_Grigoriev2022",6.823529412,"halibut","core",TRUE
+"лев",0.935433884297521,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.652173913,"lion","core",TRUE
+"лодка",0.935433884297521,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.652173913,"boat","core",TRUE
+"лопата",0.934259259259259,1,"Grigoriev2026_cmp_Grigoriev2022",6.818181818,"shovel","core",TRUE
+"журналист",0.933884297520661,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.653061224,"journalist","core",TRUE
+"кнопка",0.933189655172414,1,"Grigoriev2026_cmp_Soloviev2022_500",1.305084746,"button; thumbtack","core",TRUE
+"лампа",0.933189655172414,1,"Grigoriev2026_cmp_Soloviev2022_500",1.305084746,"lamp","core",TRUE
+"медведь",0.933189655172414,1,"Grigoriev2026_cmp_Soloviev2022_500",1.305084746,"bear","core",TRUE
+"халат",0.933053959131545,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",3.9444444445,"robe; gown; negligence","core",TRUE
+"дочь",0.931818181818182,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.653846154,"daughter","core",TRUE
+"нос",0.931818181818182,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.653846154,"(anatomy) nose; (geography) cape, headland; (of a ship) prow, bow; (of a shoe) toe","core",TRUE
+"текст",0.931818181818182,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.653846154,"text","core",TRUE
+"здание",0.928202479338843,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.660377358,"building","core",TRUE
+"колено",0.928202479338843,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.660377358,"knee; generation; bend","core",TRUE
+"банк",0.926136363636364,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.666666667,"bank","core",TRUE
+"гитара",0.925925925925926,1,"Grigoriev2026_cmp_Grigoriev2022",6.8,"guitar","core",TRUE
+"кетчуп",0.925925925925926,1,"Grigoriev2026_cmp_Grigoriev2022",6.8,"ketchup","core",TRUE
+"лодыжка",0.925925925925926,1,"Grigoriev2026_cmp_Grigoriev2022",6.8,"ankle","core",TRUE
+"трамвай",0.925925925925926,1,"Grigoriev2026_cmp_Grigoriev2022",6.8,"tram; streetcar","core",TRUE
+"эвкалипт",0.925925925925926,1,"Grigoriev2026_cmp_Grigoriev2022",6.8,"eucalyptus","core",TRUE
+"бассейн",0.925646551724138,1,"Grigoriev2026_cmp_Soloviev2022_500",1.322033898,"swimming pool; basin (geographical)","core",TRUE
+"изба",0.925646551724138,1,"Grigoriev2026_cmp_Soloviev2022_500",1.322033898,"peasant house, hut","core",TRUE
+"папа",0.924070247933884,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.673076923,"dad","core",TRUE
+"парень",0.924070247933884,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.673076923,"guy","core",TRUE
+"собор",0.920258620689655,1,"Grigoriev2026_cmp_Soloviev2022_500",1.333333333,"cathedral; assembly","core",TRUE
+"чемодан",0.920258620689655,1,"Grigoriev2026_cmp_Soloviev2022_500",1.333333333,"suitcase","core",TRUE
+"вино",0.919572620140802,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.1145833335,"wine","core",TRUE
+"президент",0.919421487603306,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.681818182,"president","core",TRUE
+"генерал",0.918388429752066,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.692307692,"general","core",TRUE
+"гостиница",0.917355371900826,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.697674419,"hotel","core",TRUE
+"фабрика",0.915948275862069,1,"Grigoriev2026_cmp_Soloviev2022_500",1.35,"factory","core",TRUE
+"муж",0.915289256198347,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.698113208,"husband","core",TRUE
+"сын",0.915289256198347,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.698113208,"son","core",TRUE
+"клевер",0.914814814814815,1,"Grigoriev2026_cmp_Grigoriev2022",6.777777778,"clover","core",TRUE
+"кобра",0.914814814814815,1,"Grigoriev2026_cmp_Grigoriev2022",6.777777778,"cobra","core",TRUE
+"пшеница",0.914814814814815,1,"Grigoriev2026_cmp_Grigoriev2022",6.777777778,"wheat","core",TRUE
+"скакалка",0.914814814814815,1,"Grigoriev2026_cmp_Grigoriev2022",6.777777778,"jump rope","core",TRUE
+"чертёж",0.914814814814815,1,"Grigoriev2026_cmp_Grigoriev2022",6.777777778,"drawing, blueprint, plan","core",TRUE
+"кофе",0.914457070707071,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.2,"coffee","core",TRUE
+"зуб",0.913223140495868,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.70212766,"tooth","core",TRUE
+"вокзал",0.912715517241379,1,"Grigoriev2026_cmp_Soloviev2022_500",1.352941176,"railway station","core",TRUE
+"конь",0.912715517241379,1,"Grigoriev2026_cmp_Soloviev2022_500",1.352941176,"horse; knight (chess)","core",TRUE
+"мать",0.912190082644628,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.704545455,"mother","core",TRUE
+"собака",0.911616161616162,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.206289308,"dog","core",TRUE
+"вагон",0.910123966942149,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.708333333,"railway car, carriage; wagon","core",TRUE
+"лестница",0.910123966942149,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.708333333,"stairs; staircase; ladder","core",TRUE
+"солнце",0.910123966942149,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.708333333,"sun","core",TRUE
+"тарелка",0.909347062579821,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",4.0194444445,"plate; dish","core",TRUE
+"трельяж",0.909259259259259,1,"Grigoriev2026_cmp_Grigoriev2022",6.769230769,"trellis","core",TRUE
+"рот",0.908057851239669,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.711538462,"mouth","core",TRUE
+"река",0.907177838996021,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.2773584905,"river","core",TRUE
+"компьютер",0.90702479338843,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.717391304,"computer","core",TRUE
+"полковник",0.90547520661157,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.729166667,"colonel","core",TRUE
+"труба",0.90547520661157,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.729166667,"pipe; trumpet; chimney","core",TRUE
+"забор",0.904094827586207,1,"Grigoriev2026_cmp_Soloviev2022_500",1.366666667,"fence","core",TRUE
+"костер",0.904094827586207,1,"Grigoriev2026_cmp_Soloviev2022_500",1.366666667,"bonfire","core",TRUE
+"рукав",0.904094827586207,1,"Grigoriev2026_cmp_Soloviev2022_500",1.366666667,"sleeve; branch (of a river)","core",TRUE
+"сок",0.904094827586207,1,"Grigoriev2026_cmp_Soloviev2022_500",1.366666667,"juice","core",TRUE
+"волос",0.903925619834711,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.730769231,"a single hair","core",TRUE
+"нога",0.903910315273952,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.1055555555,"leg; foot","core",TRUE
+"сигарета",0.902892561983471,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.732142857,"cigarette","core",TRUE
+"акула",0.902777777777778,1,"Grigoriev2026_cmp_Grigoriev2022",6.733333333,"shark","core",TRUE
+"керосин",0.902777777777778,1,"Grigoriev2026_cmp_Grigoriev2022",6.733333333,"kerosene","core",TRUE
+"пещера",0.902777777777778,1,"Grigoriev2026_cmp_Grigoriev2022",6.733333333,"cave","core",TRUE
+"водка",0.901067493112948,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.9540816325,"vodka","core",TRUE
+"животное",0.899793388429752,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.734693878,"animal","core",TRUE
+"житель",0.899793388429752,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.734693878,"inhabitant, resident","core",TRUE
+"список",0.899793388429752,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.734693878,"list","core",TRUE
+"страница",0.899793388429752,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.734693878,"page","core",TRUE
+"храм",0.899793388429752,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.734693878,"temple; church","core",TRUE
+"меч",0.898706896551724,1,"Grigoriev2026_cmp_Soloviev2022_500",1.372881356,"sword","core",TRUE
+"автор",0.895661157024793,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.735849057,"author","core",TRUE
+"столица",0.895661157024793,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.735849057,"capital city","core",TRUE
+"дуб",0.89537037037037,1,"Grigoriev2026_cmp_Grigoriev2022",6.727272727,"oak tree","core",TRUE
+"трактор",0.89537037037037,1,"Grigoriev2026_cmp_Grigoriev2022",6.727272727,"tractor","core",TRUE
+"доска",0.892045454545455,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.744186047,"board, plank","core",TRUE
+"живот",0.892045454545455,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.744186047,"stomach, belly","core",TRUE
+"камера",0.892045454545455,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.744186047,"chamber; cell; camera","core",TRUE
+"мост",0.892045454545455,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.744186047,"bridge","core",TRUE
+"ботинок",0.891163793103448,1,"Grigoriev2026_cmp_Soloviev2022_500",1.383333333,"shoe, boot (ankle-high)","core",TRUE
+"бровь",0.891163793103448,1,"Grigoriev2026_cmp_Soloviev2022_500",1.383333333,"eyebrow","core",TRUE
+"ветка",0.891163793103448,1,"Grigoriev2026_cmp_Soloviev2022_500",1.383333333,"branch (small); twig; railway branch line","core",TRUE
+"картошка",0.891163793103448,1,"Grigoriev2026_cmp_Soloviev2022_500",1.383333333,"potatoes (colloquial)","core",TRUE
+"крестьянин",0.891163793103448,1,"Grigoriev2026_cmp_Soloviev2022_500",1.383333333,"peasant","core",TRUE
+"ложка",0.891163793103448,1,"Grigoriev2026_cmp_Soloviev2022_500",1.383333333,"spoon","core",TRUE
+"чай",0.890052035506581,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.167238422,"tea","core",TRUE
+"бензин",0.889814814814815,1,"Grigoriev2026_cmp_Grigoriev2022",6.722222222,"gasoline, petrol","core",TRUE
+"ромб",0.889814814814815,1,"Grigoriev2026_cmp_Grigoriev2022",6.722222222,"rhombus; diamond","core",TRUE
+"комната",0.889462809917355,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.75,"room","core",TRUE
+"артист",0.887396694214876,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.755102041,"artist, performer, actor","core",TRUE
+"буква",0.885847107438017,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.760869565,"letter (of the alphabet)","core",TRUE
+"сапог",0.885847107438017,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.760869565,"boot","core",TRUE
+"парча",0.885185185185185,1,"Grigoriev2026_cmp_Grigoriev2022",6.6875,"brocade","core",TRUE
+"кольцо",0.884297520661157,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.761904762,"ring","core",TRUE
+"охранник",0.883620689655172,1,"Grigoriev2026_cmp_Soloviev2022_500",1.389830508,"security guard","core",TRUE
+"корабль",0.883264462809917,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.765957447,"ship; vessel","core",TRUE
+"князь",0.882231404958678,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.770833333,"prince","core",TRUE
+"вертолёт",0.881465517241379,1,"Grigoriev2026_cmp_Soloviev2022_500",1.393442623,"helicopter","core",TRUE
+"дверь",0.881362871135598,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.4416666665,"door","core",TRUE
+"школа",0.881198347107438,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.772727273,"school","core",TRUE
+"налог",0.880165289256198,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.773584906,"tax","core",TRUE
+"документ",0.878615702479339,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.775,"document","core",TRUE
+"книга",0.878615702479339,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.775,"book","core",TRUE
+"клей",0.876851851851852,1,"Grigoriev2026_cmp_Grigoriev2022",6.666666667,"glue","core",TRUE
+"макароны",0.876851851851852,1,"Grigoriev2026_cmp_Grigoriev2022",6.666666667,"pasta; macaroni","core",TRUE
+"сметана",0.876851851851852,1,"Grigoriev2026_cmp_Grigoriev2022",6.666666667,"sour cream","core",TRUE
+"чердак",0.876851851851852,1,"Grigoriev2026_cmp_Grigoriev2022",6.666666667,"attic, loft","core",TRUE
+"юбка",0.876851851851852,1,"Grigoriev2026_cmp_Grigoriev2022",6.666666667,"skirt","core",TRUE
+"царь",0.87654958677686,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.791666667,"tsar, czar","core",TRUE
+"стол",0.876388888888889,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.738636364,"table","core",TRUE
+"куртка",0.876077586206897,1,"Grigoriev2026_cmp_Soloviev2022_500",1.4,"jacket","core",TRUE
+"мука",0.876077586206897,1,"Grigoriev2026_cmp_Soloviev2022_500",1.4,"torment; flour","core",TRUE
+"отряд",0.876077586206897,1,"Grigoriev2026_cmp_Soloviev2022_500",1.4,"detachment; squad","core",TRUE
+"полка",0.876077586206897,1,"Grigoriev2026_cmp_Soloviev2022_500",1.4,"shelf","core",TRUE
+"локоть",0.875407088122605,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",3.939393939,"elbow","core",TRUE
+"деревня",0.875,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.79245283,"village","core",TRUE
+"монастырь",0.87396694214876,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.795918367,"monastery","core",TRUE
+"глаз",0.872933884297521,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.8,"eye","core",TRUE
+"озеро",0.871900826446281,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.803571429,"lake","core",TRUE
+"снег",0.871439776553413,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.044654088,"snow","core",TRUE
+"адвокат",0.870689655172414,1,"Grigoriev2026_cmp_Soloviev2022_500",1.405228758,"lawyer, attorney, advocate","core",TRUE
+"цифра",0.870351239669422,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.804347826,"digit; number","core",TRUE
+"аэропорт",0.868534482758621,1,"Grigoriev2026_cmp_Soloviev2022_500",1.409836066,"airport","core",TRUE
+"фланель",0.868518518518518,1,"Grigoriev2026_cmp_Grigoriev2022",6.642857143,"flannel","core",TRUE
+"кость",0.868285123966942,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.80952381,"bone","core",TRUE
+"следователь",0.868285123966942,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.80952381,"investigator","core",TRUE
+"работник",0.866735537190083,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.811320755,"worker","core",TRUE
+"ведро",0.866379310344828,1,"Grigoriev2026_cmp_Soloviev2022_500",1.410714286,"bucket; pail","core",TRUE
+"капуста",0.864814814814815,1,"Grigoriev2026_cmp_Grigoriev2022",6.636363636,"cabbage","core",TRUE
+"юла",0.864814814814815,1,"Grigoriev2026_cmp_Grigoriev2022",6.636363636,"top (toy); whirligig beetle","core",TRUE
+"берег",0.864669421487603,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.8125,"shore, bank","core",TRUE
+"лоб",0.864669421487603,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.8125,"forehead","core",TRUE
+"рыба",0.864669421487603,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.8125,"fish","core",TRUE
+"шапка",0.864224137931034,1,"Grigoriev2026_cmp_Soloviev2022_500",1.416666667,"hat (with earflaps or winter hat); cap","core",TRUE
+"коридор",0.863950107131925,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.0631205675,"corridor; hallway","core",TRUE
+"дождь",0.86378749617386,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.25,"rain","core",TRUE
+"гроб",0.862068965517241,1,"Grigoriev2026_cmp_Soloviev2022_500",1.418300654,"coffin","core",TRUE
+"журнал",0.861570247933884,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.813953488,"magazine, journal","core",TRUE
+"пакет",0.861570247933884,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.813953488,"package","core",TRUE
+"родитель",0.861570247933884,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.813953488,"parent","core",TRUE
+"улица",0.861254591368228,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.3098484845,"street","core",TRUE
+"кайма",0.861111111111111,1,"Grigoriev2026_cmp_Grigoriev2022",6.615384615,"edge, border","core",TRUE
+"молоко",0.859504132231405,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.821428571,"milk","core",TRUE
+"лёд",0.858786730945822,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.202173913,"ice","core",TRUE
+"гражданин",0.857954545454545,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.825,"citizen","core",TRUE
+"женщина",0.857954545454545,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.825,"woman","core",TRUE
+"алфавит",0.857407407407407,1,"Grigoriev2026_cmp_Grigoriev2022",6.611111111,"alphabet","core",TRUE
+"лыжня",0.857407407407407,1,"Grigoriev2026_cmp_Grigoriev2022",6.611111111,"ski track","core",TRUE
+"внук",0.856681034482759,1,"Grigoriev2026_cmp_Soloviev2022_500",1.426229508,"grandson","core",TRUE
+"плита",0.856681034482759,1,"Grigoriev2026_cmp_Soloviev2022_500",1.426229508,"stove; slab","core",TRUE
+"яблоко",0.856372436486073,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.0640074215,"apple","core",TRUE
+"камень",0.855888429752066,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.830188679,"stone","core",TRUE
+"лист",0.855888429752066,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.830188679,"leaf; sheet; list","core",TRUE
+"трава",0.854338842975207,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.830769231,"grass; herb","core",TRUE
+"библиотека",0.850723140495868,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.833333333,"library","core",TRUE
+"куст",0.850723140495868,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.833333333,"bush; shrub","core",TRUE
+"музей",0.850723140495868,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.833333333,"museum","core",TRUE
+"портрет",0.850723140495868,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.833333333,"portrait","core",TRUE
+"ресторан",0.850723140495868,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.833333333,"restaurant","core",TRUE
+"коробка",0.850215517241379,1,"Grigoriev2026_cmp_Soloviev2022_500",1.433333333,"box","core",TRUE
+"склад",0.850215517241379,1,"Grigoriev2026_cmp_Soloviev2022_500",1.433333333,"warehouse; fold; complexion","core",TRUE
+"капля",0.847369891443167,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",4.1,"drop (of liquid), droplet","core",TRUE
+"азбука",0.847222222222222,1,"Grigoriev2026_cmp_Grigoriev2022",6.6,"alphabet, primer, basics","core",TRUE
+"алмаз",0.847222222222222,1,"Grigoriev2026_cmp_Grigoriev2022",6.6,"diamond","core",TRUE
+"бокал",0.847222222222222,1,"Grigoriev2026_cmp_Grigoriev2022",6.6,"wine glass, goblet","core",TRUE
+"воробей",0.847222222222222,1,"Grigoriev2026_cmp_Grigoriev2022",6.6,"sparrow","core",TRUE
+"ромашка",0.847222222222222,1,"Grigoriev2026_cmp_Grigoriev2022",6.6,"camomile","core",TRUE
+"роща",0.847222222222222,1,"Grigoriev2026_cmp_Grigoriev2022",6.6,"grove","core",TRUE
+"щель",0.847222222222222,1,"Grigoriev2026_cmp_Grigoriev2022",6.6,"chink, crack, slit","core",TRUE
+"май",0.847107438016529,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.836734694,"may","core",TRUE
+"студент",0.846663605754515,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.903563941,"student (university)","core",TRUE
+"роза",0.846216475095785,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",3.7863636365,"rose","core",TRUE
+"родственник",0.846074380165289,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.837209302,"relative","core",TRUE
+"мотор",0.845905172413793,1,"Grigoriev2026_cmp_Soloviev2022_500",1.45,"motor; engine","core",TRUE
+"грудь",0.84452479338843,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.846153846,"breast, chest","core",TRUE
+"солдат",0.84452479338843,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.846153846,"soldier","core",TRUE
+"губернатор",0.84297520661157,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.847826087,"governor","core",TRUE
+"политик",0.842672413793103,1,"Grigoriev2026_cmp_Soloviev2022_500",1.466666667,"politician","core",TRUE
+"депутат",0.841425619834711,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.849056604,"deputy, member of parliament","core",TRUE
+"мозг",0.840723523109887,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.923611111,"brain","core",TRUE
+"судно",0.84051724137931,1,"Grigoriev2026_cmp_Soloviev2022_500",1.474576271,"ship; vessel","core",TRUE
+"директор",0.839876033057851,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.85,"director, headmaster","core",TRUE
+"клавесин",0.838888888888889,1,"Grigoriev2026_cmp_Grigoriev2022",6.588235294,"harpsichord","core",TRUE
+"мышца",0.837284482758621,1,"Grigoriev2026_cmp_Soloviev2022_500",1.483333333,"muscle","core",TRUE
+"столовая",0.837284482758621,1,"Grigoriev2026_cmp_Soloviev2022_500",1.483333333,"dining room; canteen","core",TRUE
+"изумруд",0.837037037037037,1,"Grigoriev2026_cmp_Grigoriev2022",6.555555556,"emerald","core",TRUE
+"дача",0.836260330578512,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.854166667,"dacha, summer house; giving","core",TRUE
+"писатель",0.836260330578512,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.854166667,"writer","core",TRUE
+"церковь",0.836260330578512,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.854166667,"church","core",TRUE
+"карточка",0.834051724137931,1,"Grigoriev2026_cmp_Soloviev2022_500",1.5,"card; ticket","core",TRUE
+"песок",0.832644628099174,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.857142857,"sand","core",TRUE
+"паспорт",0.831896551724138,1,"Grigoriev2026_cmp_Soloviev2022_500",1.503267974,"passport","core",TRUE
+"нефть",0.830731558004285,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.4326086955,"oil","core",TRUE
+"стекло",0.830614860728497,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.745283019,"glass","core",TRUE
+"руководитель",0.830578512396694,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.860465116,"manager; leader","core",TRUE
+"вдова",0.830555555555556,1,"Grigoriev2026_cmp_Grigoriev2022",6.545454545,"widow","core",TRUE
+"иволга",0.830555555555556,1,"Grigoriev2026_cmp_Grigoriev2022",6.545454545,"oriole","core",TRUE
+"кувшин",0.830555555555556,1,"Grigoriev2026_cmp_Grigoriev2022",6.545454545,"pitcher; jug","core",TRUE
+"сыр",0.830555555555556,1,"Grigoriev2026_cmp_Grigoriev2022",6.545454545,"cheese","core",TRUE
+"академик",0.829741379310345,1,"Grigoriev2026_cmp_Soloviev2022_500",1.516339869,"academician (full member of an academy)","core",TRUE
+"клиент",0.829545454545455,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.861538462,"client","core",TRUE
+"гора",0.829143709825528,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.1921985815,"mountain, hill","core",TRUE
+"капитан",0.827479338842975,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.867924528,"captain","core",TRUE
+"карман",0.827479338842975,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.867924528,"pocket","core",TRUE
+"плечо",0.827479338842975,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.867924528,"shoulder","core",TRUE
+"костюм",0.826237756351393,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.090277778,"suit; costume","core",TRUE
+"банка",0.825431034482759,1,"Grigoriev2026_cmp_Soloviev2022_500",1.516666667,"jar, can; bench (rowing); bank (sand)","core",TRUE
+"платок",0.825431034482759,1,"Grigoriev2026_cmp_Soloviev2022_500",1.516666667,"kerchief","core",TRUE
+"шар",0.825431034482759,1,"Grigoriev2026_cmp_Soloviev2022_500",1.516666667,"ball, sphere","core",TRUE
+"профессор",0.825413223140496,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.872340426,"professor","core",TRUE
+"экран",0.824380165289256,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.875,"screen","core",TRUE
+"горло",0.823347107438017,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.87755102,"throat","core",TRUE
+"подвал",0.822605363984674,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",4.043913713,"basement","core",TRUE
+"мешок",0.822314049586777,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.880952381,"bag; sack","core",TRUE
+"партнёр",0.821280991735537,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.88372093,"partner","core",TRUE
+"кафе",0.821120689655172,1,"Grigoriev2026_cmp_Soloviev2022_500",1.524590164,"cafe","core",TRUE
+"месяц",0.819731404958678,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.886363636,"month; moon","core",TRUE
+"катер",0.819444444444444,1,"Grigoriev2026_cmp_Grigoriev2022",6.533333333,"launch, boat","core",TRUE
+"овёс",0.819444444444444,1,"Grigoriev2026_cmp_Grigoriev2022",6.533333333,"oats","core",TRUE
+"румянец",0.819444444444444,1,"Grigoriev2026_cmp_Grigoriev2022",6.533333333,"blush; rosy cheeks","core",TRUE
+"шелк",0.819444444444444,1,"Grigoriev2026_cmp_Grigoriev2022",6.533333333,"silk","core",TRUE
+"тренер",0.817887931034483,1,"Grigoriev2026_cmp_Soloviev2022_500",1.533333333,"coach; trainer","core",TRUE
+"дядя",0.817148760330578,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.886792453,"uncle","core",TRUE
+"трубка",0.817148760330578,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.886792453,"pipe; tube; receiver (phone)","core",TRUE
+"постель",0.814566115702479,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.891304348,"bed","core",TRUE
+"ракета",0.814566115702479,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.891304348,"rocket","core",TRUE
+"лейтенант",0.813500535659627,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.154356061,"lieutenant","core",TRUE
+"корреспондент",0.8125,1,"Grigoriev2026_cmp_Soloviev2022_500",1.549019608,"correspondent","core",TRUE
+"цветок",0.8125,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.892307692,"flower","core",TRUE
+"икона",0.810344827586207,1,"Grigoriev2026_cmp_Soloviev2022_500",1.55,"icon","core",TRUE
+"двор",0.809917355371901,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.895833333,"yard, courtyard","core",TRUE
+"кровь",0.809917355371901,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.895833333,"blood","core",TRUE
+"масло",0.809917355371901,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.895833333,"oil; butter","core",TRUE
+"ворона",0.808333333333333,1,"Grigoriev2026_cmp_Grigoriev2022",6.5,"crow","core",TRUE
+"крахмал",0.808333333333333,1,"Grigoriev2026_cmp_Grigoriev2022",6.5,"starch","core",TRUE
+"пила",0.808333333333333,1,"Grigoriev2026_cmp_Grigoriev2022",6.5,"saw","core",TRUE
+"узда",0.808333333333333,1,"Grigoriev2026_cmp_Grigoriev2022",6.5,"bridle","core",TRUE
+"убийца",0.808189655172414,1,"Grigoriev2026_cmp_Soloviev2022_500",1.559322034,"murderer","core",TRUE
+"схема",0.807851239669422,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.897959184,"scheme; diagram; circuit","core",TRUE
+"продавец",0.806273946360153,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",4.0666666665,"seller","core",TRUE
+"бомба",0.806034482758621,1,"Grigoriev2026_cmp_Soloviev2022_500",1.566666667,"bomb","core",TRUE
+"отец",0.805785123966942,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.9,"father","core",TRUE
+"рукопись",0.803879310344828,1,"Grigoriev2026_cmp_Soloviev2022_500",1.573770492,"manuscript","core",TRUE
+"парк",0.803202479338843,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.906976744,"park","core",TRUE
+"композитор",0.801724137931034,1,"Grigoriev2026_cmp_Soloviev2022_500",1.583333333,"composer","core",TRUE
+"статья",0.801136363636364,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.909090909,"article; entry","core",TRUE
+"окно",0.800805402509948,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.063417191,"window","core",TRUE
+"бумага",0.800675313743496,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.1868217055,"paper","core",TRUE
+"губа",0.799586776859504,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.923076923,"lip; bay (geographical)","core",TRUE
+"фамилия",0.798553719008264,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.924528302,"surname; family","core",TRUE
+"архитектор",0.798491379310345,1,"Grigoriev2026_cmp_Soloviev2022_500",1.593220339,"architect","core",TRUE
+"преподаватель",0.798491379310345,1,"Grigoriev2026_cmp_Soloviev2022_500",1.593220339,"teacher","core",TRUE
+"причёска",0.798148148148148,1,"Grigoriev2026_cmp_Grigoriev2022",6.466666667,"hairstyle","core",TRUE
+"город",0.797004132231405,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.925,"city, town","core",TRUE
+"девушка",0.797004132231405,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.925,"girl, young woman","core",TRUE
+"прокуратура",0.795258620689655,1,"Grigoriev2026_cmp_Soloviev2022_500",1.594771242,"prosecutor's office","core",TRUE
+"крыло",0.794938016528926,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.930232558,"wing","core",TRUE
+"старик",0.794938016528926,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.930232558,"old man","core",TRUE
+"кулак",0.793388429752066,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.934782609,"fist; kulak (wealthy peasant)","core",TRUE
+"улыбка",0.792711202938476,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.064935065,"smile","core",TRUE
+"уголь",0.791993933588761,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",3.802773498,"coal; charcoal","core",TRUE
+"офис",0.790948275862069,1,"Grigoriev2026_cmp_Soloviev2022_500",1.610169492,"office","core",TRUE
+"водитель",0.790805785123967,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.953488372,"driver","core",TRUE
+"завод",0.790805785123967,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.953488372,"factory, plant","core",TRUE
+"скрипка",0.790740740740741,1,"Grigoriev2026_cmp_Grigoriev2022",6.454545455,"violin","core",TRUE
+"одежда",0.790046296296296,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.1128205125,"clothing","core",TRUE
+"дама",0.789256198347107,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.953846154,"lady","core",TRUE
+"могила",0.788793103448276,1,"Grigoriev2026_cmp_Soloviev2022_500",1.614379085,"grave","core",TRUE
+"дед",0.788223140495868,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.957446809,"grandfather; old man","core",TRUE
+"сквер",0.787037037037037,1,"Grigoriev2026_cmp_Grigoriev2022",6.444444444,"square; small park","core",TRUE
+"девица",0.785560344827586,1,"Grigoriev2026_cmp_Soloviev2022_500",1.627118644,"maiden, young woman","core",TRUE
+"инструкция",0.785560344827586,1,"Grigoriev2026_cmp_Soloviev2022_500",1.627118644,"instruction, manual, guide","core",TRUE
+"ключ",0.785123966942149,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.958333333,"key; spring (water)","core",TRUE
+"ученик",0.785123966942149,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.958333333,"pupil; student","core",TRUE
+"чиновник",0.785123966942149,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.958333333,"official, bureaucrat","core",TRUE
+"ящик",0.785123966942149,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.958333333,"box, crate; drawer","core",TRUE
+"железо",0.782407407407407,1,"Grigoriev2026_cmp_Grigoriev2022",6.4,"iron (metal)","core",TRUE
+"стая",0.782407407407407,1,"Grigoriev2026_cmp_Grigoriev2022",6.4,"flock; pack","core",TRUE
+"заместитель",0.78202479338843,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.959183673,"deputy","core",TRUE
+"кошка",0.781353767560664,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",3.76114082,"cat (female)","core",TRUE
+"записка",0.78099173553719,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.976190476,"note, memo","core",TRUE
+"кожа",0.77995867768595,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.978723404,"skin; leather","core",TRUE
+"академия",0.778409090909091,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.979166667,"academy","core",TRUE
+"таблица",0.778409090909091,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.979166667,"table; chart","core",TRUE
+"дневник",0.776939655172414,1,"Grigoriev2026_cmp_Soloviev2022_500",1.633333333,"diary; journal","core",TRUE
+"матч",0.776939655172414,1,"Grigoriev2026_cmp_Soloviev2022_500",1.633333333,"match; game","core",TRUE
+"пожар",0.776939655172414,1,"Grigoriev2026_cmp_Soloviev2022_500",1.633333333,"fire","core",TRUE
+"священник",0.776939655172414,1,"Grigoriev2026_cmp_Soloviev2022_500",1.633333333,"priest","core",TRUE
+"труп",0.776939655172414,1,"Grigoriev2026_cmp_Soloviev2022_500",1.633333333,"corpse","core",TRUE
+"флот",0.776939655172414,1,"Grigoriev2026_cmp_Soloviev2022_500",1.633333333,"fleet","core",TRUE
+"противник",0.776859504132231,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.979591837,"opponent","core",TRUE
+"невеста",0.775925925925926,1,"Grigoriev2026_cmp_Grigoriev2022",6.388888889,"bride; fiancee","core",TRUE
+"режиссер",0.775826446280992,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.981132075,"director (film, theater)","core",TRUE
+"стихотворение",0.774341475095785,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",3.7583333335,"poem","core",TRUE
+"подъезд",0.774276859504132,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.982142857,"entrance; driveway","core",TRUE
+"сумка",0.774276859504132,1,"Grigoriev2026_cmp_Soloviev2022_1000",1.982142857,"bag; pouch","core",TRUE
+"кувалда",0.772222222222222,1,"Grigoriev2026_cmp_Grigoriev2022",6.363636364,"sledgehammer","core",TRUE
+"штаны",0.769396551724138,1,"Grigoriev2026_cmp_Soloviev2022_500",1.642857143,"trousers, pants","core",TRUE
+"брат",0.768170339761249,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.05,"brother","core",TRUE
+"дуэль",0.767592592592593,1,"Grigoriev2026_cmp_Grigoriev2022",6.333333333,"duel","core",TRUE
+"чародей",0.767592592592593,1,"Grigoriev2026_cmp_Grigoriev2022",6.333333333,"sorcerer; enchanter","core",TRUE
+"ткань",0.767241379310345,1,"Grigoriev2026_cmp_Soloviev2022_500",1.647058824,"fabric; tissue","core",TRUE
+"билет",0.767045454545455,1,"Grigoriev2026_cmp_Soloviev2022_1000",2,"ticket; id (internal passport)","core",TRUE
+"дворец",0.767045454545455,1,"Grigoriev2026_cmp_Soloviev2022_1000",2,"palace","core",TRUE
+"доклад",0.767045454545455,1,"Grigoriev2026_cmp_Soloviev2022_1000",2,"report, presentation","core",TRUE
+"доктор",0.767045454545455,1,"Grigoriev2026_cmp_Soloviev2022_1000",2,"doctor","core",TRUE
+"инженер",0.767045454545455,1,"Grigoriev2026_cmp_Soloviev2022_1000",2,"engineer","core",TRUE
+"кино",0.767045454545455,1,"Grigoriev2026_cmp_Soloviev2022_1000",2,"cinema, movies","core",TRUE
+"крыша",0.767045454545455,1,"Grigoriev2026_cmp_Soloviev2022_1000",2,"roof","core",TRUE
+"ребёнок",0.767045454545455,1,"Grigoriev2026_cmp_Soloviev2022_1000",2,"child","core",TRUE
+"сотрудник",0.767045454545455,1,"Grigoriev2026_cmp_Soloviev2022_1000",2,"employee; colleague","core",TRUE
+"стена",0.767045454545455,1,"Grigoriev2026_cmp_Soloviev2022_1000",2,"wall","core",TRUE
+"судья",0.767045454545455,1,"Grigoriev2026_cmp_Soloviev2022_1000",2,"judge; referee","core",TRUE
+"учитель",0.767045454545455,1,"Grigoriev2026_cmp_Soloviev2022_1000",2,"teacher","core",TRUE
+"мастерская",0.765086206896552,1,"Grigoriev2026_cmp_Soloviev2022_500",1.677966102,"workshop; studio","core",TRUE
+"обед",0.762469390878482,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.0902777775,"lunch","core",TRUE
+"борт",0.760775862068966,1,"Grigoriev2026_cmp_Soloviev2022_500",1.683333333,"board (of a ship/aircraft); side; edge","core",TRUE
+"пачка",0.760775862068966,1,"Grigoriev2026_cmp_Soloviev2022_500",1.683333333,"pack","core",TRUE
+"экзамен",0.760775862068966,1,"Grigoriev2026_cmp_Soloviev2022_500",1.683333333,"exam, examination","core",TRUE
+"зритель",0.760330578512397,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.015384615,"spectator, viewer","core",TRUE
+"тёткин",0.760185185185185,1,"Grigoriev2026_cmp_Grigoriev2022",6.277777778,"aunt's","core",TRUE
+"станция",0.759297520661157,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.018867925,"station","core",TRUE
+"король",0.759054560759106,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.1845238095,"king","core",TRUE
+"волна",0.758264462809917,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.020408163,"wave","core",TRUE
+"секретарь",0.756714876033058,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.020833333,"secretary","core",TRUE
+"часы",0.756714876033058,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.020833333,"clock; watch","core",TRUE
+"цех",0.756465517241379,1,"Grigoriev2026_cmp_Soloviev2022_500",1.68852459,"workshop; guild","core",TRUE
+"актёр",0.754648760330578,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.021276596,"actor","core",TRUE
+"командир",0.754648760330578,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.021276596,"commander","core",TRUE
+"топливо",0.754310344827586,1,"Grigoriev2026_cmp_Soloviev2022_500",1.694915254,"fuel","core",TRUE
+"кабинет",0.753099173553719,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.023255814,"study, office","core",TRUE
+"хрящ",0.752777777777778,1,"Grigoriev2026_cmp_Grigoriev2022",6.272727273,"cartilage; grit","core",TRUE
+"госпиталь",0.752155172413793,1,"Grigoriev2026_cmp_Soloviev2022_500",1.696428571,"hospital (military)","core",TRUE
+"крест",0.75051652892562,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.035714286,"cross","core",TRUE
+"кладбище",0.75,1,"Grigoriev2026_cmp_Soloviev2022_500",1.7,"cemetery","core",TRUE
+"участник",0.74896694214876,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.038461538,"participant","core",TRUE
+"угол",0.747933884297521,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.041666667,"corner; angle","core",TRUE
+"сержант",0.747844827586207,1,"Grigoriev2026_cmp_Soloviev2022_500",1.714285714,"sergeant","core",TRUE
+"арка",0.747222222222222,1,"Grigoriev2026_cmp_Grigoriev2022",6.266666667,"arch","core",TRUE
+"табун",0.747222222222222,1,"Grigoriev2026_cmp_Grigoriev2022",6.266666667,"herd (of horses)","core",TRUE
+"читатель",0.746384297520661,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.042553191,"reader","core",TRUE
+"памятник",0.746342209978574,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.5770750985,"monument","core",TRUE
+"год",0.746053336394245,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.176388889,"year","core",TRUE
+"пассажир",0.745689655172414,1,"Grigoriev2026_cmp_Soloviev2022_500",1.716666667,"passenger","core",TRUE
+"корпус",0.744318181818182,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.043478261,"corps; body; housing","core",TRUE
+"ремонт",0.744318181818182,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.043478261,"repair","core",TRUE
+"полк",0.743534482758621,1,"Grigoriev2026_cmp_Soloviev2022_500",1.718954248,"regiment","core",TRUE
+"число",0.742768595041322,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.045454545,"number, date","core",TRUE
+"декабрь",0.741735537190083,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.046153846,"december","core",TRUE
+"прокурор",0.741460055096419,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.3482142855,"prosecutor","core",TRUE
+"зима",0.74144475053566,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.910062893,"winter","core",TRUE
+"пояс",0.741379310344828,1,"Grigoriev2026_cmp_Soloviev2022_500",1.721311475,"belt","core",TRUE
+"университет",0.741176920722375,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.5958041955,"university","core",TRUE
+"магазин",0.740702479338843,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.046511628,"shop; store; magazine (firearm)","core",TRUE
+"застёжка",0.739814814814815,1,"Grigoriev2026_cmp_Grigoriev2022",6.222222222,"fastener, clasp","core",TRUE
+"клубок",0.739814814814815,1,"Grigoriev2026_cmp_Grigoriev2022",6.222222222,"tangle, ball (of yarn)","core",TRUE
+"начальник",0.739669421487603,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.05,"chief; boss","core",TRUE
+"сайт",0.739224137931034,1,"Grigoriev2026_cmp_Soloviev2022_500",1.728813559,"website","core",TRUE
+"карта",0.738119834710744,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.056603774,"map; card","core",TRUE
+"орган",0.738119834710744,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.056603774,"organ; agency","core",TRUE
+"музыкант",0.737068965517241,1,"Grigoriev2026_cmp_Soloviev2022_500",1.733333333,"musician","core",TRUE
+"художник",0.736570247933884,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.057692308,"artist","core",TRUE
+"страна",0.735762932353841,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.9166666665,"country","core",TRUE
+"надпись",0.734913793103448,1,"Grigoriev2026_cmp_Soloviev2022_500",1.738562092,"inscription; label","core",TRUE
+"ворота",0.734504132231405,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.071428571,"gate, goal (sports)","core",TRUE
+"золото",0.734037343128252,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.2748015875,"gold","core",TRUE
+"голова",0.731921487603306,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.075,"head","core",TRUE
+"фильм",0.731921487603306,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.075,"film; movie","core",TRUE
+"час",0.731921487603306,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.075,"hour; time","core",TRUE
+"гадюка",0.730555555555556,1,"Grigoriev2026_cmp_Grigoriev2022",6.2,"viper","core",TRUE
+"дрожь",0.730555555555556,1,"Grigoriev2026_cmp_Grigoriev2022",6.2,"tremor, shivering","core",TRUE
+"молоток",0.730555555555556,1,"Grigoriev2026_cmp_Grigoriev2022",6.2,"hammer","core",TRUE
+"семья",0.728822314049587,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.075471698,"family","core",TRUE
+"груз",0.727370689655172,1,"Grigoriev2026_cmp_Soloviev2022_500",1.75,"cargo, load; weight","core",TRUE
+"летчик",0.727370689655172,1,"Grigoriev2026_cmp_Soloviev2022_500",1.75,"pilot","core",TRUE
+"мебель",0.727370689655172,1,"Grigoriev2026_cmp_Soloviev2022_500",1.75,"furniture","core",TRUE
+"север",0.727370689655172,1,"Grigoriev2026_cmp_Soloviev2022_500",1.75,"north","core",TRUE
+"юноша",0.727370689655172,1,"Grigoriev2026_cmp_Soloviev2022_500",1.75,"young man","core",TRUE
+"лагерь",0.726239669421488,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.076923077,"camp","core",TRUE
+"октябрь",0.726239669421488,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.076923077,"october","core",TRUE
+"председатель",0.726239669421488,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.076923077,"chairman","core",TRUE
+"перец",0.724074074074074,1,"Grigoriev2026_cmp_Grigoriev2022",6.181818182,"pepper","core",TRUE
+"ячмень",0.724074074074074,1,"Grigoriev2026_cmp_Grigoriev2022",6.181818182,"barley; stye (on the eye)","core",TRUE
+"заседание",0.723657024793388,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.081632653,"meeting, session","core",TRUE
+"лаборатория",0.723657024793388,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.081632653,"laboratory","core",TRUE
+"враг",0.722107438016529,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.085106383,"enemy","core",TRUE
+"вода",0.721074380165289,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.1,"water","core",TRUE
+"кулик",0.72037037037037,1,"Grigoriev2026_cmp_Grigoriev2022",6.166666667,"sandpiper; plover","core",TRUE
+"администрация",0.720261325374962,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.558956916,"administration, management","core",TRUE
+"фигура",0.72004132231405,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.102040816,"figure; shape","core",TRUE
+"радио",0.719827586206897,1,"Grigoriev2026_cmp_Soloviev2022_500",1.751633987,"radio","core",TRUE
+"очки",0.71900826446281,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.107142857,"glasses","core",TRUE
+"март",0.71797520661157,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.107692308,"march","core",TRUE
+"океан",0.717672413793103,1,"Grigoriev2026_cmp_Soloviev2022_500",1.758169935,"ocean","core",TRUE
+"банкир",0.717592592592593,1,"Grigoriev2026_cmp_Grigoriev2022",6.133333333,"banker","core",TRUE
+"завтрак",0.717592592592593,1,"Grigoriev2026_cmp_Grigoriev2022",6.133333333,"breakfast","core",TRUE
+"предприятие",0.716942148760331,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.113207547,"enterprise","core",TRUE
+"пациент",0.71551724137931,1,"Grigoriev2026_cmp_Soloviev2022_500",1.766666667,"patient","core",TRUE
+"коллектив",0.715392561983471,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.11627907,"collective, team","core",TRUE
+"министр",0.715392561983471,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.11627907,"minister","core",TRUE
+"стоимость",0.713842975206612,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.12244898,"cost; value","core",TRUE
+"хор",0.713362068965517,1,"Grigoriev2026_cmp_Soloviev2022_500",1.767857143,"choir; chorus","core",TRUE
+"острие",0.712962962962963,1,"Grigoriev2026_cmp_Grigoriev2022",6.111111111,"point","core",TRUE
+"звук",0.711776859504132,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.127659574,"sound","core",TRUE
+"дитя",0.711206896551724,1,"Grigoriev2026_cmp_Soloviev2022_500",1.783333333,"child (archaic/poetic)","core",TRUE
+"кухня",0.710227272727273,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.132075472,"kitchen; cuisine","core",TRUE
+"мужик",0.710227272727273,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.132075472,"peasant; guy (colloquial)","core",TRUE
+"град",0.709259259259259,1,"Grigoriev2026_cmp_Grigoriev2022",6.090909091,"hail; city (archaic/poetic)","core",TRUE
+"квадрат",0.709259259259259,1,"Grigoriev2026_cmp_Grigoriev2022",6.090909091,"square","core",TRUE
+"ребята",0.708677685950413,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.139534884,"guys; kids","core",TRUE
+"перо",0.707974137931034,1,"Grigoriev2026_cmp_Soloviev2022_500",1.785714286,"feather; pen","core",TRUE
+"преступник",0.707974137931034,1,"Grigoriev2026_cmp_Soloviev2022_500",1.785714286,"criminal","core",TRUE
+"след",0.707571931435568,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.263888889,"trace; track; mark","core",TRUE
+"круг",0.707441842669115,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.396124031,"circle; round","core",TRUE
+"конференция",0.706611570247934,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.142857143,"conference","core",TRUE
+"кредит",0.706611570247934,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.142857143,"credit; loan","core",TRUE
+"полиция",0.704741379310345,1,"Grigoriev2026_cmp_Soloviev2022_500",1.786885246,"police","core",TRUE
+"подруга",0.702995867768595,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.145833333,"friend (female)","core",TRUE
+"тюрьма",0.702995867768595,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.145833333,"prison","core",TRUE
+"хозяин",0.702995867768595,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.145833333,"owner; master; host","core",TRUE
+"игрушка",0.702777777777778,1,"Grigoriev2026_cmp_Grigoriev2022",6.066666667,"toy","core",TRUE
+"пехота",0.702777777777778,1,"Grigoriev2026_cmp_Grigoriev2022",6.066666667,"infantry","core",TRUE
+"хищник",0.702777777777778,1,"Grigoriev2026_cmp_Grigoriev2022",6.066666667,"predator","core",TRUE
+"экипаж",0.702586206896552,1,"Grigoriev2026_cmp_Soloviev2022_500",1.803571429,"carriage; crew; vehicle","core",TRUE
+"рамка",0.700413223140496,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.14893617,"frame (small)","core",TRUE
+"посол",0.699353448275862,1,"Grigoriev2026_cmp_Soloviev2022_500",1.816666667,"ambassador","core",TRUE
+"салон",0.699353448275862,1,"Grigoriev2026_cmp_Soloviev2022_500",1.816666667,"salon; parlor; showroom","core",TRUE
+"клуб",0.698863636363636,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.150943396,"club; cloud (of smoke)","core",TRUE
+"шифоньер",0.698148148148148,1,"Grigoriev2026_cmp_Grigoriev2022",6.058823529,"wardrobe, chest of drawers","core",TRUE
+"сад",0.695247933884298,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.153846154,"garden","core",TRUE
+"сентябрь",0.695247933884298,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.153846154,"september","core",TRUE
+"январь",0.695247933884298,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.153846154,"january","core",TRUE
+"грунт",0.693518518518519,1,"Grigoriev2026_cmp_Grigoriev2022",6.055555556,"soil, ground; primer","core",TRUE
+"низина",0.693518518518519,1,"Grigoriev2026_cmp_Grigoriev2022",6.055555556,"lowland","core",TRUE
+"русалка",0.693518518518519,1,"Grigoriev2026_cmp_Grigoriev2022",6.055555556,"mermaid","core",TRUE
+"скважина",0.693518518518519,1,"Grigoriev2026_cmp_Grigoriev2022",6.055555556,"well; borehole; crevice","core",TRUE
+"письмо",0.693181818181818,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.159090909,"letter","core",TRUE
+"переулок",0.691463122605364,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",3.8295454545,"side street","core",TRUE
+"двигатель",0.690599173553719,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.162790698,"engine, motor","core",TRUE
+"поэт",0.690599173553719,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.162790698,"poet","core",TRUE
+"агентство",0.689655172413793,1,"Grigoriev2026_cmp_Soloviev2022_500",1.833333333,"agency","core",TRUE
+"миллиард",0.689655172413793,1,"Grigoriev2026_cmp_Soloviev2022_500",1.833333333,"billion","core",TRUE
+"пища",0.689655172413793,1,"Grigoriev2026_cmp_Soloviev2022_500",1.833333333,"food","core",TRUE
+"разведка",0.689655172413793,1,"Grigoriev2026_cmp_Soloviev2022_500",1.833333333,"reconnaissance","core",TRUE
+"училище",0.689655172413793,1,"Grigoriev2026_cmp_Soloviev2022_500",1.833333333,"school (specialized)","core",TRUE
+"приказ",0.68904958677686,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.166666667,"order","core",TRUE
+"зарплата",0.688534970921335,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.0451388885,"salary, wages","core",TRUE
+"участок",0.68801652892562,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.173076923,"plot; section; precinct","core",TRUE
+"гость",0.68698347107438,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.175,"guest","core",TRUE
+"поселок",0.68595041322314,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.178571429,"settlement","core",TRUE
+"акция",0.684400826446281,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.183673469,"share, stock; action, campaign","core",TRUE
+"пенсия",0.684400826446281,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.183673469,"pension","core",TRUE
+"почта",0.683189655172414,1,"Grigoriev2026_cmp_Soloviev2022_500",1.834,"post office / mail","core",TRUE
+"выставка",0.682851239669422,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.184615385,"exhibition, show","core",TRUE
+"вальс",0.682407407407407,1,"Grigoriev2026_cmp_Grigoriev2022",6,"waltz","core",TRUE
+"вольфрам",0.682407407407407,1,"Grigoriev2026_cmp_Grigoriev2022",6,"tungsten","core",TRUE
+"кукла",0.682407407407407,1,"Grigoriev2026_cmp_Grigoriev2022",6,"doll; puppet","core",TRUE
+"платёж",0.682407407407407,1,"Grigoriev2026_cmp_Grigoriev2022",6,"payment","core",TRUE
+"трещина",0.682407407407407,1,"Grigoriev2026_cmp_Grigoriev2022",6,"crack; fissure","core",TRUE
+"рисунок",0.681818181818182,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.1875,"drawing; pattern","core",TRUE
+"цирк",0.681034482758621,1,"Grigoriev2026_cmp_Soloviev2022_500",1.836065574,"circus","core",TRUE
+"мастер",0.680268595041322,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.188679245,"master; craftsman","core",TRUE
+"туалет",0.678879310344828,1,"Grigoriev2026_cmp_Soloviev2022_500",1.839285714,"toilet; restroom; attire","core",TRUE
+"майор",0.678719008264463,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.19047619,"major (rank)","core",TRUE
+"клетка",0.677685950413223,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.191489362,"cage; cell","core",TRUE
+"оружие",0.676652892561983,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.192307692,"weapon","core",TRUE
+"малыш",0.675646551724138,1,"Grigoriev2026_cmp_Soloviev2022_500",1.847457627,"baby; toddler","core",TRUE
+"устав",0.675646551724138,1,"Grigoriev2026_cmp_Soloviev2022_500",1.847457627,"charter; statute; tired","core",TRUE
+"свидетель",0.674586776859504,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.196428571,"witness","core",TRUE
+"село",0.674586776859504,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.196428571,"village","core",TRUE
+"планета",0.672413793103448,1,"Grigoriev2026_cmp_Soloviev2022_500",1.85620915,"planet","core",TRUE
+"лес",0.67140342822161,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.8761363635,"forest; woods","core",TRUE
+"покупатель",0.670454545454545,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.204081633,"buyer","core",TRUE
+"луч",0.670298531289911,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",4.2666666665,"ray; beam","core",TRUE
+"федерация",0.669421487603306,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.20754717,"federation","core",TRUE
+"море",0.668388429752066,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.209302326,"sea","core",TRUE
+"плёнка",0.668103448275862,1,"Grigoriev2026_cmp_Soloviev2022_500",1.857142857,"film","core",TRUE
+"подросток",0.668103448275862,1,"Grigoriev2026_cmp_Soloviev2022_500",1.857142857,"teenager","core",TRUE
+"поход",0.668103448275862,1,"Grigoriev2026_cmp_Soloviev2022_500",1.857142857,"hike / campaign","core",TRUE
+"потолок",0.667355371900826,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.214285714,"ceiling","core",TRUE
+"штаб",0.666322314049587,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.217391304,"headquarters, staff","core",TRUE
+"драка",0.665740740740741,1,"Grigoriev2026_cmp_Grigoriev2022",5.933333333,"fight, brawl","core",TRUE
+"моток",0.665740740740741,1,"Grigoriev2026_cmp_Grigoriev2022",5.933333333,"skein; coil","core",TRUE
+"очерк",0.665740740740741,1,"Grigoriev2026_cmp_Grigoriev2022",5.933333333,"essay; sketch","core",TRUE
+"рана",0.665740740740741,1,"Grigoriev2026_cmp_Grigoriev2022",5.933333333,"wound","core",TRUE
+"машина",0.665289256198347,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.225,"machine; car","core",TRUE
+"август",0.664256198347107,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.230769231,"august (month)","core",TRUE
+"порт",0.663793103448276,1,"Grigoriev2026_cmp_Soloviev2022_500",1.86440678,"port","core",TRUE
+"кандидат",0.662706611570248,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.23255814,"candidate","core",TRUE
+"стихи",0.662706611570248,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.23255814,"poetry; verses","core",TRUE
+"студия",0.661637931034483,1,"Grigoriev2026_cmp_Soloviev2022_500",1.868852459,"studio","core",TRUE
+"старуха",0.661157024793388,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.239130435,"old woman","core",TRUE
+"бригада",0.65948275862069,1,"Grigoriev2026_cmp_Soloviev2022_500",1.875816993,"brigade, crew, team","core",TRUE
+"вещь",0.659090909090909,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.245283019,"thing, item","core",TRUE
+"республика",0.659090909090909,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.245283019,"republic","core",TRUE
+"тело",0.659090909090909,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.245283019,"body","core",TRUE
+"гонорар",0.655555555555556,1,"Grigoriev2026_cmp_Grigoriev2022",5.909090909,"fee, honorarium","core",TRUE
+"карниз",0.655555555555556,1,"Grigoriev2026_cmp_Grigoriev2022",5.909090909,"cornice, ledge","core",TRUE
+"толпа",0.655211202938476,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.5396825395,"crowd","core",TRUE
+"мина",0.655172413793103,1,"Grigoriev2026_cmp_Soloviev2022_500",1.883333333,"mine (explosive); facial expression","core",TRUE
+"апрель",0.65495867768595,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.25,"april","core",TRUE
+"деньги",0.65495867768595,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.25,"money","core",TRUE
+"инструмент",0.65495867768595,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.25,"tool, instrument","core",TRUE
+"человек",0.65495867768595,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.25,"person; human","core",TRUE
+"бой",0.650929752066116,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.072104019,"battle, fight; combat; beating (eggs)","core",TRUE
+"дивизия",0.650862068965517,1,"Grigoriev2026_cmp_Soloviev2022_500",1.898305085,"division (military)","core",TRUE
+"дым",0.650826446280992,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.261904762,"smoke","core",TRUE
+"гвардия",0.65,1,"Grigoriev2026_cmp_Grigoriev2022",5.888888889,"guard(s)","core",TRUE
+"сердце",0.649276859504132,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.264150943,"heart","core",TRUE
+"скорость",0.649276859504132,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.264150943,"speed","core",TRUE
+"министерство",0.649133379247016,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.855917667,"ministry","core",TRUE
+"туман",0.648706896551724,1,"Grigoriev2026_cmp_Soloviev2022_500",1.9,"fog; mist","core",TRUE
+"автомат",0.647210743801653,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.267857143,"automatic machine; vending machine; submachine gun","core",TRUE
+"ручка",0.647210743801653,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.267857143,"pen; handle; arm (diminutive)","core",TRUE
+"цепь",0.646551724137931,1,"Grigoriev2026_cmp_Soloviev2022_500",1.908496732,"chain; circuit","core",TRUE
+"метр",0.645877333945516,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.794003868,"meter; metre","core",TRUE
+"пункт",0.645661157024793,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.269230769,"point / item","core",TRUE
+"бок",0.643595041322314,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.270833333,"side; flank","core",TRUE
+"километр",0.643595041322314,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.270833333,"kilometer","core",TRUE
+"палата",0.643595041322314,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.270833333,"chamber; ward","core",TRUE
+"пятно",0.643430715197957,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",3.7721330955,"stain","core",TRUE
+"иностранец",0.643318965517241,1,"Grigoriev2026_cmp_Soloviev2022_500",1.910714286,"foreigner","core",TRUE
+"раствор",0.643318965517241,1,"Grigoriev2026_cmp_Soloviev2022_500",1.910714286,"solution (liquid); mortar (construction)","core",TRUE
+"лабиринт",0.642592592592593,1,"Grigoriev2026_cmp_Grigoriev2022",5.866666667,"labyrinth; maze","core",TRUE
+"лопоухий",0.642592592592593,1,"Grigoriev2026_cmp_Grigoriev2022",5.866666667,"big-eared","core",TRUE
+"полдник",0.642592592592593,1,"Grigoriev2026_cmp_Grigoriev2022",5.866666667,"afternoon snack","core",TRUE
+"складка",0.642592592592593,1,"Grigoriev2026_cmp_Grigoriev2022",5.866666667,"fold; crease","core",TRUE
+"минута",0.641771885521885,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.587878788,"minute","core",TRUE
+"день",0.641012396694215,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.275,"day","core",TRUE
+"зал",0.641012396694215,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.275,"hall","core",TRUE
+"коммунист",0.639462809917355,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.285714286,"communist","core",TRUE
+"белок",0.637931034482759,1,"Grigoriev2026_cmp_Soloviev2022_500",1.916666667,"protein; egg white; (eye) white","core",TRUE
+"отчёт",0.637931034482759,1,"Grigoriev2026_cmp_Soloviev2022_500",1.916666667,"report","core",TRUE
+"посетитель",0.637931034482759,1,"Grigoriev2026_cmp_Soloviev2022_500",1.916666667,"visitor","core",TRUE
+"звонок",0.635847107438017,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.291666667,"call; bell; doorbell","core",TRUE
+"июль",0.635847107438017,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.291666667,"july","core",TRUE
+"организм",0.635847107438017,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.291666667,"organism","core",TRUE
+"февраль",0.635847107438017,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.291666667,"february","core",TRUE
+"площадь",0.634488827670646,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.478846154,"square; area","core",TRUE
+"бас",0.632407407407407,1,"Grigoriev2026_cmp_Grigoriev2022",5.818181818,"(voice) bass; (fish) perch","core",TRUE
+"комок",0.632407407407407,1,"Grigoriev2026_cmp_Grigoriev2022",5.818181818,"lump","core",TRUE
+"мамин",0.632407407407407,1,"Grigoriev2026_cmp_Grigoriev2022",5.818181818,"mom's; mother's","core",TRUE
+"язва",0.632407407407407,1,"Grigoriev2026_cmp_Grigoriev2022",5.818181818,"ulcer; sore","core",TRUE
+"рассказ",0.632051576369758,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.0676100625,"story","core",TRUE
+"помещение",0.631714876033058,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.292307692,"room; premises","core",TRUE
+"родина",0.631714876033058,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.292307692,"homeland; motherland","core",TRUE
+"конституция",0.631465517241379,1,"Grigoriev2026_cmp_Soloviev2022_500",1.933333333,"constitution","core",TRUE
+"лента",0.631465517241379,1,"Grigoriev2026_cmp_Soloviev2022_500",1.933333333,"ribbon; tape; belt","core",TRUE
+"собеседник",0.631465517241379,1,"Grigoriev2026_cmp_Soloviev2022_500",1.933333333,"interlocutor; conversation partner","core",TRUE
+"нерв",0.631074393358876,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",4.0267857145,"nerve","core",TRUE
+"газ",0.6309132996633,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.8810272535,"gas","core",TRUE
+"голос",0.629132231404959,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.3,"voice; vote","core",TRUE
+"лицо",0.629132231404959,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.3,"face; person","core",TRUE
+"размер",0.629132231404959,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.3,"size","core",TRUE
+"закон",0.627668732782369,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.961111111,"law","core",TRUE
+"убийство",0.627360728497092,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.8760869565,"murder","core",TRUE
+"песня",0.626394628099174,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.118863049,"song","core",TRUE
+"зверь",0.626077586206897,1,"Grigoriev2026_cmp_Soloviev2022_500",1.95,"beast, animal","core",TRUE
+"победитель",0.626077586206897,1,"Grigoriev2026_cmp_Soloviev2022_500",1.95,"winner","core",TRUE
+"половина",0.62603305785124,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.302325581,"half","core",TRUE
+"тень",0.625990970309152,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.844155844,"shadow","core",TRUE
+"вход",0.62448347107438,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.304347826,"entrance","core",TRUE
+"молодёжь",0.62448347107438,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.304347826,"youth; young people","core",TRUE
+"танец",0.622933884297521,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.306122449,"dance","core",TRUE
+"ствол",0.622844827586207,1,"Grigoriev2026_cmp_Soloviev2022_500",1.960784314,"trunk; barrel; stem","core",TRUE
+"жестикуляция",0.622222222222222,1,"Grigoriev2026_cmp_Grigoriev2022",5.8,"gesticulation","core",TRUE
+"золотой",0.622222222222222,1,"Grigoriev2026_cmp_Grigoriev2022",5.8,"gold; gold coin","core",TRUE
+"лимфа",0.622222222222222,1,"Grigoriev2026_cmp_Grigoriev2022",5.8,"lymph","core",TRUE
+"палитра",0.622222222222222,1,"Grigoriev2026_cmp_Grigoriev2022",5.8,"palette","core",TRUE
+"паста",0.622222222222222,1,"Grigoriev2026_cmp_Grigoriev2022",5.8,"paste","core",TRUE
+"стричь",0.622222222222222,1,"Grigoriev2026_cmp_Grigoriev2022",5.8,"to cut; to shear (imperf.)","core",TRUE
+"пьеса",0.621164294459749,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.0125,"play (theatrical)","core",TRUE
+"лето",0.620867768595041,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.307692308,"summer","core",TRUE
+"линия",0.620867768595041,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.307692308,"line","core",TRUE
+"огонь",0.620867768595041,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.307692308,"fire","core",TRUE
+"почва",0.618801652892562,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.321428571,"soil","core",TRUE
+"архив",0.618534482758621,1,"Grigoriev2026_cmp_Soloviev2022_500",1.964285714,"archive","core",TRUE
+"копейка",0.618534482758621,1,"Grigoriev2026_cmp_Soloviev2022_500",1.964285714,"kopeck (coin)","core",TRUE
+"шляпа",0.618534482758621,1,"Grigoriev2026_cmp_Soloviev2022_500",1.964285714,"hat; (fig.) bungler","core",TRUE
+"война",0.617768595041322,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.325,"war","core",TRUE
+"секунда",0.616812059993878,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.231560892,"second (time)","core",TRUE
+"порог",0.615702479338843,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.326086957,"threshold","core",TRUE
+"дыхание",0.61541169268442,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.170748299,"breath, breathing","core",TRUE
+"рождение",0.614669421487603,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.326530612,"birth","core",TRUE
+"лекция",0.614519476372925,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",4.2777777775,"lecture","core",TRUE
+"орден",0.614224137931034,1,"Grigoriev2026_cmp_Soloviev2022_500",1.966666667,"order (decoration); medal","core",TRUE
+"осень",0.613293924089379,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.009469697,"autumn","core",TRUE
+"дно",0.612603305785124,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.333333333,"bottom","core",TRUE
+"июнь",0.612603305785124,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.333333333,"june","core",TRUE
+"редактор",0.612603305785124,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.333333333,"editor","core",TRUE
+"ошибка",0.609504132231405,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.339622642,"error","core",TRUE
+"революция",0.609504132231405,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.339622642,"revolution","core",TRUE
+"боец",0.608836206896552,1,"Grigoriev2026_cmp_Soloviev2022_500",1.983333333,"fighter, combatant","core",TRUE
+"вождь",0.608836206896552,1,"Grigoriev2026_cmp_Soloviev2022_500",1.983333333,"leader, chief","core",TRUE
+"издательство",0.608836206896552,1,"Grigoriev2026_cmp_Soloviev2022_500",1.983333333,"publishing house","core",TRUE
+"публикация",0.608836206896552,1,"Grigoriev2026_cmp_Soloviev2022_500",1.983333333,"publication","core",TRUE
+"государство",0.607438016528926,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.340909091,"state, country","core",TRUE
+"кроличий",0.606481481481482,1,"Grigoriev2026_cmp_Grigoriev2022",5.733333333,"rabbit","core",TRUE
+"обмундирование",0.606481481481482,1,"Grigoriev2026_cmp_Grigoriev2022",5.733333333,"uniform","core",TRUE
+"отбросы",0.606481481481482,1,"Grigoriev2026_cmp_Grigoriev2022",5.733333333,"waste","core",TRUE
+"прыжок",0.606481481481482,1,"Grigoriev2026_cmp_Grigoriev2022",5.733333333,"jump","core",TRUE
+"пучок",0.606481481481482,1,"Grigoriev2026_cmp_Grigoriev2022",5.733333333,"bunch","core",TRUE
+"препарат",0.605371900826446,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.346938776,"preparation","core",TRUE
+"договор",0.605016069788797,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.7291666665,"contract, agreement","core",TRUE
+"специалист",0.602789256198347,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.348837209,"specialist","core",TRUE
+"фирма",0.602789256198347,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.348837209,"firm; company","core",TRUE
+"акционер",0.602370689655172,1,"Grigoriev2026_cmp_Soloviev2022_500",2,"shareholder, stockholder","core",TRUE
+"исполнитель",0.602370689655172,1,"Grigoriev2026_cmp_Soloviev2022_500",2,"performer, executor","core",TRUE
+"армия",0.601277930823385,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.04375,"army","core",TRUE
+"встреча",0.599690082644628,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.35,"meeting, encounter","core",TRUE
+"номер",0.599690082644628,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.35,"number; issue; room","core",TRUE
+"историк",0.599137931034483,1,"Grigoriev2026_cmp_Soloviev2022_500",2.016393443,"historian","core",TRUE
+"игрок",0.59698275862069,1,"Grigoriev2026_cmp_Soloviev2022_500",2.016666667,"player","core",TRUE
+"баба",0.596074380165289,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.354166667,"woman (often informal/pejorative); grandma (dialect)","core",TRUE
+"кодекс",0.596074380165289,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.354166667,"codex; codec","core",TRUE
+"небо",0.596074380165289,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.354166667,"sky; heaven","core",TRUE
+"сцена",0.596074380165289,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.354166667,"scene; stage","core",TRUE
+"маска",0.59375,1,"Grigoriev2026_cmp_Soloviev2022_500",2.017857143,"mask","core",TRUE
+"награда",0.59375,1,"Grigoriev2026_cmp_Soloviev2022_500",2.017857143,"reward; award","core",TRUE
+"брак",0.591942148760331,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.357142857,"marriage; defect, flaw (manufacturing)","core",TRUE
+"спорт",0.591942148760331,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.357142857,"sport","core",TRUE
+"хвост",0.591942148760331,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.357142857,"tail; queue","core",TRUE
+"спектакль",0.590746479951025,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.007751938,"play; performance","core",TRUE
+"подпорка",0.590740740740741,1,"Grigoriev2026_cmp_Grigoriev2022",5.727272727,"prop; support","core",TRUE
+"униформа",0.590740740740741,1,"Grigoriev2026_cmp_Grigoriev2022",5.727272727,"uniform","core",TRUE
+"шерсть",0.590740740740741,1,"Grigoriev2026_cmp_Grigoriev2022",5.727272727,"wool; fur; hair","core",TRUE
+"исследователь",0.59051724137931,1,"Grigoriev2026_cmp_Soloviev2022_500",2.032786885,"researcher","core",TRUE
+"ужин",0.589012611749681,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",3.88030303,"dinner; supper","core",TRUE
+"вирус",0.588842975206612,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.358490566,"virus","core",TRUE
+"звезда",0.588842975206612,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.358490566,"star","core",TRUE
+"прибор",0.588801085568327,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",3.905882353,"device","core",TRUE
+"отпуск",0.587284482758621,1,"Grigoriev2026_cmp_Soloviev2022_500",2.033333333,"vacation; leave","core",TRUE
+"товар",0.586776859504132,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.361702128,"goods; commodity","core",TRUE
+"грязь",0.58610312899106,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",4.1166666665,"dirt, mud","core",TRUE
+"век",0.584710743801653,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.363636364,"century; age; lifetime","core",TRUE
+"суд",0.584710743801653,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.363636364,"court; ship; vessel","core",TRUE
+"театр",0.584710743801653,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.363636364,"theater","core",TRUE
+"колонна",0.582974137931034,1,"Grigoriev2026_cmp_Soloviev2022_500",2.05,"column, pillar; convoy","core",TRUE
+"прибыль",0.582974137931034,1,"Grigoriev2026_cmp_Soloviev2022_500",2.05,"profit","core",TRUE
+"продукт",0.582644628099174,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.365384615,"product","core",TRUE
+"факт",0.581611570247934,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.375,"fact","core",TRUE
+"поверхность",0.580578512396694,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.377358491,"surface","core",TRUE
+"концерт",0.579545454545455,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.384615385,"concert","core",TRUE
+"присяга",0.578703703703704,1,"Grigoriev2026_cmp_Grigoriev2022",5.666666667,"oath","core",TRUE
+"резина",0.578703703703704,1,"Grigoriev2026_cmp_Grigoriev2022",5.666666667,"rubber; tire","core",TRUE
+"приятель",0.577995867768595,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.387755102,"friend","core",TRUE
+"сказка",0.577995867768595,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.387755102,"fairy tale; story","core",TRUE
+"контракт",0.577586206896552,1,"Grigoriev2026_cmp_Soloviev2022_500",2.058823529,"contract","core",TRUE
+"кадр",0.575929752066116,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.391304348,"frame; personnel","core",TRUE
+"эксперт",0.575929752066116,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.391304348,"expert","core",TRUE
+"сообщение",0.57550887664524,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.03125,"message; report; communication","core",TRUE
+"граф",0.575431034482759,1,"Grigoriev2026_cmp_Soloviev2022_500",2.06557377,"count (nobility); graph","core",TRUE
+"металл",0.574380165289256,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.392857143,"metal","core",TRUE
+"папин",0.574074074074074,1,"Grigoriev2026_cmp_Grigoriev2022",5.642857143,"dad's","core",TRUE
+"заказчик",0.573275862068966,1,"Grigoriev2026_cmp_Soloviev2022_500",2.066666667,"customer, client","core",TRUE
+"коллега",0.572314049586777,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.395833333,"colleague","core",TRUE
+"подарок",0.572314049586777,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.395833333,"gift","core",TRUE
+"партия",0.569731404958678,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.396226415,"party; batch","core",TRUE
+"бараний",0.569444444444444,1,"Grigoriev2026_cmp_Grigoriev2022",5.636363636,"ram's, mutton","core",TRUE
+"долина",0.569444444444444,1,"Grigoriev2026_cmp_Grigoriev2022",5.636363636,"valley","core",TRUE
+"покупка",0.568965517241379,1,"Grigoriev2026_cmp_Soloviev2022_500",2.083333333,"purchase","core",TRUE
+"тема",0.567665289256198,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.4,"theme; topic","core",TRUE
+"шаг",0.567665289256198,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.4,"step, pace","core",TRUE
+"доля",0.566115702479339,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.404255319,"share, portion; fate","core",TRUE
+"вооружение",0.56573275862069,1,"Grigoriev2026_cmp_Soloviev2022_500",2.1,"armament, weapons","core",TRUE
+"фестиваль",0.56573275862069,1,"Grigoriev2026_cmp_Soloviev2022_500",2.1,"festival","core",TRUE
+"имя",0.56404958677686,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.409090909,"name","core",TRUE
+"краска",0.56301652892562,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.410714286,"paint; dye","core",TRUE
+"судорога",0.562962962962963,1,"Grigoriev2026_cmp_Grigoriev2022",5.611111111,"convulsion; cramp","core",TRUE
+"протокол",0.5625,1,"Grigoriev2026_cmp_Soloviev2022_500",2.116666667,"protocol","core",TRUE
+"владелец",0.56198347107438,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.413043478,"owner","core",TRUE
+"наука",0.560433884297521,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.41509434,"science","core",TRUE
+"разговор",0.560433884297521,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.41509434,"conversation","core",TRUE
+"копия",0.560344827586207,1,"Grigoriev2026_cmp_Soloviev2022_500",2.118644068,"copy","core",TRUE
+"имущество",0.558367768595041,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.415384615,"property, assets","core",TRUE
+"фронт",0.558367768595041,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.415384615,"front (military, weather)","core",TRUE
+"лихорадка",0.557407407407407,1,"Grigoriev2026_cmp_Grigoriev2022",5.6,"fever","core",TRUE
+"тропа",0.557407407407407,1,"Grigoriev2026_cmp_Grigoriev2022",5.6,"path; trail","core",TRUE
+"образец",0.556818181818182,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.416666667,"sample; model","core",TRUE
+"экземпляр",0.556034482758621,1,"Grigoriev2026_cmp_Soloviev2022_500",2.142857143,"copy, specimen, sample","core",TRUE
+"друг",0.554235537190083,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.425,"friend; other","core",TRUE
+"пример",0.554235537190083,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.425,"example","core",TRUE
+"работа",0.554235537190083,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.425,"work","core",TRUE
+"товарищ",0.554235537190083,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.425,"comrade; friend","core",TRUE
+"потребитель",0.552801724137931,1,"Grigoriev2026_cmp_Soloviev2022_500",2.15,"consumer","core",TRUE
+"сектор",0.552801724137931,1,"Grigoriev2026_cmp_Soloviev2022_500",2.15,"sector","core",TRUE
+"кружение",0.552777777777778,1,"Grigoriev2026_cmp_Grigoriev2022",5.555555556,"whirling; circling","core",TRUE
+"нарыв",0.552777777777778,1,"Grigoriev2026_cmp_Grigoriev2022",5.555555556,"abscess; boil","core",TRUE
+"отдел",0.551652892561983,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.425531915,"department","core",TRUE
+"опера",0.549568965517241,1,"Grigoriev2026_cmp_Soloviev2022_500",2.160714286,"opera","core",TRUE
+"еда",0.549070247933884,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.428571429,"food","core",TRUE
+"конструкция",0.549070247933884,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.428571429,"construction; design, structure","core",TRUE
+"поколение",0.549070247933884,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.428571429,"generation","core",TRUE
+"фраза",0.549070247933884,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.428571429,"phrase; sentence","core",TRUE
+"доход",0.545454545454545,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.433962264,"income, revenue","core",TRUE
+"цена",0.545454545454545,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.433962264,"price; cost","core",TRUE
+"отблеск",0.54537037037037,1,"Grigoriev2026_cmp_Grigoriev2022",5.545454545,"glint","core",TRUE
+"строфа",0.54537037037037,1,"Grigoriev2026_cmp_Grigoriev2022",5.545454545,"stanza","core",TRUE
+"месторождение",0.544181034482759,1,"Grigoriev2026_cmp_Soloviev2022_500",2.166666667,"deposit (geological)","core",TRUE
+"остановка",0.544181034482759,1,"Grigoriev2026_cmp_Soloviev2022_500",2.166666667,"stop","core",TRUE
+"плод",0.544181034482759,1,"Grigoriev2026_cmp_Soloviev2022_500",2.166666667,"fruit","core",TRUE
+"шеф",0.544181034482759,1,"Grigoriev2026_cmp_Soloviev2022_500",2.166666667,"chief, boss; patron","core",TRUE
+"законодательство",0.541838842975207,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.4375,"legislation","core",TRUE
+"канал",0.541838842975207,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.4375,"canal; channel","core",TRUE
+"картина",0.541838842975207,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.4375,"picture, painting","core",TRUE
+"ноябрь",0.541838842975207,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.4375,"november","core",TRUE
+"предмет",0.541360575451485,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.157364341,"object / subject","core",TRUE
+"комитет",0.539937251300888,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.769811321,"committee","core",TRUE
+"оборудование",0.539256198347107,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.446153846,"equipment","core",TRUE
+"квартал",0.538793103448276,1,"Grigoriev2026_cmp_Soloviev2022_500",2.169491525,"quarter (district)","core",TRUE
+"воздух",0.537706611570248,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.45,"air","core",TRUE
+"вопрос",0.537706611570248,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.45,"question","core",TRUE
+"бюджет",0.537542087542088,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.9503144655,"budget","core",TRUE
+"маршрут",0.536637931034483,1,"Grigoriev2026_cmp_Soloviev2022_500",2.178571429,"route","core",TRUE
+"помощник",0.536157024793388,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.452380952,"assistant","core",TRUE
+"жилище",0.536111111111111,1,"Grigoriev2026_cmp_Grigoriev2022",5.533333333,"dwelling, home","core",TRUE
+"класть",0.536111111111111,1,"Grigoriev2026_cmp_Grigoriev2022",5.533333333,"to put, to place","core",TRUE
+"тренировка",0.536111111111111,1,"Grigoriev2026_cmp_Grigoriev2022",5.533333333,"training; workout","core",TRUE
+"материал",0.534607438016529,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.452830189,"material","core",TRUE
+"ночь",0.533612641567187,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.1734848485,"night","core",TRUE
+"гонка",0.533405172413793,1,"Grigoriev2026_cmp_Soloviev2022_500",2.183333333,"race","core",TRUE
+"подпись",0.533405172413793,1,"Grigoriev2026_cmp_Soloviev2022_500",2.183333333,"signature","core",TRUE
+"интервью",0.533105842911877,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",3.9765151515,"interview","core",TRUE
+"блок",0.53254132231405,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.458333333,"block; unit; pulley; bloc (political)","core",TRUE
+"знакомый",0.53254132231405,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.458333333,"familiar, acquainted","core",TRUE
+"ветер",0.53099173553719,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.461538462,"wind","core",TRUE
+"арест",0.530172413793103,1,"Grigoriev2026_cmp_Soloviev2022_500",2.2,"arrest, detention","core",TRUE
+"регион",0.52995867768595,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.465116279,"region","core",TRUE
+"звон",0.52962962962963,1,"Grigoriev2026_cmp_Grigoriev2022",5.466666667,"ringing, chime","core",TRUE
+"кромка",0.52962962962963,1,"Grigoriev2026_cmp_Grigoriev2022",5.466666667,"edge; selvedge","core",TRUE
+"строка",0.528925619834711,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.469387755,"line; string (computing)","core",TRUE
+"поле",0.528895010713193,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.4963235295,"field","core",TRUE
+"метод",0.527892561983471,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.475,"method","core",TRUE
+"вечер",0.527412381389654,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.409090909,"evening","core",TRUE
+"замок",0.526342975206612,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.476190476,"lock; castle","core",TRUE
+"полоса",0.526342975206612,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.476190476,"stripe","core",TRUE
+"архитектура",0.525862068965517,1,"Grigoriev2026_cmp_Soloviev2022_500",2.214285714,"architecture","core",TRUE
+"сооружение",0.525862068965517,1,"Grigoriev2026_cmp_Soloviev2022_500",2.214285714,"structure; construction","core",TRUE
+"чемпион",0.525862068965517,1,"Grigoriev2026_cmp_Soloviev2022_500",2.214285714,"champion","core",TRUE
+"глухой",0.525,1,"Grigoriev2026_cmp_Grigoriev2022",5.454545455,"deaf; dull (sound)","core",TRUE
+"набросок",0.525,1,"Grigoriev2026_cmp_Grigoriev2022",5.454545455,"sketch; outline","core",TRUE
+"кусок",0.523760330578512,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.479166667,"piece; chunk","core",TRUE
+"население",0.523760330578512,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.479166667,"population","core",TRUE
+"зрение",0.523572849709213,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.7185314685,"eyesight, vision","core",TRUE
+"этап",0.521694214876033,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.489361702,"stage, phase","core",TRUE
+"агент",0.521551724137931,1,"Grigoriev2026_cmp_Soloviev2022_500",2.216666667,"agent","core",TRUE
+"жертва",0.521139424548515,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.9618055555,"victim, sacrifice","core",TRUE
+"заявление",0.520689853076217,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.4943396225,"statement, application","core",TRUE
+"пыль",0.520661157024793,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.489795918,"dust","core",TRUE
+"счёт",0.519628099173554,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.490566038,"score; bill; account","core",TRUE
+"оператор",0.519396551724138,1,"Grigoriev2026_cmp_Soloviev2022_500",2.233333333,"operator","core",TRUE
+"собственность",0.518595041322314,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.492307692,"property","core",TRUE
+"женитьба",0.518518518518518,1,"Grigoriev2026_cmp_Grigoriev2022",5.444444444,"marriage (for a man)","core",TRUE
+"укус",0.518518518518518,1,"Grigoriev2026_cmp_Grigoriev2022",5.444444444,"bite; sting","core",TRUE
+"горизонт",0.517241379310345,1,"Grigoriev2026_cmp_Soloviev2022_500",2.237288136,"horizon","core",TRUE
+"взрыв",0.516528925619835,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.5,"explosion, blast","core",TRUE
+"дорога",0.516528925619835,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.5,"road","core",TRUE
+"исследование",0.516528925619835,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.5,"research, study","core",TRUE
+"адрес",0.514462809917355,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.507692308,"address","core",TRUE
+"строение",0.514008620689655,1,"Grigoriev2026_cmp_Soloviev2022_500",2.25,"structure; building","core",TRUE
+"четверть",0.514008620689655,1,"Grigoriev2026_cmp_Soloviev2022_500",2.25,"quarter","core",TRUE
+"механизм",0.513429752066116,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.509433962,"mechanism","core",TRUE
+"результат",0.512853917967554,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.488888889,"result","core",TRUE
+"изделие",0.511363636363636,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.510204082,"product, article, item (a manufactured object)","core",TRUE
+"ресурс",0.511363636363636,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.510204082,"resource","core",TRUE
+"сочинение",0.511363636363636,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.510204082,"composition; essay; writing","core",TRUE
+"анекдот",0.510775862068966,1,"Grigoriev2026_cmp_Soloviev2022_500",2.267857143,"joke, anecdote","core",TRUE
+"выборы",0.509297520661157,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.510638298,"elections","core",TRUE
+"правительство",0.508773339455158,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.7125786165,"government","core",TRUE
+"задание",0.508620689655172,1,"Grigoriev2026_cmp_Soloviev2022_500",2.294117647,"task, assignment","core",TRUE
+"зубец",0.508333333333333,1,"Grigoriev2026_cmp_Grigoriev2022",5.363636364,"prong, cog, spike","core",TRUE
+"извещение",0.508333333333333,1,"Grigoriev2026_cmp_Grigoriev2022",5.363636364,"notification, notice","core",TRUE
+"поединок",0.508333333333333,1,"Grigoriev2026_cmp_Grigoriev2022",5.363636364,"duel","core",TRUE
+"узор",0.508333333333333,1,"Grigoriev2026_cmp_Grigoriev2022",5.363636364,"pattern; design","core",TRUE
+"поставка",0.508141762452107,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",3.3416666665,"supply","core",TRUE
+"деталь",0.506198347107438,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.520833333,"detail","core",TRUE
+"пост",0.506198347107438,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.520833333,"post / fasting","core",TRUE
+"учреждение",0.506198347107438,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.520833333,"institution; establishment","core",TRUE
+"отъезд",0.504310344827586,1,"Grigoriev2026_cmp_Soloviev2022_500",2.305084746,"departure","core",TRUE
+"профессия",0.503615702479339,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.523809524,"profession","core",TRUE
+"штат",0.503615702479339,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.523809524,"state (us); staff, personnel","core",TRUE
+"долг",0.501549586776859,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.530612245,"debt; duty","core",TRUE
+"субъект",0.501549586776859,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.530612245,"subject; individual (often pejorative)","core",TRUE
+"пресса",0.501077586206897,1,"Grigoriev2026_cmp_Soloviev2022_500",2.307189542,"press (media)","core",TRUE
+"сценарий",0.501077586206897,1,"Grigoriev2026_cmp_Soloviev2022_500",2.307189542,"scenario; script","core",TRUE
+"погода",0.499202249770432,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.0727891155,"weather","core",TRUE
+"праздник",0.498611111111111,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.9326241135,"holiday","core",TRUE
+"процент",0.49845041322314,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.534883721,"percent","core",TRUE
+"формула",0.49845041322314,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.534883721,"formula","core",TRUE
+"возраст",0.49811371288644,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.8985042735,"age","core",TRUE
+"объявление",0.497222222222222,1,"Grigoriev2026_cmp_Grigoriev2022",5.333333333,"announcement; advertisement","core",TRUE
+"пожилой",0.497222222222222,1,"Grigoriev2026_cmp_Grigoriev2022",5.333333333,"elderly","core",TRUE
+"приглашение",0.497222222222222,1,"Grigoriev2026_cmp_Grigoriev2022",5.333333333,"invitation","core",TRUE
+"съёмка",0.49676724137931,1,"Grigoriev2026_cmp_Soloviev2022_500",2.316666667,"filming; shooting; survey","core",TRUE
+"лекарство",0.496567688378033,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",3.30530303,"medicine; drug","core",TRUE
+"охрана",0.496384297520661,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.538461538,"security; protection","core",TRUE
+"молитва",0.49512741046832,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.9675324675,"prayer","core",TRUE
+"площадка",0.494318181818182,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.541666667,"platform; site","core",TRUE
+"реклама",0.494318181818182,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.541666667,"advertisement; commercial","core",TRUE
+"проза",0.493534482758621,1,"Grigoriev2026_cmp_Soloviev2022_500",2.321428571,"prose","core",TRUE
+"вершина",0.492768595041322,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.543478261,"peak, summit, apex","core",TRUE
+"правило",0.491219008264463,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.547169811,"rule","core",TRUE
+"точка",0.491219008264463,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.547169811,"point; dot; period","core",TRUE
+"фырканье",0.490740740740741,1,"Grigoriev2026_cmp_Grigoriev2022",5.285714286,"snorting","core",TRUE
+"объект",0.489669421487603,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.55,"object","core",TRUE
+"инвестиция",0.489224137931034,1,"Grigoriev2026_cmp_Soloviev2022_500",2.333333333,"investment","core",TRUE
+"болезнь",0.488636363636364,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.553191489,"illness, disease","core",TRUE
+"запад",0.487603305785124,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.553846154,"west","core",TRUE
+"вещество",0.485537190082645,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.558139535,"substance, matter","core",TRUE
+"мороз",0.484913793103448,1,"Grigoriev2026_cmp_Soloviev2022_500",2.35,"frost","core",TRUE
+"представитель",0.484504132231405,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.5625,"representative","core",TRUE
+"ответ",0.483471074380165,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.566037736,"answer","core",TRUE
+"морда",0.482758620689655,1,"Grigoriev2026_cmp_Soloviev2022_500",2.357142857,"muzzle; face (colloquial)","core",TRUE
+"пытка",0.482407407407407,1,"Grigoriev2026_cmp_Grigoriev2022",5.266666667,"torture","core",TRUE
+"цвести",0.482407407407407,1,"Grigoriev2026_cmp_Grigoriev2022",5.266666667,"to bloom; to flourish (imperf.)","core",TRUE
+"поворот",0.481921487603306,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.571428571,"turn","core",TRUE
+"совещание",0.480603448275862,1,"Grigoriev2026_cmp_Soloviev2022_500",2.366666667,"meeting; conference","core",TRUE
+"дом",0.479338842975207,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.575,"house, home","core",TRUE
+"проект",0.479338842975207,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.575,"project","core",TRUE
+"ведомство",0.477278895274585,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",3.838235294,"agency, department","core",TRUE
+"удар",0.477272727272727,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.581171735,"blow; strike; impact","core",TRUE
+"авиация",0.476293103448276,1,"Grigoriev2026_cmp_Soloviev2022_500",2.383333333,"aviation, air force","core",TRUE
+"заведение",0.476293103448276,1,"Grigoriev2026_cmp_Soloviev2022_500",2.383333333,"establishment, institution","core",TRUE
+"указ",0.476293103448276,1,"Grigoriev2026_cmp_Soloviev2022_500",2.383333333,"decree; edict","core",TRUE
+"устройство",0.475883838383838,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.980620155,"device; arrangement; structure","core",TRUE
+"команда",0.475206611570248,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.583333333,"team; command","core",TRUE
+"граница",0.474447122742577,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.4217054265,"border, boundary","core",TRUE
+"корень",0.473657024793388,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.586956522,"root","core",TRUE
+"серия",0.473657024793388,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.586956522,"series","core",TRUE
+"ветвь",0.47198275862069,1,"Grigoriev2026_cmp_Soloviev2022_500",2.389830508,"branch (tree, family, science)","core",TRUE
+"группа",0.471590909090909,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.590909091,"group","core",TRUE
+"утро",0.471590909090909,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.590909091,"morning","core",TRUE
+"исповедь",0.47037037037037,1,"Grigoriev2026_cmp_Grigoriev2022",5.2,"confession","core",TRUE
+"клятва",0.47037037037037,1,"Grigoriev2026_cmp_Grigoriev2022",5.2,"oath, vow","core",TRUE
+"минерал",0.47037037037037,1,"Grigoriev2026_cmp_Grigoriev2022",5.2,"mineral","core",TRUE
+"оттенок",0.47037037037037,1,"Grigoriev2026_cmp_Grigoriev2022",5.2,"shade; nuance","core",TRUE
+"приспособление",0.47037037037037,1,"Grigoriev2026_cmp_Grigoriev2022",5.2,"device / adaptation","core",TRUE
+"чемпионат",0.47004132231405,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.591836735,"championship","core",TRUE
+"кампания",0.469827586206897,1,"Grigoriev2026_cmp_Soloviev2022_500",2.392156863,"campaign; company (business)","core",TRUE
+"начальство",0.46900826446281,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.595238095,"authorities; management","core",TRUE
+"собрание",0.46797520661157,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.595744681,"meeting; collection","core",TRUE
+"строительство",0.466942148760331,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.596153846,"construction","core",TRUE
+"дата",0.466594827586207,1,"Grigoriev2026_cmp_Soloviev2022_500",2.39869281,"date","core",TRUE
+"институт",0.465909090909091,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.6,"institute","core",TRUE
+"рост",0.465870829507193,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.084722222,"growth; height","core",TRUE
+"движение",0.464359504132231,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.603773585,"movement","core",TRUE
+"затрата",0.462293388429752,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.612244898,"expense, expenditure","core",TRUE
+"режиссёрский",0.462037037037037,1,"Grigoriev2026_cmp_Grigoriev2022",5.181818182,"directorial","core",TRUE
+"жест",0.460129310344828,1,"Grigoriev2026_cmp_Soloviev2022_500",2.4,"gesture","core",TRUE
+"знакомство",0.460129310344828,1,"Grigoriev2026_cmp_Soloviev2022_500",2.4,"acquaintance; familiarity","core",TRUE
+"интернет",0.460129310344828,1,"Grigoriev2026_cmp_Soloviev2022_500",2.4,"internet","core",TRUE
+"персонаж",0.460129310344828,1,"Grigoriev2026_cmp_Soloviev2022_500",2.4,"character","core",TRUE
+"зона",0.459710743801653,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.617021277,"zone, area","core",TRUE
+"отходы",0.458333333333333,1,"Grigoriev2026_cmp_Grigoriev2022",5.166666667,"waste","core",TRUE
+"правонарушение",0.458333333333333,1,"Grigoriev2026_cmp_Grigoriev2022",5.166666667,"offense","core",TRUE
+"техника",0.458161157024793,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.622641509,"technique; technology; equipment","core",TRUE
+"транспорт",0.456095041322314,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.625,"transport","core",TRUE
+"чтение",0.456095041322314,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.625,"reading","core",TRUE
+"аппарат",0.455599556167738,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.769230769,"apparatus, device; management; phone","core",TRUE
+"ссылка",0.454741379310345,1,"Grigoriev2026_cmp_Soloviev2022_500",2.406779661,"link; reference; exile","core",TRUE
+"повесть",0.454617656449553,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",3.8075757575,"story; tale","core",TRUE
+"редакция",0.453512396694215,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.630769231,"editorial office; edition (of text)","core",TRUE
+"территория",0.452969084787267,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.2430555555,"territory","core",TRUE
+"осмотр",0.452777777777778,1,"Grigoriev2026_cmp_Grigoriev2022",5.133333333,"inspection","core",TRUE
+"поздравление",0.452777777777778,1,"Grigoriev2026_cmp_Grigoriev2022",5.133333333,"congratulation","core",TRUE
+"хронология",0.452777777777778,1,"Grigoriev2026_cmp_Grigoriev2022",5.133333333,"chronology","core",TRUE
+"вклад",0.452586206896552,1,"Grigoriev2026_cmp_Soloviev2022_500",2.416666667,"deposit; contribution","core",TRUE
+"компания",0.452479338842975,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.636363636,"company","core",TRUE
+"боль",0.450929752066116,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.638297872,"pain; ache","core",TRUE
+"вывод",0.450929752066116,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.638297872,"conclusion; output; removal","core",TRUE
+"суббота",0.450431034482759,1,"Grigoriev2026_cmp_Soloviev2022_500",2.426229508,"saturday","core",TRUE
+"комиссия",0.448347107438017,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.641509434,"commission; committee","core",TRUE
+"смерть",0.448347107438017,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.641509434,"death","core",TRUE
+"фонд",0.448347107438017,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.641509434,"fund; foundation","core",TRUE
+"снабжение",0.447222222222222,1,"Grigoriev2026_cmp_Grigoriev2022",5.111111111,"supply; provisioning","core",TRUE
+"выстрел",0.447198275862069,1,"Grigoriev2026_cmp_Soloviev2022_500",2.433333333,"shot, gunfire","core",TRUE
+"конкурс",0.445764462809917,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.645833333,"contest; competition","core",TRUE
+"урок",0.445764462809917,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.645833333,"lesson","core",TRUE
+"тип",0.444214876033058,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.65,"type","core",TRUE
+"заболевание",0.442887931034483,1,"Grigoriev2026_cmp_Soloviev2022_500",2.45,"illness, disease","core",TRUE
+"финансирование",0.442887931034483,1,"Grigoriev2026_cmp_Soloviev2022_500",2.45,"financing; funding","core",TRUE
+"единица",0.442148760330579,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.653061224,"unit; one","core",TRUE
+"чёрт",0.441115702479339,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.659574468,"devil","core",TRUE
+"авария",0.440740740740741,1,"Grigoriev2026_cmp_Grigoriev2022",5.090909091,"accident, breakdown, crash","core",TRUE
+"лак",0.440740740740741,1,"Grigoriev2026_cmp_Grigoriev2022",5.090909091,"lacquer; varnish","core",TRUE
+"доступ",0.439655172413793,1,"Grigoriev2026_cmp_Soloviev2022_500",2.457627119,"access","core",TRUE
+"высота",0.43853305785124,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.660377358,"height, altitude","core",TRUE
+"глубина",0.43853305785124,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.660377358,"depth","core",TRUE
+"победа",0.43853305785124,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.660377358,"victory","core",TRUE
+"ряд",0.43853305785124,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.660377358,"row; series; a number of","core",TRUE
+"произведение",0.43595041322314,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.661538462,"work (of art)","core",TRUE
+"иск",0.435344827586207,1,"Grigoriev2026_cmp_Soloviev2022_500",2.466666667,"lawsuit; spark (archaic)","core",TRUE
+"колхоз",0.435344827586207,1,"Grigoriev2026_cmp_Soloviev2022_500",2.466666667,"kolkhoz (collective farm)","core",TRUE
+"справка",0.435344827586207,1,"Grigoriev2026_cmp_Soloviev2022_500",2.466666667,"certificate; reference; inquiry","core",TRUE
+"зреть",0.435185185185185,1,"Grigoriev2026_cmp_Grigoriev2022",5.071428571,"to ripen; to mature; to look on (imperf.)","core",TRUE
+"печать",0.434400826446281,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.666666667,"seal; printing","core",TRUE
+"публика",0.434400826446281,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.666666667,"public / audience","core",TRUE
+"предложение",0.432851239669421,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.673076923,"offer / sentence","core",TRUE
+"торговля",0.431818181818182,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.673913043,"trade; commerce","core",TRUE
+"коллекция",0.431034482758621,1,"Grigoriev2026_cmp_Soloviev2022_500",2.475409836,"collection","core",TRUE
+"издание",0.430785123966942,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.674418605,"publication, edition","core",TRUE
+"сумма",0.429235537190083,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.679245283,"sum; amount","core",TRUE
+"центр",0.429235537190083,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.679245283,"center","core",TRUE
+"визит",0.428879310344828,1,"Grigoriev2026_cmp_Soloviev2022_500",2.477124183,"visit","core",TRUE
+"волчий",0.428703703703704,1,"Grigoriev2026_cmp_Grigoriev2022",5.066666667,"wolf","core",TRUE
+"гектар",0.428703703703704,1,"Grigoriev2026_cmp_Grigoriev2022",5.066666667,"hectare","core",TRUE
+"приданое",0.428703703703704,1,"Grigoriev2026_cmp_Grigoriev2022",5.066666667,"dowry","core",TRUE
+"уведомление",0.428703703703704,1,"Grigoriev2026_cmp_Grigoriev2022",5.066666667,"notification","core",TRUE
+"прием",0.427685950413223,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.680851064,"reception","core",TRUE
+"отражение",0.426724137931034,1,"Grigoriev2026_cmp_Soloviev2022_500",2.482142857,"reflection","core",TRUE
+"район",0.426652892561983,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.6875,"district","core",TRUE
+"смена",0.425619834710744,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.695652174,"shift; change; replacement","core",TRUE
+"компонент",0.424568965517241,1,"Grigoriev2026_cmp_Soloviev2022_500",2.483333333,"component","core",TRUE
+"итог",0.423553719008264,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.698113208,"result, total","core",TRUE
+"передача",0.423553719008264,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.698113208,"transmission; broadcast","core",TRUE
+"хозяйство",0.423553719008264,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.698113208,"economy; household; farm","core",TRUE
+"оборона",0.422423094582186,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.5041666665,"defense","core",TRUE
+"телевидение",0.422413793103448,1,"Grigoriev2026_cmp_Soloviev2022_500",2.496732026,"television","core",TRUE
+"игра",0.421487603305785,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.7,"game, play","core",TRUE
+"весна",0.419938016528926,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.707692308,"spring (season)","core",TRUE
+"переход",0.419938016528926,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.707692308,"transition; crossing","core",TRUE
+"молчание",0.418498563218391,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",4.1234848485,"silence","core",TRUE
+"гибель",0.418103448275862,1,"Grigoriev2026_cmp_Soloviev2022_500",2.529411765,"death, destruction","core",TRUE
+"знак",0.417355371900826,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.716981132,"sign, mark","core",TRUE
+"масса",0.417355371900826,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.716981132,"mass; bulk","core",TRUE
+"сеть",0.417355371900826,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.716981132,"net; network","core",TRUE
+"добыча",0.416491060025543,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",3.878787879,"production, extraction; prey","core",TRUE
+"полчаса",0.415948275862069,1,"Grigoriev2026_cmp_Soloviev2022_500",2.557377049,"half an hour","core",TRUE
+"сон",0.415289256198347,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.720930233,"sleep; dream","core",TRUE
+"агрессор",0.414814814814815,1,"Grigoriev2026_cmp_Grigoriev2022",5,"aggressor","core",TRUE
+"волшебник",0.414814814814815,1,"Grigoriev2026_cmp_Grigoriev2022",5,"wizard, magician","core",TRUE
+"изобретение",0.414814814814815,1,"Grigoriev2026_cmp_Grigoriev2022",5,"invention","core",TRUE
+"крупица",0.414814814814815,1,"Grigoriev2026_cmp_Grigoriev2022",5,"fraction, particle, speck","core",TRUE
+"мусор",0.414814814814815,1,"Grigoriev2026_cmp_Grigoriev2022",5,"garbage; trash","core",TRUE
+"мыть",0.414814814814815,1,"Grigoriev2026_cmp_Grigoriev2022",5,"to wash (imperf.)","core",TRUE
+"стадо",0.414814814814815,1,"Grigoriev2026_cmp_Grigoriev2022",5,"herd; flock","core",TRUE
+"фея",0.414814814814815,1,"Grigoriev2026_cmp_Grigoriev2022",5,"fairy","core",TRUE
+"земля",0.413223140495868,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.725,"earth; soil; land","core",TRUE
+"система",0.413223140495868,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.725,"system","core",TRUE
+"критерий",0.412715517241379,1,"Grigoriev2026_cmp_Soloviev2022_500",2.566666667,"criterion","core",TRUE
+"обмен",0.412715517241379,1,"Grigoriev2026_cmp_Soloviev2022_500",2.566666667,"exchange","core",TRUE
+"производство",0.411748163452709,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.459748428,"production","core",TRUE
+"слух",0.409607438016529,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.729166667,"hearing; rumor","core",TRUE
+"сотня",0.409607438016529,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.729166667,"hundred; century (historical)","core",TRUE
+"температура",0.409607438016529,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.729166667,"temperature","core",TRUE
+"термин",0.40948275862069,1,"Grigoriev2026_cmp_Soloviev2022_500",2.588235294,"term","core",TRUE
+"любитель",0.407327586206897,1,"Grigoriev2026_cmp_Soloviev2022_500",2.593220339,"amateur; lover (of)","core",TRUE
+"курс",0.40702479338843,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.730769231,"course; rate; trend","core",TRUE
+"остаток",0.40599173553719,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.734693878,"remainder","core",TRUE
+"учёт",0.40495867768595,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.735849057,"accounting; registration","core",TRUE
+"лидер",0.403925619834711,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.738461538,"leader","core",TRUE
+"приготовление",0.403703703703704,1,"Grigoriev2026_cmp_Grigoriev2022",4.944444444,"preparation","core",TRUE
+"уклон",0.403703703703704,1,"Grigoriev2026_cmp_Grigoriev2022",4.944444444,"slope; inclination; evasion","core",TRUE
+"музыка",0.403041781450872,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.99375,"music","core",TRUE
+"марка",0.40301724137931,1,"Grigoriev2026_cmp_Soloviev2022_500",2.6,"stamp; brand; make","core",TRUE
+"свидетельство",0.40301724137931,1,"Grigoriev2026_cmp_Soloviev2022_500",2.6,"certificate; testimony","core",TRUE
+"обучение",0.402376033057851,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.739130435,"training; education","core",TRUE
+"процедура",0.402376033057851,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.739130435,"procedure","core",TRUE
+"господин",0.400309917355372,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.744186047,"mister, lord, master","core",TRUE
+"название",0.400309917355372,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.744186047,"name; title","core",TRUE
+"детство",0.398760330578512,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.744680851,"childhood","extended",FALSE
+"край",0.397539791857974,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.605681818,"edge; region; brink","extended",FALSE
+"дума",0.396694214876033,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.75,"thought; duma (parliament)","extended",FALSE
+"организация",0.396694214876033,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.75,"organization","extended",FALSE
+"очередь",0.396694214876033,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.75,"line; queue","extended",FALSE
+"биология",0.396296296296296,1,"Grigoriev2026_cmp_Grigoriev2022",4.933333333,"biology","extended",FALSE
+"рифма",0.396296296296296,1,"Grigoriev2026_cmp_Grigoriev2022",4.933333333,"rhyme","extended",FALSE
+"хлам",0.396296296296296,1,"Grigoriev2026_cmp_Grigoriev2022",4.933333333,"junk; rubbish","extended",FALSE
+"звание",0.395474137931034,1,"Grigoriev2026_cmp_Soloviev2022_500",2.633333333,"rank, title","extended",FALSE
+"свадьба",0.395474137931034,1,"Grigoriev2026_cmp_Soloviev2022_500",2.633333333,"wedding","extended",FALSE
+"нарушение",0.394628099173554,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.755102041,"violation; infringement","extended",FALSE
+"эксперимент",0.393595041322314,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.761904762,"experiment","extended",FALSE
+"поездка",0.392561983471074,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.770833333,"trip","extended",FALSE
+"реформа",0.391012396694215,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.773584906,"reform","extended",FALSE
+"речь",0.391012396694215,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.773584906,"speech; language","extended",FALSE
+"разрушение",0.390740740740741,1,"Grigoriev2026_cmp_Grigoriev2022",4.909090909,"destruction","extended",FALSE
+"быт",0.390086206896552,1,"Grigoriev2026_cmp_Soloviev2022_500",2.677966102,"daily life, everyday existence","extended",FALSE
+"слово",0.389462809917355,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.775,"word","extended",FALSE
+"численность",0.387931034482759,1,"Grigoriev2026_cmp_Soloviev2022_500",2.678571429,"numerical strength, size (of population)","extended",FALSE
+"бизнес",0.387396694214876,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.788461538,"business","extended",FALSE
+"пара",0.386363636363636,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.790697674,"pair","extended",FALSE
+"пауза",0.385775862068966,1,"Grigoriev2026_cmp_Soloviev2022_500",2.679738562,"pause","extended",FALSE
+"циркон",0.385185185185185,1,"Grigoriev2026_cmp_Grigoriev2022",4.875,"zircon","extended",FALSE
+"сделка",0.384955616773799,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.8210884355,"deal; transaction","extended",FALSE
+"дурак",0.384814049586777,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.791666667,"fool","extended",FALSE
+"смех",0.384814049586777,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.791666667,"laughter","extended",FALSE
+"источник",0.382747933884298,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.79245283,"source, spring","extended",FALSE
+"продукция",0.382747933884298,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.79245283,"produce / output","extended",FALSE
+"смесь",0.381465517241379,1,"Grigoriev2026_cmp_Soloviev2022_500",2.68852459,"mixture; blend","extended",FALSE
+"съезд",0.381198347107438,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.795918367,"congress; departure; exit","extended",FALSE
+"задача",0.380236072849709,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.1981132075,"problem, task","extended",FALSE
+"срок",0.379648760330579,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.8,"term; period; deadline","extended",FALSE
+"ущерб",0.379310344827586,1,"Grigoriev2026_cmp_Soloviev2022_500",2.696428571,"damage; loss","extended",FALSE
+"распоряжение",0.379110791826309,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",3.625074272,"order","extended",FALSE
+"акт",0.378099173553719,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.808510638,"act, deed; certificate; act (in a play)","extended",FALSE
+"отсвет",0.377777777777778,1,"Grigoriev2026_cmp_Grigoriev2022",4.857142857,"reflected light","extended",FALSE
+"питание",0.377155172413793,1,"Grigoriev2026_cmp_Soloviev2022_500",2.716666667,"nutrition; power supply","extended",FALSE
+"практика",0.377066115702479,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.811320755,"practice","extended",FALSE
+"восток",0.37603305785124,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.8125,"east","extended",FALSE
+"производитель",0.375,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.816326531,"manufacturer","extended",FALSE
+"просвет",0.375,1,"Grigoriev2026_cmp_Grigoriev2022",4.833333333,"gap / enlightenment","extended",FALSE
+"воскресенье",0.373922413793103,1,"Grigoriev2026_cmp_Soloviev2022_500",2.733333333,"sunday","extended",FALSE
+"порода",0.373922413793103,1,"Grigoriev2026_cmp_Soloviev2022_500",2.733333333,"breed; rock","extended",FALSE
+"форма",0.372417355371901,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.818181818,"form; uniform","extended",FALSE
+"частица",0.370689655172414,1,"Grigoriev2026_cmp_Soloviev2022_500",2.75,"particle","extended",FALSE
+"веселье",0.37037037037037,1,"Grigoriev2026_cmp_Grigoriev2022",4.818181818,"merriment, fun","extended",FALSE
+"завтрашний",0.37037037037037,1,"Grigoriev2026_cmp_Grigoriev2022",4.818181818,"tomorrow's","extended",FALSE
+"рёв",0.37037037037037,1,"Grigoriev2026_cmp_Grigoriev2022",4.818181818,"roar; bellow","extended",FALSE
+"доказательство",0.368285123966942,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.826086957,"proof, evidence","extended",FALSE
+"империя",0.367456896551724,1,"Grigoriev2026_cmp_Soloviev2022_500",2.754098361,"empire","extended",FALSE
+"свидание",0.367456896551724,1,"Grigoriev2026_cmp_Soloviev2022_500",2.754098361,"date; meeting","extended",FALSE
+"эпизод",0.366391283524904,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",4.063888889,"episode","extended",FALSE
+"комплекс",0.366219008264463,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.826923077,"complex","extended",FALSE
+"содержание",0.366219008264463,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.826923077,"content; maintenance","extended",FALSE
+"деятель",0.362068965517241,1,"Grigoriev2026_cmp_Soloviev2022_500",2.766666667,"actor, figure","extended",FALSE
+"стандарт",0.362068965517241,1,"Grigoriev2026_cmp_Soloviev2022_500",2.766666667,"standard","extended",FALSE
+"беседа",0.361570247933884,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.833333333,"conversation, talk; educational talk","extended",FALSE
+"запись",0.361570247933884,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.833333333,"record; recording; entry","extended",FALSE
+"продажа",0.361570247933884,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.833333333,"sale","extended",FALSE
+"воровство",0.361111111111111,1,"Grigoriev2026_cmp_Grigoriev2022",4.8,"theft","extended",FALSE
+"исправление",0.361111111111111,1,"Grigoriev2026_cmp_Grigoriev2022",4.8,"correction, repair","extended",FALSE
+"помеха",0.361111111111111,1,"Grigoriev2026_cmp_Grigoriev2022",4.8,"interference","extended",FALSE
+"шипящий",0.361111111111111,1,"Grigoriev2026_cmp_Grigoriev2022",4.8,"hissing, sibilant","extended",FALSE
+"план",0.360562059993878,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.477987421,"plan","extended",FALSE
+"наказание",0.359378991060026,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",3.618181818,"punishment","extended",FALSE
+"плата",0.358987603305785,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.836734694,"payment; board (electronics)","extended",FALSE
+"существо",0.358987603305785,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.836734694,"being; creature; essence","extended",FALSE
+"космос",0.357758620689655,1,"Grigoriev2026_cmp_Soloviev2022_500",2.779661017,"space; cosmos","extended",FALSE
+"выпуск",0.356921487603306,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.847826087,"release, issue; graduation; exhaust","extended",FALSE
+"психология",0.356921487603306,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.847826087,"psychology","extended",FALSE
+"борьба",0.354855371900826,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.85,"struggle, fight, wrestling","extended",FALSE
+"вид",0.354855371900826,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.85,"view, sight; kind, type; appearance","extended",FALSE
+"символ",0.354525862068966,1,"Grigoriev2026_cmp_Soloviev2022_500",2.783333333,"symbol","extended",FALSE
+"трагедия",0.354525862068966,1,"Grigoriev2026_cmp_Soloviev2022_500",2.783333333,"tragedy","extended",FALSE
+"попытка",0.353822314049587,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.869496855,"attempt","extended",FALSE
+"изображение",0.352272727272727,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.857142857,"image, depiction","extended",FALSE
+"атака",0.351293103448276,1,"Grigoriev2026_cmp_Soloviev2022_500",2.8,"attack, assault","extended",FALSE
+"руководство",0.350206611570248,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.865384615,"management; leadership; manual","extended",FALSE
+"нация",0.34970466155811,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",3.212121212,"nation","extended",FALSE
+"куча",0.349137931034483,1,"Grigoriev2026_cmp_Soloviev2022_500",2.816666667,"heap; pile","extended",FALSE
+"дремота",0.349074074074074,1,"Grigoriev2026_cmp_Grigoriev2022",4.733333333,"drowsiness","extended",FALSE
+"программа",0.349074074074074,1,"Grigoriev2026_cmp_Grigoriev2022",4.733333333,"program","extended",FALSE
+"совет",0.349074074074074,1,"Grigoriev2026_cmp_Grigoriev2022",4.733333333,"advice; council","extended",FALSE
+"информация",0.348657024793388,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.867924528,"information","extended",FALSE
+"подробность",0.345905172413793,1,"Grigoriev2026_cmp_Soloviev2022_500",2.833333333,"detail","extended",FALSE
+"стадия",0.345905172413793,1,"Grigoriev2026_cmp_Soloviev2022_500",2.833333333,"stage; phase","extended",FALSE
+"подразделение",0.34297520661157,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.875,"subdivision; unit","extended",FALSE
+"премия",0.34297520661157,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.875,"bonus / prize","extended",FALSE
+"сигнал",0.34297520661157,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.875,"signal","extended",FALSE
+"слой",0.34297520661157,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.875,"layer","extended",FALSE
+"состав",0.34297520661157,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.875,"composition; staff; mixture","extended",FALSE
+"ставка",0.34297520661157,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.875,"rate; bet; headquarters","extended",FALSE
+"сутки",0.34297520661157,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.875,"24 hours; day and night","extended",FALSE
+"юг",0.342672413793103,1,"Grigoriev2026_cmp_Soloviev2022_500",2.85,"south","extended",FALSE
+"спор",0.342106672788491,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.2145833335,"dispute, argument, debate, controversy","extended",FALSE
+"преступление",0.340451867156413,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.5464015155,"crime","extended",FALSE
+"благодарность",0.339439655172414,1,"Grigoriev2026_cmp_Soloviev2022_500",2.857142857,"gratitude, thankfulness, appreciation","extended",FALSE
+"интеллигенция",0.339439655172414,1,"Grigoriev2026_cmp_Soloviev2022_500",2.857142857,"intelligentsia","extended",FALSE
+"география",0.337962962962963,1,"Grigoriev2026_cmp_Grigoriev2022",4.727272727,"geography","extended",FALSE
+"перерыв",0.337962962962963,1,"Grigoriev2026_cmp_Grigoriev2022",4.727272727,"break","extended",FALSE
+"сказание",0.337962962962963,1,"Grigoriev2026_cmp_Grigoriev2022",4.727272727,"tale; legend","extended",FALSE
+"филология",0.337962962962963,1,"Grigoriev2026_cmp_Grigoriev2022",4.727272727,"philology","extended",FALSE
+"здоровье",0.337293388429752,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.886792453,"health","extended",FALSE
+"режим",0.337293388429752,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.886792453,"mode; regime; diet","extended",FALSE
+"экспедиция",0.336206896551724,1,"Grigoriev2026_cmp_Soloviev2022_500",2.866666667,"expedition; shipping department","extended",FALSE
+"решение",0.336120676461586,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.65,"solution; decision","extended",FALSE
+"проверка",0.335743801652893,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.891304348,"check","extended",FALSE
+"дискуссия",0.334051724137931,1,"Grigoriev2026_cmp_Soloviev2022_500",2.875,"discussion, debate","extended",FALSE
+"отказ",0.333677685950413,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.904761905,"failure; refusal","extended",FALSE
+"облик",0.331896551724138,1,"Grigoriev2026_cmp_Soloviev2022_500",2.881355932,"appearance","extended",FALSE
+"личность",0.330061983471074,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.914893617,"personality; identity","extended",FALSE
+"показатель",0.330061983471074,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.914893617,"indicator","extended",FALSE
+"расцветка",0.328703703703704,1,"Grigoriev2026_cmp_Grigoriev2022",4.722222222,"color scheme; coloring","extended",FALSE
+"существительное",0.328703703703704,1,"Grigoriev2026_cmp_Grigoriev2022",4.722222222,"noun","extended",FALSE
+"лечение",0.328663793103448,1,"Grigoriev2026_cmp_Soloviev2022_500",2.883333333,"treatment","extended",FALSE
+"должность",0.328512396694215,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.916666667,"position, post","extended",FALSE
+"подготовка",0.325929752066116,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.924528302,"preparation","extended",FALSE
+"ситуация",0.325929752066116,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.924528302,"situation","extended",FALSE
+"труд",0.325929752066116,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.924528302,"labor; work","extended",FALSE
+"элемент",0.325929752066116,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.924528302,"element","extended",FALSE
+"постановка",0.325431034482759,1,"Grigoriev2026_cmp_Soloviev2022_500",2.888888889,"production / staging","extended",FALSE
+"контакт",0.323347107438017,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.928571429,"contact","extended",FALSE
+"привет",0.323291826309068,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",3.508333333,"greeting / hello","extended",FALSE
+"обзор",0.323148148148148,1,"Grigoriev2026_cmp_Grigoriev2022",4.666666667,"review; survey","extended",FALSE
+"отрицание",0.323148148148148,1,"Grigoriev2026_cmp_Grigoriev2022",4.666666667,"denial","extended",FALSE
+"пребывание",0.322198275862069,1,"Grigoriev2026_cmp_Soloviev2022_500",2.892857143,"stay","extended",FALSE
+"оплата",0.321164294459749,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.9914728685,"payment","extended",FALSE
+"народ",0.320764462809917,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.931818182,"people; nation","extended",FALSE
+"условие",0.320764462809917,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.931818182,"condition; term","extended",FALSE
+"основа",0.319834710743802,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.609538784,"basis","extended",FALSE
+"шутка",0.319214876033058,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.934782609,"joke","extended",FALSE
+"призыв",0.318965517241379,1,"Grigoriev2026_cmp_Soloviev2022_500",2.898305085,"call / appeal","extended",FALSE
+"набор",0.317665289256198,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.93877551,"set; kit; recruitment; typesetting","extended",FALSE
+"регистрация",0.317665289256198,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.93877551,"registration; check-in","extended",FALSE
+"запах",0.317173630241812,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.015873016,"smell, odor","extended",FALSE
+"расстояние",0.31687519130701,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.3208333335,"distance","extended",FALSE
+"столетие",0.316810344827586,1,"Grigoriev2026_cmp_Soloviev2022_500",2.901639344,"century","extended",FALSE
+"среда",0.316115702479339,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.942307692,"environment; wednesday; medium","extended",FALSE
+"стронций",0.315740740740741,1,"Grigoriev2026_cmp_Grigoriev2022",4.636363636,"strontium","extended",FALSE
+"шлейф",0.315740740740741,1,"Grigoriev2026_cmp_Grigoriev2022",4.636363636,"train (of a dress); wake, trail","extended",FALSE
+"вес",0.315082644628099,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.946428571,"weight","extended",FALSE
+"место",0.31404958677686,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.95,"place; spot","extended",FALSE
+"спрос",0.313577586206897,1,"Grigoriev2026_cmp_Soloviev2022_500",2.916666667,"demand","extended",FALSE
+"темп",0.313577586206897,1,"Grigoriev2026_cmp_Soloviev2022_500",2.916666667,"tempo; pace","extended",FALSE
+"полет",0.3125,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.953488372,"flight","extended",FALSE
+"цвет",0.3125,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.953488372,"color; bloom","extended",FALSE
+"действие",0.31095041322314,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.954545455,"action, effect","extended",FALSE
+"перевод",0.309400826446281,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.958333333,"translation; transfer","extended",FALSE
+"адвокатский",0.308333333333333,1,"Grigoriev2026_cmp_Grigoriev2022",4.6,"lawyer's, legal","extended",FALSE
+"оправдание",0.308333333333333,1,"Grigoriev2026_cmp_Grigoriev2022",4.6,"justification","extended",FALSE
+"использование",0.307851239669421,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.975,"use, usage","extended",FALSE
+"капитал",0.306301652892562,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.976744186,"capital","extended",FALSE
+"приговор",0.306034482758621,1,"Grigoriev2026_cmp_Soloviev2022_500",2.93442623,"sentence, verdict","extended",FALSE
+"свет",0.304899372513009,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.097222222,"light; world; society","extended",FALSE
+"база",0.304752066115702,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.977191413,"base, basis; depot; database","extended",FALSE
+"рубеж",0.304518671564126,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.0515873015,"boundary; frontier","extended",FALSE
+"построение",0.303879310344828,1,"Grigoriev2026_cmp_Soloviev2022_500",2.95,"construction","extended",FALSE
+"языкознание",0.303703703703704,1,"Grigoriev2026_cmp_Grigoriev2022",4.555555556,"linguistics","extended",FALSE
+"претензия",0.303228767560664,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",3.673701299,"claim / pretension","extended",FALSE
+"заказ",0.302685950413223,1,"Grigoriev2026_cmp_Soloviev2022_1000",2.982142857,"order","extended",FALSE
+"извинение",0.301851851851852,1,"Grigoriev2026_cmp_Grigoriev2022",4.545454545,"apology","extended",FALSE
+"управление",0.30162419651056,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.2018867925,"management; control; steering","extended",FALSE
+"ассоциация",0.300646551724138,1,"Grigoriev2026_cmp_Soloviev2022_500",2.966666667,"association","extended",FALSE
+"приезд",0.300646551724138,1,"Grigoriev2026_cmp_Soloviev2022_500",2.966666667,"arrival","extended",FALSE
+"часть",0.298343281297827,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.5125,"part; portion","extended",FALSE
+"исполнение",0.298037190082645,1,"Grigoriev2026_cmp_Soloviev2022_1000",3,"performance, execution","extended",FALSE
+"масштаб",0.298037190082645,1,"Grigoriev2026_cmp_Soloviev2022_1000",3,"scale","extended",FALSE
+"мощность",0.298037190082645,1,"Grigoriev2026_cmp_Soloviev2022_1000",3,"power; capacity","extended",FALSE
+"принцип",0.298037190082645,1,"Grigoriev2026_cmp_Soloviev2022_1000",3,"principle","extended",FALSE
+"род",0.298037190082645,1,"Grigoriev2026_cmp_Soloviev2022_1000",3,"genus; kind; family; birth","extended",FALSE
+"сравнение",0.298037190082645,1,"Grigoriev2026_cmp_Soloviev2022_1000",3,"comparison","extended",FALSE
+"технология",0.298037190082645,1,"Grigoriev2026_cmp_Soloviev2022_1000",3,"technology","extended",FALSE
+"услуга",0.298037190082645,1,"Grigoriev2026_cmp_Soloviev2022_1000",3,"service; favor","extended",FALSE
+"замедление",0.297222222222222,1,"Grigoriev2026_cmp_Grigoriev2022",4.533333333,"slowdown, deceleration","extended",FALSE
+"обсуждение",0.296336206896552,1,"Grigoriev2026_cmp_Soloviev2022_500",2.967320261,"discussion","extended",FALSE
+"поступок",0.296336206896552,1,"Grigoriev2026_cmp_Soloviev2022_500",2.967320261,"act / deed","extended",FALSE
+"занятие",0.293388429752066,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.015384615,"occupation, activity; lesson","extended",FALSE
+"натура",0.293103448275862,1,"Grigoriev2026_cmp_Soloviev2022_500",2.983050847,"nature; character; temper","extended",FALSE
+"проблема",0.292596418732782,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.8375,"problem","extended",FALSE
+"класс",0.292355371900826,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.020833333,"class","extended",FALSE
+"угроза",0.292355371900826,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.584280303,"threat","extended",FALSE
+"мероприятие",0.291322314049587,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.023255814,"event; measure; activity","extended",FALSE
+"количество",0.290289256198347,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.025,"quantity, amount","extended",FALSE
+"диалог",0.289870689655172,1,"Grigoriev2026_cmp_Soloviev2022_500",3,"dialogue","extended",FALSE
+"статистика",0.289870689655172,1,"Grigoriev2026_cmp_Soloviev2022_500",3,"statistics","extended",FALSE
+"поэзия",0.289106978879706,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.793452381,"poetry","extended",FALSE
+"глагол",0.288888888888889,1,"Grigoriev2026_cmp_Grigoriev2022",4.466666667,"verb","extended",FALSE
+"ответвление",0.288888888888889,1,"Grigoriev2026_cmp_Grigoriev2022",4.466666667,"branch (offshoot)","extended",FALSE
+"возвращение",0.288739669421488,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.035714286,"return, comeback","extended",FALSE
+"область",0.287865396388124,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.9015151515,"region; area","extended",FALSE
+"контроль",0.287190082644628,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.037735849,"control; inspection","extended",FALSE
+"инстанция",0.286853448275862,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",3.2717514125,"instance, authority","extended",FALSE
+"продолжение",0.286550127713921,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",4.3583333335,"continuation","extended",FALSE
+"безопасность",0.286157024793388,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.038461538,"security, safety","extended",FALSE
+"физика",0.285560344827586,1,"Grigoriev2026_cmp_Soloviev2022_500",3.016666667,"physics","extended",FALSE
+"кризис",0.284607438016529,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.040816327,"crisis","extended",FALSE
+"указание",0.284607438016529,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.040816327,"instruction; indication","extended",FALSE
+"благотворительность",0.284259259259259,1,"Grigoriev2026_cmp_Grigoriev2022",4.454545455,"charity, philanthropy","extended",FALSE
+"тепло",0.283373243933589,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",4.0071895425,"warmth; heat","extended",FALSE
+"литература",0.282564279155188,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.4857881135,"literature","extended",FALSE
+"переговоры",0.28254132231405,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.041666667,"negotiations","extended",FALSE
+"промышленность",0.28254132231405,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.041666667,"industry","extended",FALSE
+"охота",0.282327586206897,1,"Grigoriev2026_cmp_Soloviev2022_500",3.033333333,"hunting; desire","extended",FALSE
+"голод",0.281253991060026,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",4.3954545455,"hunger, famine","extended",FALSE
+"приставание",0.280555555555556,1,"Grigoriev2026_cmp_Grigoriev2022",4.444444444,"pestering","extended",FALSE
+"элита",0.280172413793103,1,"Grigoriev2026_cmp_Soloviev2022_500",3.033898305,"elite","extended",FALSE
+"отсутствие",0.27995867768595,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.056603774,"absence","extended",FALSE
+"герой",0.278925619834711,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.0625,"hero","extended",FALSE
+"минимум",0.27801724137931,1,"Grigoriev2026_cmp_Soloviev2022_500",3.039215686,"minimum","extended",FALSE
+"инстинкт",0.277777777777778,1,"Grigoriev2026_cmp_Grigoriev2022",4.4,"instinct","extended",FALSE
+"история",0.276859504132231,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.075,"history; story","extended",FALSE
+"структура",0.276859504132231,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.075,"structure","extended",FALSE
+"холод",0.276404853128991,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",3.3833333335,"cold","extended",FALSE
+"ограничение",0.275862068965517,1,"Grigoriev2026_cmp_Soloviev2022_500",3.045751634,"restriction; limitation","extended",FALSE
+"сюжет",0.275851316192225,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.6845238095,"plot; subject","extended",FALSE
+"бездействие",0.275,1,"Grigoriev2026_cmp_Grigoriev2022",4.388888889,"inaction, idleness","extended",FALSE
+"конфликт",0.274793388429752,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.083333333,"conflict","extended",FALSE
+"разработка",0.273760330578512,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.085106383,"development","extended",FALSE
+"мелочь",0.273706896551724,1,"Grigoriev2026_cmp_Soloviev2022_500",3.05,"trifle; small change; petty thing","extended",FALSE
+"поиск",0.272727272727273,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.094339623,"search","extended",FALSE
+"сбор",0.271694214876033,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.095238095,"collection; fee; gathering","extended",FALSE
+"распределение",0.271551724137931,1,"Grigoriev2026_cmp_Soloviev2022_500",3.065359477,"distribution","extended",FALSE
+"жидкость",0.271296296296296,1,"Grigoriev2026_cmp_Grigoriev2022",4.363636364,"liquid","extended",FALSE
+"темнота",0.270948117539027,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.0511627905,"darkness","extended",FALSE
+"ход",0.270661157024793,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.1,"move; course; passage","extended",FALSE
+"цикл",0.269396551724138,1,"Grigoriev2026_cmp_Soloviev2022_500",3.083333333,"cycle","extended",FALSE
+"обращение",0.268864784205693,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.367588933,"address; appeal; treatment","extended",FALSE
+"версия",0.268078512396694,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.102040816,"version","extended",FALSE
+"обработка",0.268078512396694,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.102040816,"processing; treatment","extended",FALSE
+"строй",0.268078512396694,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.102040816,"formation; system; build","extended",FALSE
+"талант",0.266498316498317,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.098814229,"talent","extended",FALSE
+"готовность",0.265086206896552,1,"Grigoriev2026_cmp_Soloviev2022_500",3.098039216,"readiness","extended",FALSE
+"заключение",0.264462809917355,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.104166667,"conclusion; imprisonment","extended",FALSE
+"крик",0.264462809917355,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.104166667,"shout; cry","extended",FALSE
+"установка",0.264462809917355,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.104166667,"installation; setup; attitude","extended",FALSE
+"замена",0.26334211366539,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",4.308333333,"replacement, substitution","extended",FALSE
+"отделение",0.263299663299663,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.348717949,"branch; compartment","extended",FALSE
+"громкость",0.262962962962963,1,"Grigoriev2026_cmp_Grigoriev2022",4.333333333,"loudness, volume","extended",FALSE
+"поражение",0.262931034482759,1,"Grigoriev2026_cmp_Soloviev2022_500",3.1,"defeat","extended",FALSE
+"выбор",0.262396694214876,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.113207547,"choice, selection","extended",FALSE
+"средство",0.261176155494337,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.4545454545,"means; remedy; agent","extended",FALSE
+"запас",0.260847107438017,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.11627907,"supply, stock, reserve","extended",FALSE
+"страхование",0.260775862068966,1,"Grigoriev2026_cmp_Soloviev2022_500",3.131147541,"insurance","extended",FALSE
+"помощь",0.260745714722987,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.318181818,"help","extended",FALSE
+"присутствие",0.259098561371289,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.187596899,"presence","extended",FALSE
+"постановление",0.258780991735537,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.125,"decree","extended",FALSE
+"участие",0.258780991735537,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.125,"participation; compassion","extended",FALSE
+"гений",0.257543103448276,1,"Grigoriev2026_cmp_Soloviev2022_500",3.133333333,"genius","extended",FALSE
+"катастрофа",0.257543103448276,1,"Grigoriev2026_cmp_Soloviev2022_500",3.133333333,"catastrophe, disaster","extended",FALSE
+"утверждение",0.256872605363985,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",3.5,"assertion; statement; approval","extended",FALSE
+"поведение",0.256198347107438,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.132075472,"behavior","extended",FALSE
+"роль",0.256198347107438,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.132075472,"role","extended",FALSE
+"функция",0.256198347107438,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.132075472,"function","extended",FALSE
+"вой",0.25462962962963,1,"Grigoriev2026_cmp_Grigoriev2022",4.277777778,"howl, wail","extended",FALSE
+"наступление",0.25462962962963,1,"Grigoriev2026_cmp_Grigoriev2022",4.277777778,"offensive; advance","extended",FALSE
+"взгляд",0.252582644628099,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.136363636,"look, glance; view, opinion","extended",FALSE
+"уровень",0.252582644628099,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.136363636,"level","extended",FALSE
+"полномочие",0.252155172413793,1,"Grigoriev2026_cmp_Soloviev2022_500",3.15,"authority","extended",FALSE
+"сохранение",0.252155172413793,1,"Grigoriev2026_cmp_Soloviev2022_500",3.15,"preservation; conservation","extended",FALSE
+"штамм",0.252155172413793,1,"Grigoriev2026_cmp_Soloviev2022_500",3.15,"strain (e.g., of virus)","extended",FALSE
+"обвинение",0.251624361430396,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",4.2833333335,"accusation","extended",FALSE
+"нападение",0.25,1,"Grigoriev2026_cmp_Grigoriev2022",4.272727273,"attack","extended",FALSE
+"середина",0.25,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.138461538,"middle","extended",FALSE
+"власть",0.248733547597184,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.7541666665,"power, authority","extended",FALSE
+"операция",0.24845041322314,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.139534884,"operation","extended",FALSE
+"сезон",0.24845041322314,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.139534884,"season","extended",FALSE
+"отдых",0.246384297520661,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.142857143,"rest","extended",FALSE
+"требование",0.246166207529844,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.838501292,"requirement; demand","extended",FALSE
+"теория",0.244834710743802,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.14893617,"theory","extended",FALSE
+"легенда",0.244612068965517,1,"Grigoriev2026_cmp_Soloviev2022_500",3.166666667,"legend","extended",FALSE
+"порядок",0.243801652892562,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.159090909,"order","extended",FALSE
+"новость",0.242768595041322,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.162790698,"news","extended",FALSE
+"параметр",0.241735537190083,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.163265306,"parameter","extended",FALSE
+"повреждение",0.240740740740741,1,"Grigoriev2026_cmp_Grigoriev2022",4.266666667,"damage","extended",FALSE
+"проблеск",0.240740740740741,1,"Grigoriev2026_cmp_Grigoriev2022",4.266666667,"glimmer","extended",FALSE
+"санитария",0.240740740740741,1,"Grigoriev2026_cmp_Grigoriev2022",4.266666667,"sanitation","extended",FALSE
+"оборот",0.240301724137931,1,"Grigoriev2026_cmp_Soloviev2022_500",3.183333333,"turnover; revolution","extended",FALSE
+"беда",0.240185950413223,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.166666667,"trouble, misfortune","extended",FALSE
+"тон",0.240185950413223,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.166666667,"tone; shade","extended",FALSE
+"расход",0.238636363636364,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.169230769,"expense; consumption","extended",FALSE
+"причина",0.238217401285583,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.3006289305,"reason","extended",FALSE
+"недостаток",0.237086776859504,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.173913043,"shortcoming; deficiency; lack","extended",FALSE
+"философия",0.236589378634833,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.725170068,"philosophy","extended",FALSE
+"преимущество",0.235991379310345,1,"Grigoriev2026_cmp_Soloviev2022_500",3.2,"advantage","extended",FALSE
+"тариф",0.235991379310345,1,"Grigoriev2026_cmp_Soloviev2022_500",3.2,"tariff; rate","extended",FALSE
+"мнение",0.234504132231405,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.175,"opinion","extended",FALSE
+"право",0.234504132231405,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.175,"right / law","extended",FALSE
+"период",0.233729338842975,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.7488636365,"period","extended",FALSE
+"сила",0.233629859198041,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.0333333335,"force; strength; power","extended",FALSE
+"загадка",0.232407407407407,1,"Grigoriev2026_cmp_Grigoriev2022",4.222222222,"riddle, mystery, enigma","extended",FALSE
+"раздражение",0.232407407407407,1,"Grigoriev2026_cmp_Grigoriev2022",4.222222222,"irritation","extended",FALSE
+"тайна",0.231404958677686,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.184615385,"secret; mystery","extended",FALSE
+"дар",0.230603448275862,1,"Grigoriev2026_cmp_Soloviev2022_500",3.216666667,"gift; donation","extended",FALSE
+"мотив",0.230603448275862,1,"Grigoriev2026_cmp_Soloviev2022_500",3.216666667,"motive; motif","extended",FALSE
+"учение",0.230603448275862,1,"Grigoriev2026_cmp_Soloviev2022_500",3.216666667,"teaching; doctrine","extended",FALSE
+"вариант",0.229855371900826,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.186046512,"variant, option","extended",FALSE
+"выход",0.229855371900826,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.186046512,"exit; output; way out","extended",FALSE
+"усилие",0.22884718396082,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.7993197275,"effort","extended",FALSE
+"выступление",0.228305785123967,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.1875,"performance, speech","extended",FALSE
+"прошлое",0.227272727272727,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.191489362,"past","extended",FALSE
+"выдумка",0.226851851851852,1,"Grigoriev2026_cmp_Grigoriev2022",4.2,"invention, fiction","extended",FALSE
+"стремление",0.226293103448276,1,"Grigoriev2026_cmp_Soloviev2022_500",3.25,"aspiration; striving","extended",FALSE
+"штука",0.226239669421488,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.196428571,"piece; thing; trick","extended",FALSE
+"больной",0.224690082644628,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.2,"sick, ill; patient; sore","extended",FALSE
+"событие",0.224690082644628,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.2,"event","extended",FALSE
+"цель",0.22370867768595,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.1363636365,"goal; aim; target","extended",FALSE
+"получение",0.222623966942149,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.208333333,"receipt","extended",FALSE
+"длина",0.2222681359045,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.3287526425,"length","extended",FALSE
+"молодец",0.22198275862069,1,"Grigoriev2026_cmp_Soloviev2022_500",3.266666667,"fine fellow; well done","extended",FALSE
+"сокращение",0.22198275862069,1,"Grigoriev2026_cmp_Soloviev2022_500",3.266666667,"reduction; abbreviation","extended",FALSE
+"спасение",0.22198275862069,1,"Grigoriev2026_cmp_Soloviev2022_500",3.266666667,"salvation; rescue","extended",FALSE
+"неловкость",0.22037037037037,1,"Grigoriev2026_cmp_Grigoriev2022",4.181818182,"awkwardness","extended",FALSE
+"письменность",0.22037037037037,1,"Grigoriev2026_cmp_Grigoriev2022",4.181818182,"literacy","extended",FALSE
+"сходство",0.22037037037037,1,"Grigoriev2026_cmp_Grigoriev2022",4.181818182,"similarity; resemblance","extended",FALSE
+"действительность",0.21952479338843,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.224489796,"reality","extended",FALSE
+"уход",0.21952479338843,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.224489796,"care; departure","extended",FALSE
+"направление",0.217051193755739,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.975,"direction; trend","extended",FALSE
+"осмеяние",0.216666666666667,1,"Grigoriev2026_cmp_Grigoriev2022",4.117647059,"ridicule","extended",FALSE
+"интерес",0.215909090909091,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.226415094,"interest","extended",FALSE
+"привычка",0.215521232439336,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",3.5916666665,"habit","extended",FALSE
+"репетиция",0.21551724137931,1,"Grigoriev2026_cmp_Soloviev2022_500",3.285714286,"rehearsal","extended",FALSE
+"изготовление",0.213888888888889,1,"Grigoriev2026_cmp_Grigoriev2022",4.111111111,"manufacture, production","extended",FALSE
+"появление",0.213842975206612,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.229166667,"appearance","extended",FALSE
+"тишина",0.213842975206612,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.229166667,"silence","extended",FALSE
+"авторитет",0.213362068965517,1,"Grigoriev2026_cmp_Soloviev2022_500",3.295081967,"authority, prestige, influential person","extended",FALSE
+"образование",0.213087312519131,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.779166667,"education; formation","extended",FALSE
+"отличие",0.212279996939088,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.4676870745,"difference","extended",FALSE
+"сообщество",0.211206896551724,1,"Grigoriev2026_cmp_Soloviev2022_500",3.3,"community","extended",FALSE
+"предел",0.210743801652893,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.234042553,"limit","extended",FALSE
+"слабость",0.210265006385696,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",3.2994350285,"weakness","extended",FALSE
+"падение",0.20992975734355,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",4.30530303,"fall","extended",FALSE
+"совесть",0.209710743801653,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.238095238,"conscience","extended",FALSE
+"путешествие",0.209051724137931,1,"Grigoriev2026_cmp_Soloviev2022_500",3.316666667,"journey","extended",FALSE
+"вкус",0.208918732782369,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.0395833335,"taste","extended",FALSE
+"мера",0.208677685950413,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.245283019,"measure; step","extended",FALSE
+"богатство",0.206896551724138,1,"Grigoriev2026_cmp_Soloviev2022_500",3.327868852,"wealth, riches","extended",FALSE
+"достижение",0.206095041322314,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.25,"achievement","extended",FALSE
+"характер",0.206095041322314,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.25,"character; nature","extended",FALSE
+"неуклюжесть",0.205555555555556,1,"Grigoriev2026_cmp_Grigoriev2022",4.066666667,"clumsiness","extended",FALSE
+"обман",0.205555555555556,1,"Grigoriev2026_cmp_Grigoriev2022",4.066666667,"deception","extended",FALSE
+"природа",0.205163376186103,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.2973484845,"nature","extended",FALSE
+"нагрузка",0.204741379310345,1,"Grigoriev2026_cmp_Soloviev2022_500",3.333333333,"load; burden","extended",FALSE
+"множество",0.202995867768595,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.255319149,"set; multitude","extended",FALSE
+"поддержка",0.202995867768595,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.255319149,"support","extended",FALSE
+"нужда",0.201508620689655,1,"Grigoriev2026_cmp_Soloviev2022_500",3.35,"need; poverty","extended",FALSE
+"перемена",0.201508620689655,1,"Grigoriev2026_cmp_Soloviev2022_500",3.35,"change","extended",FALSE
+"ум",0.201446280991736,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.255813953,"mind; intellect","extended",FALSE
+"повышение",0.201235843281298,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.75625,"increase; promotion","extended",FALSE
+"идея",0.197830578512397,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.264150943,"idea","extended",FALSE
+"обеспечение",0.197830578512397,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.264150943,"provision; security","extended",FALSE
+"определение",0.197830578512397,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.264150943,"definition; determination","extended",FALSE
+"целое",0.197830578512397,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.264150943,"whole; integer","extended",FALSE
+"мода",0.197198275862069,1,"Grigoriev2026_cmp_Soloviev2022_500",3.366666667,"fashion","extended",FALSE
+"подвиг",0.197198275862069,1,"Grigoriev2026_cmp_Soloviev2022_500",3.366666667,"feat; exploit","extended",FALSE
+"последствие",0.1960705540251,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.7666666665,"consequence","extended",FALSE
+"традиция",0.195531068258341,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.882051282,"tradition","extended",FALSE
+"тенденция",0.194731404958678,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.265306122,"tendency; trend","extended",FALSE
+"цивилизация",0.193965517241379,1,"Grigoriev2026_cmp_Soloviev2022_500",3.383333333,"civilization","extended",FALSE
+"связь",0.193181818181818,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.272727273,"connection; communication; liaison","extended",FALSE
+"укрепление",0.191810344827586,1,"Grigoriev2026_cmp_Soloviev2022_500",3.389830508,"strengthening; fortification","extended",FALSE
+"норма",0.191632231404959,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.276595745,"norm; standard","extended",FALSE
+"особенность",0.191632231404959,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.276595745,"peculiarity","extended",FALSE
+"избегание",0.190740740740741,1,"Grigoriev2026_cmp_Grigoriev2022",4,"avoidance","extended",FALSE
+"предательство",0.190740740740741,1,"Grigoriev2026_cmp_Grigoriev2022",4,"treason","extended",FALSE
+"сдерживание",0.190740740740741,1,"Grigoriev2026_cmp_Grigoriev2022",4,"restraint; holding back","extended",FALSE
+"тиран",0.190740740740741,1,"Grigoriev2026_cmp_Grigoriev2022",4,"tyrant","extended",FALSE
+"трепет",0.190740740740741,1,"Grigoriev2026_cmp_Grigoriev2022",4,"trepidation; awe","extended",FALSE
+"уловка",0.190740740740741,1,"Grigoriev2026_cmp_Grigoriev2022",4,"trick; ruse","extended",FALSE
+"эпоха",0.190082644628099,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.276923077,"epoch, era","extended",FALSE
+"карьера",0.189655172413793,1,"Grigoriev2026_cmp_Soloviev2022_500",3.4,"career","extended",FALSE
+"окончание",0.18963689929599,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.642857143,"ending; end","extended",FALSE
+"удивление",0.18853305785124,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.285714286,"surprise; amazement","extended",FALSE
+"понятие",0.18698347107438,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.288461538,"concept","extended",FALSE
+"методика",0.186422413793103,1,"Grigoriev2026_cmp_Soloviev2022_500",3.416666667,"methodology; technique","extended",FALSE
+"хранение",0.186422413793103,1,"Grigoriev2026_cmp_Soloviev2022_500",3.416666667,"storage; keeping","extended",FALSE
+"союз",0.185433884297521,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.291666667,"union; alliance","extended",FALSE
+"значение",0.183367768595041,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.3,"meaning, significance","extended",FALSE
+"служба",0.183367768595041,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.3,"service; work","extended",FALSE
+"напряжение",0.183189655172414,1,"Grigoriev2026_cmp_Soloviev2022_500",3.450980392,"tension; voltage","extended",FALSE
+"введение",0.181034482758621,1,"Grigoriev2026_cmp_Soloviev2022_500",3.477124183,"introduction; implementation","extended",FALSE
+"давление",0.180785123966942,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.302325581,"pressure","extended",FALSE
+"оценка",0.180785123966942,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.302325581,"evaluation; grade","extended",FALSE
+"инициатива",0.178956228956229,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.735930736,"initiative","extended",FALSE
+"общение",0.178719008264463,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.304347826,"communication","extended",FALSE
+"поправка",0.177801724137931,1,"Grigoriev2026_cmp_Soloviev2022_500",3.483333333,"amendment; correction","extended",FALSE
+"секрет",0.177801724137931,1,"Grigoriev2026_cmp_Soloviev2022_500",3.483333333,"secret","extended",FALSE
+"уверенность",0.177398627075351,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",3.416666667,"confidence","extended",FALSE
+"реакция",0.177169421487603,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.306122449,"reaction","extended",FALSE
+"реализация",0.177169421487603,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.306122449,"implementation; sale","extended",FALSE
+"опустошение",0.175,1,"Grigoriev2026_cmp_Grigoriev2022",3.933333333,"devastation","extended",FALSE
+"тьма",0.174568965517241,1,"Grigoriev2026_cmp_Soloviev2022_500",3.516666667,"darkness; multitude","extended",FALSE
+"применение",0.174070247933884,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.320754717,"application","extended",FALSE
+"слава",0.174070247933884,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.320754717,"glory; fame","extended",FALSE
+"дело",0.171487603305785,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.325,"affair, business, matter; file","extended",FALSE
+"опыт",0.171487603305785,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.325,"experience; experiment","extended",FALSE
+"случай",0.171487603305785,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.325,"case; instance; chance","extended",FALSE
+"гарантия",0.171336206896552,1,"Grigoriev2026_cmp_Soloviev2022_500",3.533333333,"guarantee, warranty","extended",FALSE
+"жанр",0.171336206896552,1,"Grigoriev2026_cmp_Soloviev2022_500",3.533333333,"genre","extended",FALSE
+"разделение",0.169444444444444,1,"Grigoriev2026_cmp_Grigoriev2022",3.909090909,"division","extended",FALSE
+"увеличение",0.169014003673095,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",4.1104166665,"increase; enlargement","extended",FALSE
+"общество",0.168989133761861,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",2.9886363635,"society","extended",FALSE
+"человечество",0.168904958677686,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.325581395,"humanity; mankind","extended",FALSE
+"шум",0.168904958677686,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.325581395,"noise","extended",FALSE
+"тревога",0.168829821200511,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",3.354426619,"anxiety; alarm","extended",FALSE
+"логика",0.168103448275862,1,"Grigoriev2026_cmp_Soloviev2022_500",3.549019608,"logic","extended",FALSE
+"умение",0.167784163473819,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",4.041666667,"skill; ability","extended",FALSE
+"объяснение",0.167355371900826,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.326530612,"explanation","extended",FALSE
+"истязание",0.166666666666667,1,"Grigoriev2026_cmp_Grigoriev2022",3.888888889,"torture","extended",FALSE
+"скандал",0.165948275862069,1,"Grigoriev2026_cmp_Soloviev2022_500",3.55,"scandal","extended",FALSE
+"величина",0.165289256198347,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.333333333,"size, magnitude, quantity","extended",FALSE
+"течение",0.165289256198347,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.333333333,"current; flow; course","extended",FALSE
+"жалоба",0.163793103448276,1,"Grigoriev2026_cmp_Soloviev2022_500",3.566666667,"complaint, grievance","extended",FALSE
+"статус",0.163223140495868,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.339285714,"status","extended",FALSE
+"нехватка",0.162962962962963,1,"Grigoriev2026_cmp_Grigoriev2022",3.866666667,"shortage; lack","extended",FALSE
+"сфера",0.162190082644628,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.339622642,"sphere; domain","extended",FALSE
+"радость",0.161950948882767,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.9121794875,"joy","extended",FALSE
+"момент",0.161476507499235,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.268181818,"moment","extended",FALSE
+"сущность",0.161157024793388,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.347826087,"essence; nature","extended",FALSE
+"динамика",0.160560344827586,1,"Grigoriev2026_cmp_Soloviev2022_500",3.573770492,"dynamics","extended",FALSE
+"точность",0.160560344827586,1,"Grigoriev2026_cmp_Soloviev2022_500",3.573770492,"accuracy; precision","extended",FALSE
+"большинство",0.159607438016529,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.354166667,"majority","extended",FALSE
+"позиция",0.159607438016529,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.354166667,"position","extended",FALSE
+"аспект",0.159083652618135,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",3.144642857,"aspect","extended",FALSE
+"внимание",0.15754132231405,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.358490566,"attention","extended",FALSE
+"воля",0.15754132231405,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.358490566,"will, volition; freedom","extended",FALSE
+"печаль",0.156481481481481,1,"Grigoriev2026_cmp_Grigoriev2022",3.833333333,"sadness","extended",FALSE
+"просвещение",0.156481481481481,1,"Grigoriev2026_cmp_Grigoriev2022",3.833333333,"enlightenment","extended",FALSE
+"решительность",0.156481481481481,1,"Grigoriev2026_cmp_Grigoriev2022",3.833333333,"resoluteness; decisiveness","extended",FALSE
+"замечание",0.15625,1,"Grigoriev2026_cmp_Soloviev2022_500",3.583333333,"remark, comment","extended",FALSE
+"вина",0.15495867768595,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.367346939,"guilt, blame; wine (archaic/poetic)","extended",FALSE
+"округ",0.153925619834711,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.372093023,"district","extended",FALSE
+"правление",0.15301724137931,1,"Grigoriev2026_cmp_Soloviev2022_500",3.607142857,"board of directors / reign","extended",FALSE
+"правда",0.151342975206612,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.375,"truth","extended",FALSE
+"просьба",0.151342975206612,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.375,"request","extended",FALSE
+"сотрудничество",0.151342975206612,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.375,"cooperation; collaboration","extended",FALSE
+"признание",0.150950795837159,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.2687747035,"confession","extended",FALSE
+"приход",0.149784482758621,1,"Grigoriev2026_cmp_Soloviev2022_500",3.616666667,"parish / arrival","extended",FALSE
+"тяжесть",0.149784482758621,1,"Grigoriev2026_cmp_Soloviev2022_500",3.616666667,"weight; heaviness; severity","extended",FALSE
+"начало",0.149343816957453,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.402777778,"beginning; origin","extended",FALSE
+"жадность",0.149074074074074,1,"Grigoriev2026_cmp_Grigoriev2022",3.818181818,"greed","extended",FALSE
+"ускорение",0.149074074074074,1,"Grigoriev2026_cmp_Grigoriev2022",3.818181818,"acceleration","extended",FALSE
+"чарующий",0.149074074074074,1,"Grigoriev2026_cmp_Grigoriev2022",3.818181818,"charming; enchanting","extended",FALSE
+"выражение",0.148760330578512,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.377358491,"expression; phrase","extended",FALSE
+"свойство",0.146694214876033,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.387755102,"property; characteristic","extended",FALSE
+"вызов",0.146551724137931,1,"Grigoriev2026_cmp_Soloviev2022_500",3.633333333,"challenge; call, summons","extended",FALSE
+"экономика",0.145661157024793,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.395348837,"economy; economics","extended",FALSE
+"фактор",0.144111570247934,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.4,"factor","extended",FALSE
+"различие",0.142784163473819,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",3.9083333335,"difference","extended",FALSE
+"формирование",0.142561983471074,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.408163265,"formation; shaping","extended",FALSE
+"согласие",0.142241379310345,1,"Grigoriev2026_cmp_Soloviev2022_500",3.660130719,"consent; agreement","extended",FALSE
+"деятельность",0.141528925619835,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.409090909,"activity","extended",FALSE
+"миг",0.139979338842975,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.410714286,"moment; instant","extended",FALSE
+"шанс",0.139979338842975,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.410714286,"chance","extended",FALSE
+"беспокойство",0.138888888888889,1,"Grigoriev2026_cmp_Grigoriev2022",3.8,"anxiety, worry, disturbance","extended",FALSE
+"горе",0.138888888888889,1,"Grigoriev2026_cmp_Grigoriev2022",3.8,"grief, sorrow","extended",FALSE
+"коммуникация",0.138888888888889,1,"Grigoriev2026_cmp_Grigoriev2022",3.8,"communication","extended",FALSE
+"намёк",0.138888888888889,1,"Grigoriev2026_cmp_Grigoriev2022",3.8,"hint","extended",FALSE
+"ожидание",0.138429752066116,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.413043478,"expectation","extended",FALSE
+"риск",0.138378099173554,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.7166666665,"risk","extended",FALSE
+"осуществление",0.137931034482759,1,"Grigoriev2026_cmp_Soloviev2022_500",3.666666667,"implementation","extended",FALSE
+"прогноз",0.137931034482759,1,"Grigoriev2026_cmp_Soloviev2022_500",3.666666667,"forecast","extended",FALSE
+"тоска",0.137931034482759,1,"Grigoriev2026_cmp_Soloviev2022_500",3.666666667,"melancholy; longing","extended",FALSE
+"честь",0.136880165289256,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.416666667,"honor","extended",FALSE
+"опасность",0.135278925619835,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.72248062,"danger","extended",FALSE
+"анализ",0.134297520661157,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.418604651,"analysis","extended",FALSE
+"страсть",0.134297520661157,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.418604651,"passion","extended",FALSE
+"сторона",0.132231404958678,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.425,"side; aspect","extended",FALSE
+"суждение",0.131481481481481,1,"Grigoriev2026_cmp_Grigoriev2022",3.777777778,"judgment; opinion","extended",FALSE
+"стратегия",0.130387931034483,1,"Grigoriev2026_cmp_Soloviev2022_500",3.683333333,"strategy","extended",FALSE
+"активность",0.130165289256198,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.428571429,"activity","extended",FALSE
+"зло",0.130165289256198,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.428571429,"evil","extended",FALSE
+"обязательство",0.130165289256198,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.428571429,"obligation; commitment","extended",FALSE
+"возможность",0.129562672176309,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.1680555555,"possibility, opportunity","extended",FALSE
+"репутация",0.127777777777778,1,"Grigoriev2026_cmp_Grigoriev2022",3.733333333,"reputation","extended",FALSE
+"способ",0.127295684113866,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.6325581395,"method; way","extended",FALSE
+"демократия",0.127155172413793,1,"Grigoriev2026_cmp_Soloviev2022_500",3.68852459,"democracy","extended",FALSE
+"путь",0.127066115702479,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.431818182,"way / path","extended",FALSE
+"подход",0.12603305785124,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.433962264,"approach","extended",FALSE
+"концепция",0.12396694214876,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.4375,"concept; conception","extended",FALSE
+"обстановка",0.12396694214876,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.4375,"situation; setting; furnishings","extended",FALSE
+"соглашение",0.12396694214876,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.4375,"agreement; arrangement","extended",FALSE
+"соответствие",0.123062059993878,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.7121794875,"correspondence; compliance","extended",FALSE
+"мучение",0.122222222222222,1,"Grigoriev2026_cmp_Grigoriev2022",3.727272727,"torment","extended",FALSE
+"обида",0.12176724137931,1,"Grigoriev2026_cmp_Soloviev2022_500",3.7,"offense","extended",FALSE
+"распространение",0.12176724137931,1,"Grigoriev2026_cmp_Soloviev2022_500",3.7,"distribution","extended",FALSE
+"снижение",0.121713345576982,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.8255813955,"reduction; decrease","extended",FALSE
+"конец",0.120867768595041,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.45,"end","extended",FALSE
+"намерение",0.12025462962963,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",3.558333333,"intention","extended",FALSE
+"знание",0.119834710743802,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.450174825,"knowledge","extended",FALSE
+"забота",0.118801652892562,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.452380952,"care, concern","extended",FALSE
+"возбуждение",0.118518518518519,1,"Grigoriev2026_cmp_Grigoriev2022",3.722222222,"excitement, arousal; excitation","extended",FALSE
+"черта",0.117768595041322,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.458333333,"line, feature, trait","extended",FALSE
+"защита",0.117347719620447,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.416025641,"defense, protection","extended",FALSE
+"наблюдение",0.117336241199878,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.1304347825,"observation","extended",FALSE
+"манера",0.116379310344828,1,"Grigoriev2026_cmp_Soloviev2022_500",3.721311475,"manner; way","extended",FALSE
+"замысел",0.116151819923372,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",3.758333333,"plan, idea, conception","extended",FALSE
+"модель",0.115702479338843,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.465116279,"model","extended",FALSE
+"степень",0.115702479338843,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.465116279,"degree; extent; power (math)","extended",FALSE
+"влияние",0.113636363636364,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.468085106,"influence","extended",FALSE
+"глупость",0.113146551724138,1,"Grigoriev2026_cmp_Soloviev2022_500",3.733333333,"stupidity, foolishness","extended",FALSE
+"окружение",0.113146551724138,1,"Grigoriev2026_cmp_Soloviev2022_500",3.733333333,"surroundings; encirclement","extended",FALSE
+"бог",0.112086776859504,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.475,"god, god","extended",FALSE
+"отношение",0.112086776859504,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.475,"attitude; relation","extended",FALSE
+"авантюра",0.110185185185185,1,"Grigoriev2026_cmp_Grigoriev2022",3.666666667,"adventure; risky venture, scheme","extended",FALSE
+"задумка",0.110185185185185,1,"Grigoriev2026_cmp_Grigoriev2022",3.666666667,"idea, plan, conception","extended",FALSE
+"издевательство",0.110185185185185,1,"Grigoriev2026_cmp_Grigoriev2022",3.666666667,"mockery, bullying","extended",FALSE
+"инновация",0.110185185185185,1,"Grigoriev2026_cmp_Grigoriev2022",3.666666667,"innovation","extended",FALSE
+"спокойствие",0.110185185185185,1,"Grigoriev2026_cmp_Grigoriev2022",3.666666667,"calm; tranquility","extended",FALSE
+"измерение",0.109913793103448,1,"Grigoriev2026_cmp_Soloviev2022_500",3.737704918,"measurement, dimension","extended",FALSE
+"изменение",0.109504132231405,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.479166667,"change, alteration","extended",FALSE
+"поток",0.109504132231405,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.479166667,"stream","extended",FALSE
+"трудность",0.107758620689655,1,"Grigoriev2026_cmp_Soloviev2022_500",3.766666667,"difficulty","extended",FALSE
+"объединение",0.107438016528926,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.488372093,"unification; association","extended",FALSE
+"наличие",0.106404958677686,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.489795918,"availability; presence","extended",FALSE
+"известие",0.105371900826446,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.492307692,"news, message","extended",FALSE
+"потенциал",0.104525862068966,1,"Grigoriev2026_cmp_Soloviev2022_500",3.783333333,"potential","extended",FALSE
+"восторг",0.101756198347107,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.5,"delight, ecstasy","extended",FALSE
+"качество",0.101756198347107,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.5,"quality","extended",FALSE
+"мгновение",0.101756198347107,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.5,"instant; moment","extended",FALSE
+"потеря",0.101756198347107,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.5,"loss","extended",FALSE
+"создание",0.101756198347107,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.5,"creation","extended",FALSE
+"разум",0.101293103448276,1,"Grigoriev2026_cmp_Soloviev2022_500",3.786885246,"mind / reason","extended",FALSE
+"аллегория",0.100925925925926,1,"Grigoriev2026_cmp_Grigoriev2022",3.636363636,"allegory","extended",FALSE
+"религия",0.0991379310344828,1,"Grigoriev2026_cmp_Soloviev2022_500",3.8,"religion","extended",FALSE
+"унижение",0.0981481481481482,1,"Grigoriev2026_cmp_Grigoriev2022",3.611111111,"humiliation","extended",FALSE
+"обстоятельство",0.0976239669421488,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.509433962,"circumstance","extended",FALSE
+"основание",0.0964933425160698,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.654334038,"foundation","extended",FALSE
+"успех",0.0955578512396694,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.511627907,"success","extended",FALSE
+"глумление",0.0953703703703704,1,"Grigoriev2026_cmp_Grigoriev2022",3.6,"mockery, jeering","extended",FALSE
+"озарение",0.0953703703703704,1,"Grigoriev2026_cmp_Grigoriev2022",3.6,"illumination; insight","extended",FALSE
+"молодость",0.0948275862068965,1,"Grigoriev2026_cmp_Soloviev2022_500",3.816666667,"youth","extended",FALSE
+"одиночество",0.0942289272030651,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",3.9083333335,"solitude; loneliness","extended",FALSE
+"характеристика",0.0940082644628099,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.520833333,"characteristic; reference","extended",FALSE
+"процесс",0.0929752066115702,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.522727273,"process","extended",FALSE
+"дружба",0.0919421487603306,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.523809524,"friendship","extended",FALSE
+"жизнь",0.0909090909090909,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.525,"life","extended",FALSE
+"благо",0.0905172413793103,1,"Grigoriev2026_cmp_Soloviev2022_500",3.819672131,"good, benefit, welfare; since, because (conjunction)","extended",FALSE
+"явление",0.0898760330578512,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.530612245,"phenomenon; appearance","extended",FALSE
+"представление",0.0888429752066116,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.538461538,"performance / idea","extended",FALSE
+"пользование",0.0883620689655172,1,"Grigoriev2026_cmp_Soloviev2022_500",3.836065574,"use","extended",FALSE
+"обязанность",0.0872933884297521,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.541666667,"duty; obligation","extended",FALSE
+"ценность",0.0872933884297521,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.541666667,"value","extended",FALSE
+"воображение",0.0862547892720306,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",3.3723163845,"imagination","extended",FALSE
+"воспитание",0.0847107438016529,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.547619048,"upbringing, education","extended",FALSE
+"одобрение",0.0842592592592593,1,"Grigoriev2026_cmp_Grigoriev2022",3.533333333,"approval","extended",FALSE
+"проявление",0.084051724137931,1,"Grigoriev2026_cmp_Soloviev2022_500",3.866666667,"manifestation","extended",FALSE
+"испытание",0.0816115702479339,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.558139535,"test, trial","extended",FALSE
+"настроение",0.0800619834710744,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.5625,"mood","extended",FALSE
+"польза",0.0800619834710744,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.5625,"benefit","extended",FALSE
+"протяжение",0.0797413793103448,1,"Grigoriev2026_cmp_Soloviev2022_500",3.885245902,"extent","extended",FALSE
+"подобие",0.0787037037037037,1,"Grigoriev2026_cmp_Grigoriev2022",3.466666667,"likeness; semblance","extended",FALSE
+"сложность",0.0782886334610473,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",3.625,"complexity; difficulty","extended",FALSE
+"суть",0.077995867768595,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.566037736,"essence; gist","extended",FALSE
+"сочетание",0.0775862068965517,1,"Grigoriev2026_cmp_Soloviev2022_500",3.901639344,"combination; union","extended",FALSE
+"зависимость",0.0759297520661157,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.569230769,"dependence","extended",FALSE
+"ужас",0.0759297520661157,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.569230769,"horror; terror","extended",FALSE
+"достоинство",0.0754820936639118,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.1183932345,"dignity; merit","extended",FALSE
+"уважение",0.0754310344827586,1,"Grigoriev2026_cmp_Soloviev2022_500",3.908496732,"respect","extended",FALSE
+"существование",0.0743801652892562,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.571428571,"existence","extended",FALSE
+"способность",0.0734274563820018,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.440251572,"ability; capacity","extended",FALSE
+"ответственность",0.0733471074380165,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.574468085,"responsibility","extended",FALSE
+"желание",0.0723140495867769,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.576923077,"desire, wish","extended",FALSE
+"бытие",0.072198275862069,1,"Grigoriev2026_cmp_Soloviev2022_500",3.916666667,"being, existence","extended",FALSE
+"ведение",0.072198275862069,1,"Grigoriev2026_cmp_Soloviev2022_500",3.916666667,"management, conduct; heading","extended",FALSE
+"следствие",0.0707644628099174,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.581395349,"consequence; investigation","extended",FALSE
+"предположение",0.0703703703703704,1,"Grigoriev2026_cmp_Grigoriev2022",3.4,"assumption","extended",FALSE
+"развитие",0.0700719314355678,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.7083333335,"development","extended",FALSE
+"политика",0.0681818181818182,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.583333333,"politics","extended",FALSE
+"понимание",0.0681818181818182,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.583333333,"understanding","extended",FALSE
+"признак",0.0681818181818182,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.583333333,"sign","extended",FALSE
+"отчаяние",0.0678879310344828,1,"Grigoriev2026_cmp_Soloviev2022_500",3.918032787,"despair","extended",FALSE
+"расширение",0.0678879310344828,1,"Grigoriev2026_cmp_Soloviev2022_500",3.918032787,"expansion; extension","extended",FALSE
+"рассмотрение",0.0661157024793388,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.595238095,"consideration","extended",FALSE
+"смысл",0.065941613100704,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.254716981,"meaning; sense","extended",FALSE
+"впечатление",0.0650826446280992,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.595744681,"impression","extended",FALSE
+"преследование",0.0648148148148148,1,"Grigoriev2026_cmp_Grigoriev2022",3.363636364,"persecution","extended",FALSE
+"восстановление",0.0646551724137931,1,"Grigoriev2026_cmp_Soloviev2022_500",3.933333333,"restoration, recovery","extended",FALSE
+"страх",0.0640495867768595,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.596153846,"fear; terror","extended",FALSE
+"установление",0.0631425606641124,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",3.7916666665,"establishment; enactment","extended",FALSE
+"повод",0.0628826140189777,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.4841437635,"reason; occasion","extended",FALSE
+"волнение",0.0625,1,"Grigoriev2026_cmp_Soloviev2022_500",3.93442623,"excitement, agitation; waves (sea)","extended",FALSE
+"исключение",0.0625,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.604166667,"exception","extended",FALSE
+"память",0.0625,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.604166667,"memory","extended",FALSE
+"частность",0.0599173553719008,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.617021277,"particularity; detail","extended",FALSE
+"критика",0.0592672413793103,1,"Grigoriev2026_cmp_Soloviev2022_500",3.95,"criticism","extended",FALSE
+"обслуживание",0.0592672413793103,1,"Grigoriev2026_cmp_Soloviev2022_500",3.95,"service; maintenance","extended",FALSE
+"преобладание",0.0592592592592593,1,"Grigoriev2026_cmp_Grigoriev2022",3.272727273,"predominance","extended",FALSE
+"покой",0.0588842975206612,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.619047619,"peace; rest","extended",FALSE
+"проведение",0.0578512396694215,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.622641509,"conducting","extended",FALSE
+"страдание",0.0572158365261814,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",3.858333333,"suffering","extended",FALSE
+"отрасль",0.0568181818181818,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.625,"branch (of economy); sector","extended",FALSE
+"идентификация",0.0564814814814815,1,"Grigoriev2026_cmp_Grigoriev2022",3.266666667,"identification","extended",FALSE
+"ограниченность",0.0564814814814815,1,"Grigoriev2026_cmp_Grigoriev2022",3.266666667,"limitedness; narrow-mindedness","extended",FALSE
+"категория",0.0557851239669422,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.627906977,"category","extended",FALSE
+"концентрация",0.0549568965517241,1,"Grigoriev2026_cmp_Soloviev2022_500",3.983333333,"concentration","extended",FALSE
+"происхождение",0.0549568965517241,1,"Grigoriev2026_cmp_Soloviev2022_500",3.983333333,"origin","extended",FALSE
+"сведение",0.0547520661157025,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.646153846,"information; bringing together","extended",FALSE
+"мир",0.0537190082644628,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.65,"peace; world; community","extended",FALSE
+"преданность",0.0537037037037037,1,"Grigoriev2026_cmp_Grigoriev2022",3.222222222,"devotion","extended",FALSE
+"гордость",0.0517241379310345,1,"Grigoriev2026_cmp_Soloviev2022_500",4.016393443,"pride","extended",FALSE
+"удовольствие",0.0516528925619835,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.659574468,"pleasure","extended",FALSE
+"эгоизм",0.0509259259259259,1,"Grigoriev2026_cmp_Grigoriev2022",3.2,"egoism, selfishness","extended",FALSE
+"атмосфера",0.0506198347107438,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.660714286,"atmosphere","extended",FALSE
+"положение",0.0491831190694827,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.2375643225,"position","extended",FALSE
+"аналогия",0.0481481481481481,1,"Grigoriev2026_cmp_Grigoriev2022",3.181818182,"analogy","extended",FALSE
+"выполнение",0.0480371900826446,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.666666667,"performance, execution, fulfillment","extended",FALSE
+"назначение",0.0480371900826446,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.666666667,"appointment; purpose; destination","extended",FALSE
+"описание",0.0480371900826446,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.666666667,"description","extended",FALSE
+"перспектива",0.0480371900826446,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.666666667,"prospect; perspective","extended",FALSE
+"любопытство",0.0474137931034483,1,"Grigoriev2026_cmp_Soloviev2022_500",4.017857143,"curiosity","extended",FALSE
+"одарённость",0.0462962962962963,1,"Grigoriev2026_cmp_Grigoriev2022",3.166666667,"giftedness","extended",FALSE
+"противоречие",0.0452586206896552,1,"Grigoriev2026_cmp_Soloviev2022_500",4.035714286,"contradiction","extended",FALSE
+"предприимчивость",0.0444444444444444,1,"Grigoriev2026_cmp_Grigoriev2022",3.133333333,"enterprise","extended",FALSE
+"грех",0.0444214876033058,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.674418605,"sin","extended",FALSE
+"разница",0.0444214876033058,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.674418605,"difference","extended",FALSE
+"разрешение",0.0444214876033058,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.674418605,"permission / resolution","extended",FALSE
+"культура",0.0423553719008264,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.675,"culture","extended",FALSE
+"ненависть",0.0420258620689655,1,"Grigoriev2026_cmp_Soloviev2022_500",4.05,"hatred","extended",FALSE
+"иллюзия",0.0416666666666667,1,"Grigoriev2026_cmp_Grigoriev2022",3.111111111,"illusion","extended",FALSE
+"вера",0.0408057851239669,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.6875,"faith, belief","extended",FALSE
+"соединение",0.0392561983471074,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.696428571,"connection; compound; unit (military)","extended",FALSE
+"соображение",0.0385775862068966,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",3.985606061,"consideration; idea","extended",FALSE
+"освобождение",0.0377155172413793,1,"Grigoriev2026_cmp_Soloviev2022_500",4.1,"liberation","extended",FALSE
+"юность",0.0377155172413793,1,"Grigoriev2026_cmp_Soloviev2022_500",4.1,"youth","extended",FALSE
+"взаимодействие",0.0377066115702479,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.697674419,"interaction","extended",FALSE
+"пространство",0.0377066115702479,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.697674419,"space","extended",FALSE
+"добро",0.0361570247933884,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.714285714,"good; property; well (interjection)","extended",FALSE
+"стиль",0.0351239669421488,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.723076923,"style","extended",FALSE
+"сопротивление",0.0344827586206897,1,"Grigoriev2026_cmp_Soloviev2022_500",4.116666667,"resistance","extended",FALSE
+"благородство",0.0342592592592593,1,"Grigoriev2026_cmp_Grigoriev2022",3,"nobility (quality)","extended",FALSE
+"реальность",0.0340909090909091,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.729166667,"reality","extended",FALSE
+"сожаление",0.0330578512396694,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.734693878,"regret; pity","extended",FALSE
+"толк",0.0323275862068966,1,"Grigoriev2026_cmp_Soloviev2022_500",4.13559322,"sense; point","extended",FALSE
+"эффект",0.0320247933884297,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.744186047,"effect","extended",FALSE
+"сомнение",0.0299586776859504,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.75,"doubt","extended",FALSE
+"чудо",0.0299586776859504,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.75,"miracle, wonder","extended",FALSE
+"величие",0.0287037037037037,1,"Grigoriev2026_cmp_Grigoriev2022",2.944444444,"greatness, grandeur","extended",FALSE
+"гармония",0.0287037037037037,1,"Grigoriev2026_cmp_Grigoriev2022",2.944444444,"harmony","extended",FALSE
+"единство",0.0280172413793103,1,"Grigoriev2026_cmp_Soloviev2022_500",4.25,"unity, solidarity","extended",FALSE
+"будущее",0.0273760330578512,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.754716981,"future","extended",FALSE
+"чувство",0.0273760330578512,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.754716981,"feeling, sense","extended",FALSE
+"торжественность",0.0259259259259259,1,"Grigoriev2026_cmp_Grigoriev2022",2.933333333,"solemnity","extended",FALSE
+"регулирование",0.0258620689655172,1,"Grigoriev2026_cmp_Soloviev2022_500",4.277966102,"regulation; adjustment","extended",FALSE
+"воздействие",0.0258264462809917,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.76744186,"impact, influence, effect","extended",FALSE
+"необходимость",0.0247933884297521,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.773584906,"necessity","extended",FALSE
+"гонение",0.0240740740740741,1,"Grigoriev2026_cmp_Grigoriev2022",2.923076923,"persecution","extended",FALSE
+"образ",0.0237603305785124,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.8,"image; form; way","extended",FALSE
+"соотношение",0.0237068965517241,1,"Grigoriev2026_cmp_Soloviev2022_500",4.316666667,"ratio; proportion","extended",FALSE
+"энергия",0.0227272727272727,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.816326531,"energy","extended",FALSE
+"воспоминание",0.0206611570247934,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.833333333,"memory, recollection","extended",FALSE
+"открытие",0.0206611570247934,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.833333333,"discovery","extended",FALSE
+"эффективность",0.0206611570247934,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.833333333,"effectiveness, efficiency","extended",FALSE
+"возникновение",0.0204741379310345,1,"Grigoriev2026_cmp_Soloviev2022_500",4.338983051,"origin, emergence","extended",FALSE
+"верность",0.0203703703703704,1,"Grigoriev2026_cmp_Grigoriev2022",2.909090909,"loyalty, fidelity; accuracy","extended",FALSE
+"мысль",0.0184496479951025,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.3863636365,"thought","extended",FALSE
+"потребность",0.0180785123966942,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.854166667,"need","extended",FALSE
+"творчество",0.0180785123966942,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.854166667,"creativity; creative work","extended",FALSE
+"доверие",0.0161637931034483,1,"Grigoriev2026_cmp_Soloviev2022_500",4.4,"trust","extended",FALSE
+"мышление",0.0161637931034483,1,"Grigoriev2026_cmp_Soloviev2022_500",4.4,"thinking; thought","extended",FALSE
+"изучение",0.015495867768595,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.875,"study, learning","extended",FALSE
+"доброта",0.0148148148148148,1,"Grigoriev2026_cmp_Grigoriev2022",2.777777778,"kindness","extended",FALSE
+"ощущение",0.0134297520661157,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.905660377,"feeling; sensation","extended",FALSE
+"совращение",0.012962962962963,1,"Grigoriev2026_cmp_Grigoriev2022",2.733333333,"seduction; corruption","extended",FALSE
+"справедливость",0.0129310344827586,1,"Grigoriev2026_cmp_Soloviev2022_500",4.416666667,"justice; fairness","extended",FALSE
+"мечта",0.012396694214876,1,"Grigoriev2026_cmp_Soloviev2022_1000",3.910714286,"dream","extended",FALSE
+"преобразование",0.0111629948914432,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_500",3.2604006165,"transformation","extended",FALSE
+"альтруизм",0.0111111111111111,1,"Grigoriev2026_cmp_Grigoriev2022",2.722222222,"altruism","extended",FALSE
+"идеал",0.0107758620689655,1,"Grigoriev2026_cmp_Soloviev2022_500",4.433333333,"ideal","extended",FALSE
+"красота",0.0103305785123967,1,"Grigoriev2026_cmp_Soloviev2022_1000",4.020408163,"beauty","extended",FALSE
+"счастье",0.0103114478114478,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.318181818,"happiness; luck","extended",FALSE
+"сознание",0.0100091827364555,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.151923077,"consciousness; awareness","extended",FALSE
+"принятие",0.00929752066115703,1,"Grigoriev2026_cmp_Soloviev2022_1000",4.023255814,"acceptance","extended",FALSE
+"удача",0.00862068965517241,1,"Grigoriev2026_cmp_Soloviev2022_500",4.45,"luck; success","extended",FALSE
+"надежда",0.00826446280991736,1,"Grigoriev2026_cmp_Soloviev2022_1000",4.069767442,"hope","extended",FALSE
+"любовь",0.00723140495867769,1,"Grigoriev2026_cmp_Soloviev2022_1000",4.090909091,"love","extended",FALSE
+"идеология",0.00646551724137931,1,"Grigoriev2026_cmp_Soloviev2022_500",4.482142857,"ideology","extended",FALSE
+"время",0.00619834710743802,1,"Grigoriev2026_cmp_Soloviev2022_1000",4.1,"time","extended",FALSE
+"искусство",0.00516528925619835,1,"Grigoriev2026_cmp_Soloviev2022_1000",4.125,"art","extended",FALSE
+"фантазия",0.00431034482758621,1,"Grigoriev2026_cmp_Soloviev2022_500",4.508474576,"fantasy; imagination","extended",FALSE
+"дух",0.00422023262932354,2,"Grigoriev2026_cmp_Grigoriev2022;Grigoriev2026_cmp_Soloviev2022_1000",3.47997416,"spirit, ghost; courage","extended",FALSE
+"свобода",0.00413223140495868,1,"Grigoriev2026_cmp_Soloviev2022_1000",4.166666667,"freedom; liberty","extended",FALSE
+"будущность",0.0037037037037037,1,"Grigoriev2026_cmp_Grigoriev2022",2.222222222,"future, prospects","extended",FALSE
+"судьба",0.00309917355371901,1,"Grigoriev2026_cmp_Soloviev2022_1000",4.175,"fate; destiny","extended",FALSE
+"душа",0.00206611570247934,1,"Grigoriev2026_cmp_Soloviev2022_1000",4.295454545,"soul; person","extended",FALSE

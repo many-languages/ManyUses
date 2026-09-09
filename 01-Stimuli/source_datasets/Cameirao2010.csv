@@ -1,0 +1,1750 @@
+word_portuguese,translate_word_english,cgram,familiar_mean,concrete_mean,imagine_mean,aoa_mean,aoa_sd,length,silo_n,phonemes,silphom_n,ond,oup,phoneme_density,phonome_up,frequency,frequency_log
+Chão,floor,no,NA,NA,NA,1.95,0.96,4,1,3,1,3,3,8,3,1443,3.16
+Flor,flower,no,NA,NA,NA,1.55,0.65,4,1,4,1,2,4,0,4,1544,3.19
+Mar,sea,no,1.48,5.58,6.46,2.04,1.12,3,1,3,1,11,3,9,3,3770,3.58
+Mês,month,no,NA,NA,NA,3.19,1.35,3,1,3,1,2,3,8,3,6862,3.84
+Pão,bread,no,1.47,NA,NA,2.32,1.68,3,1,3,1,10,2,9,3,1357,3.13
+Rei,king,no,NA,NA,NA,3.28,1.69,3,1,3,1,4,3,2,3,1995,3.3
+Abril,april,no,NA,NA,NA,3.22,1.17,5,2,5,2,3,5,3,5,1096,3.04
+Acto,act,no,NA,NA,NA,6.02,1.65,4,2,3,2,11,4,24,3,1837,3.26
+Actor,actor,no,1.7,2.44,3.58,4.92,1.71,5,2,4,2,3,5,2,3,1419,3.15
+Alta,rise,no,NA,NA,NA,3,1.47,4,2,4,2,13,4,13,4,1046,3.02
+Arma,gun,no,NA,NA,NA,4.1,1.66,4,2,4,2,8,4,8,4,1803,3.26
+Arte,art,no,3.13,NA,NA,6.7,1.68,4,2,4,2,6,4,5,4,2907,3.46
+Avô,grandfather,no,NA,NA,NA,1.61,1,3,2,3,2,5,3,2,3,1018,3.46
+Água,water,no,1.5,6,6.23,2.12,2.09,4,2,4,2,3,4,5,4,8340,3.01
+Bairro,neighbourhood,no,NA,NA,NA,4.69,1.46,6,2,5,2,1,6,3,5,1087,3.92
+Banco,bank,no,2.14,6.22,6,3.05,1.47,5,2,4,2,9,5,9,4,2119,3.04
+Banda,band,no,NA,NA,NA,4.1,1.67,5,2,4,2,8,5,6,4,821,3.33
+Banho,bath,no,NA,NA,NA,2.1,1.21,5,2,4,2,10,5,7,4,1158,2.91
+Barco,boat,no,1.65,NA,NA,2.36,1.17,5,2,5,2,10,5,9,5,1884,3.06
+Bolsa,handbag,no,NA,NA,NA,5.25,2.36,5,2,5,2,6,5,4,5,1055,3.28
+Breve,soon,no,NA,NA,NA,5.2,1.86,5,2,5,2,1,5,1,4,2057,3.02
+Brilho,shine,no,NA,NA,NA,4.02,1.46,6,2,5,2,1,6,2,5,471,3.31
+Bronze,bronze,no,NA,NA,NA,5.7,1.88,6,2,5,2,0,6,0,5,1224,2.67
+Calor,heat,no,NA,NA,NA,2.52,1.18,5,2,5,2,3,5,2,5,1311,3.09
+Cama,bed,no,1.32,NA,NA,1.84,0.95,4,2,4,2,21,4,13,4,1863,3.12
+Campo,field,no,NA,NA,NA,2.83,1.14,5,2,4,2,3,5,4,4,4238,3.27
+Canto,corner,no,NA,NA,NA,3.12,1.58,5,2,4,2,13,5,11,4,1384,3.63
+Carga,load,no,NA,NA,NA,5.57,1.5,5,2,5,2,7,5,6,5,1060,3.14
+Carne,meat,no,NA,NA,NA,2.02,0.85,5,2,5,2,2,5,2,4,1658,3.03
+Carta,letter,no,NA,NA,NA,3.6,1.47,5,2,5,2,10,5,7,5,2596,3.22
+Casa,house,no,1.4,6.26,6.5,1.55,0.85,4,2,4,2,19,4,12,4,12731,3.41
+Casal,couple,no,NA,NA,NA,4.82,1.03,5,2,5,2,7,5,5,5,933,4.1
+Caso,case,no,NA,NA,NA,6.8,1.03,4,2,4,2,14,4,14,4,11160,2.97
+Cena,scene,no,NA,NA,NA,5.6,1.82,4,2,4,2,7,4,6,3,1384,4.05
+Cheiro,smell,no,NA,NA,NA,2.47,1.23,6,2,5,2,3,6,1,5,837,3.14
+Chuva,rain,no,NA,NA,NA,2.29,1.29,5,2,4,2,2,5,4,4,1839,2.92
+Cima,top,no,NA,NA,NA,2.32,1.27,4,2,4,2,9,4,11,4,3062,3.26
+Classe,class,no,NA,NA,NA,4.82,1.53,6,2,5,2,0,6,3,5,1817,3.49
+Clima,weather,no,NA,NA,NA,5.21,1.61,5,2,5,2,3,5,1,5,1345,3.26
+Clube,club,no,NA,NA,NA,5.06,2.08,5,2,5,2,0,3,0,4,3001,3.13
+Coisa,thing,no,NA,NA,NA,3.14,1.86,5,2,5,2,3,5,3,5,14657,3.48
+Compra,purchase,no,NA,NA,NA,3.36,1.35,6,2,5,2,1,6,1,5,1357,4.17
+Corpo,body,no,NA,NA,NA,3.38,1.31,5,2,5,2,8,5,6,4,5167,3.13
+Crise,crisis,no,NA,NA,NA,6.74,1.6,5,2,5,2,2,5,2,5,1931,3.71
+Curso,course,no,NA,NA,NA,6.19,1.35,5,2,5,2,5,5,4,5,2537,3.29
+Custo,cost,no,NA,NA,NA,4.54,1.99,5,2,5,2,9,5,9,5,1813,3.4
+Data,date,no,NA,NA,NA,3.26,1.31,4,2,4,2,9,4,9,3,2066,3.26
+Dedo,finger,no,NA,NA,NA,2.66,2.11,4,2,4,2,7,4,7,3,1489,3.32
+Dente,tooth,no,NA,NA,NA,2.88,1.81,5,2,4,2,7,5,9,4,1124,3.17
+Dia,day,no,2.1,4.54,4.08,2.16,1.33,3,2,3,2,10,3,9,3,21896,3.05
+Doido,crazy,no,NA,NA,NA,3.55,1.71,5,2,5,2,2,5,0,5,250,4.34
+Doutor,doctor,no,NA,NA,NA,3.34,1.35,6,2,5,2,1,6,0,4,996,2.4
+Droga,drug,no,NA,NA,NA,6.81,1.55,5,2,5,2,2,5,1,3,1187,3
+Dúzia,dozen,no,NA,NA,NA,4.65,1.04,5,2,5,2,0,3,0,5,892,3.07
+Face,face,no,NA,NA,NA,4.19,1.62,4,2,4,2,3,4,3,4,1173,2.95
+Facto,fact,no,NA,NA,NA,5.93,1.49,5,2,5,2,11,5,4,4,7722,3.07
+Fase,phase,no,NA,NA,NA,6.02,1.28,4,2,4,2,3,4,5,3,3848,3.89
+Feira,market,no,NA,NA,NA,3.6,1.6,5,2,5,2,11,5,7,5,716,3.59
+Féria,holiday,no,NA,NA,NA,5.12,2.11,5,2,5,2,3,5,4,5,1211,2.86
+Ferro,iron,no,NA,NA,NA,4.18,1.93,5,2,4,2,8,5,6,4,1744,3.08
+Fiel,faithful,no,NA,NA,NA,5.74,1.8,4,2,4,1,1,4,2,4,473,3.24
+Filho,son,no,NA,NA,NA,2.47,1.72,5,2,4,2,6,5,9,4,7644,2.68
+Filme,film,no,NA,NA,NA,3.05,1.22,5,2,5,2,1,5,1,5,2776,3.88
+Final,final,no,NA,NA,NA,5.76,1.56,5,2,5,2,4,5,4,5,1629,3.44
+Fio,thread,no,NA,NA,NA,3,1.55,3,2,3,2,12,3,11,3,995,3.21
+Fogo,fire,no,1.57,5.88,6.21,3.22,1.78,4,2,4,2,10,4,10,4,1822,3
+Forno,oven,no,NA,NA,NA,3.9,1.34,5,2,5,2,5,5,4,4,762,3.26
+Frase,sentence,no,2.1,3.9,3.17,4.37,1.23,5,2,5,2,3,5,4,4,1074,2.88
+Gente,people,no,NA,NA,NA,3.05,1.59,5,2,4,2,7,5,8,4,6927,3.03
+Gesto,gesture,no,NA,NA,NA,4.22,1.76,5,2,5,2,9,5,4,5,1445,3.84
+Gestor,manager,no,2.47,NA,NA,6.96,1.09,6,2,6,2,1,6,1,5,320,3.16
+Golo,goal,no,NA,NA,NA,2.75,1.21,4,2,4,2,16,4,11,4,2292,2.51
+Grupo,group,no,2.3,4.32,4.17,4.71,1.22,5,2,5,2,1,5,2,5,8138,3.36
+Guerra,war,no,2.7,2.98,4.74,4.4,1.6,6,2,4,2,1,6,6,3,3806,3.91
+Hora,hour,no,NA,NA,NA,2.94,1.63,4,2,3,2,7,4,12,3,10776,3.58
+Hotel,hotel,no,NA,NA,NA,4.08,1.57,5,2,4,2,1,5,1,3,1184,4.03
+Irmão,brother,no,NA,NA,NA,2.72,1.91,5,2,5,2,0,5,0,5,2654,3.07
+Jantar,dinner,no,1.47,NA,NA,2.86,1.32,6,2,5,2,2,6,2,4,1470,3.42
+Jardim,garden,no,1.63,5.48,6.02,2.96,1.24,6,2,5,2,0,6,0,3,1928,3.17
+Jovem,young man,no,NA,NA,NA,5.58,1.34,5,2,5,2,0,4,0,3,3548,3.29
+Judeu,jew,no,NA,NA,NA,6.68,1.5,5,2,5,2,0,4,0,4,327,3.55
+Juiz,judge,no,1.9,5.28,5.62,5.13,1.28,4,2,4,1,0,3,1,4,1324,2.52
+Junho,june,no,NA,NA,NA,4.05,1.36,5,2,4,2,5,4,6,3,1212,3.12
+Juro,interest,no,NA,NA,NA,4.16,1.77,4,2,4,2,7,4,11,4,1561,3.08
+Ilha,island,no,NA,NA,NA,4.18,1.53,4,2,3,2,6,4,11,3,2263,3.19
+Leite,milk,no,1.32,NA,NA,1.65,1.25,5,2,5,2,3,5,1,5,1009,3.35
+Líder,lider,no,NA,NA,NA,6.16,1.53,5,2,5,2,0,4,1,4,2616,3
+Língua,tongue,no,NA,NA,NA,2.65,1.67,6,2,5,2,2,3,3,5,2119,3.42
+Linha,line,no,NA,NA,NA,2.98,1.32,5,2,4,2,7,5,11,4,4105,3.33
+Lista,list,no,NA,NA,NA,6.4,1.31,5,2,5,2,4,5,3,5,2423,3.61
+Livro,book,no,1.26,NA,NA,2.6,1.32,5,2,5,2,2,5,2,5,4182,3.38
+Lua,moon,no,NA,NA,NA,2.44,1.39,3,2,3,2,13,3,13,3,814,3.62
+Lucro,profit,no,2.8,3.64,2.48,5.98,1.63,5,2,5,2,0,5,0,5,816,2.91
+Lume,fire,no,NA,NA,NA,3.74,1.43,4,2,4,2,5,4,5,4,853,2.91
+Mapa,map,no,NA,NA,NA,4.44,1.6,4,2,4,2,9,4,11,4,830,2.93
+Marca,brand,no,NA,NA,NA,4.68,1.58,5,2,5,2,8,5,7,5,1339,2.92
+Março,march,no,NA,NA,NA,3.95,1.17,5,2,5,2,3,5,4,4,1198,3.13
+Margem,margin,no,NA,NA,NA,5.85,1.46,6,2,6,2,0,5,0,4,1628,3.08
+Mastro,mast,no,NA,NA,NA,6.63,1.58,6,2,6,2,4,5,4,4,139,3.21
+Média,average,no,NA,NA,NA,6.1,1.88,5,2,5,2,1,5,2,5,1132,2.15
+Mesa,table,no,1.32,NA,NA,2.14,1.14,4,2,4,2,5,4,2,3,2633,3.05
+Metal,metal,no,NA,NA,NA,5.4,1.36,5,2,5,2,3,5,2,5,843,3.42
+Metro,subway,no,1.47,NA,NA,6.2,0.9,5,2,5,2,2,5,2,5,2752,2.93
+Milhar,million,no,NA,NA,NA,6.2,2.01,6,2,5,2,8,6,13,5,1451,3.44
+Missão,mission,no,NA,NA,NA,5.36,1.79,6,2,5,2,3,5,12,5,951,3.16
+Moda,fashion,no,NA,NA,NA,4.76,1.76,4,2,4,2,14,4,11,4,1086,2.98
+Modo,way,no,NA,NA,NA,4.68,2.19,4,2,4,2,11,4,7,4,5619,3.04
+Muro,wall,no,NA,NA,NA,3.24,1.04,4,2,4,2,9,4,11,4,796,3.75
+Museu,museum,no,NA,NA,NA,5.49,1.26,5,2,5,2,0,5,0,4,806,2.9
+Neve,snow,no,1.5,6.24,6.04,2.88,1.32,4,2,4,2,4,4,3,4,844,2.91
+Nível,level,no,NA,NA,NA,5.48,1.41,5,2,5,2,3,5,3,4,6051,2.93
+Noivo,groom,no,NA,NA,NA,4.55,1.84,5,2,5,2,3,5,2,5,738,3.78
+Nome,name,no,2.3,3.58,2.83,2.21,1.39,4,2,4,2,3,4,1,3,6353,2.87
+Norma,rule,no,NA,NA,NA,8.02,1.13,5,2,5,2,3,5,2,5,801,3.8
+Nota,note,no,NA,NA,NA,4.2,1.47,4,2,4,2,11,4,10,4,1530,2.9
+Núcleo,nucleus,no,NA,NA,NA,7.16,1.17,6,2,6,2,0,3,0,6,732,3.18
+Ombro,shoulder,no,1.47,NA,NA,3.31,1.4,5,2,4,2,1,5,1,4,1255,2.87
+Ordem,order,no,NA,NA,NA,4.28,1.58,5,2,5,2,0,5,0,4,4057,3.1
+Orgão,organ,no,NA,NA,NA,5.36,1.68,5,2,5,2,1,3,2,3,1302,3.61
+Ouro,gold,no,NA,NA,NA,4.46,1.72,4,2,3,2,12,4,18,3,1682,3.11
+Ovo,egg,no,NA,NA,NA,2.78,1.46,3,2,3,2,5,3,7,3,1140,3.23
+Padrão,pattern,no,NA,NA,NA,7.4,1.43,6,2,6,2,2,5,2,5,995,3.06
+Palco,stage,no,NA,NA,NA,4.53,1.37,5,2,5,2,3,4,4,4,792,3
+Papel,paper,no,NA,NA,NA,2.44,1.63,5,2,5,2,0,5,0,5,4743,2.9
+Parque,park,no,NA,NA,NA,3.51,1.72,6,2,5,2,2,6,4,5,1209,3.68
+Patrão,boss,no,NA,NA,NA,5,1.57,6,2,6,2,1,5,1,5,764,3.08
+Parte,part,no,NA,NA,NA,3.92,1.47,5,2,5,2,4,5,5,5,14010,2.88
+Pedra,stone,no,NA,NA,NA,2.57,1.42,5,2,5,2,0,5,0,4,2875,4.15
+Pele,skin,no,NA,NA,NA,3.2,1.26,4,2,4,2,4,4,0,4,1764,3.46
+Perda,loss,no,NA,NA,NA,4.83,1.46,5,2,5,2,2,5,1,4,1163,3.25
+Perna,leg,no,1.42,NA,NA,1.93,0.97,5,2,5,2,3,5,1,4,1413,3.07
+Pesca,fishing,no,NA,NA,NA,3.72,1.21,5,2,5,2,2,5,2,4,878,3.15
+Peso,weight,no,NA,NA,NA,5.14,1.37,4,2,4,2,6,4,7,3,1859,2.94
+Pista,clue,no,NA,NA,NA,6.14,1.68,5,2,5,2,5,5,4,5,761,3.27
+Plano,plan,no,NA,NA,NA,5.12,1.59,5,2,5,2,3,5,3,5,3022,2.88
+Ponte,bridge,no,1.43,6.26,6.38,3.5,1.47,5,2,4,2,8,5,6,4,778,3.48
+Porta,door,no,NA,NA,NA,2.06,1.17,5,2,5,2,10,5,4,5,4921,2.89
+Posto,position,no,NA,NA,NA,5.06,1.71,5,2,5,2,10,5,8,5,2093,3.69
+Povo,people,no,NA,NA,NA,4.04,1.63,4,2,4,2,5,4,7,3,3418,3.32
+Praia,beach,no,NA,NA,NA,2.78,1.63,5,2,5,2,4,4,3,4,1693,3.53
+Prazer,pleasure,no,2.93,2.08,2.9,5.3,1.72,6,2,6,2,2,6,2,5,1044,3.23
+Prémio,award,no,NA,NA,NA,3.9,1.56,6,2,6,2,3,4,3,4,1589,3.02
+Prisão,prison,no,1.87,5.36,5.63,4.79,1.8,6,2,6,2,0,5,0,5,1428,3.2
+Quarto,room,no,NA,NA,NA,2.5,1.25,6,2,6,2,2,6,1,6,2829,3.16
+Queixa,complaint,no,NA,NA,NA,3.82,1.47,6,2,5,2,3,6,4,5,1036,3.45
+Questão,question,no,NA,NA,NA,5.28,1.44,7,2,6,2,0,6,3,5,5391,3.02
+Rádio,radio,no,1.68,NA,NA,2.96,1.55,5,2,5,2,0,3,1,5,1130,3.73
+Ramo,branch,no,NA,NA,NA,4.26,1.66,4,2,4,2,11,4,6,4,1155,3.05
+Reacção,reaction,no,NA,NA,NA,6.56,1.33,7,2,6,2,1,5,0,5,1260,3.06
+Rede,network,no,NA,NA,NA,4.88,1.84,4,2,4,2,2,4,2,3,2558,3.1
+Regra,rule,no,3.07,2.98,2.42,4.27,1.54,5,2,5,2,2,5,3,5,2106,3.41
+Resto,rest,no,NA,NA,NA,4.14,2.04,5,2,5,2,8,5,8,5,2728,3.32
+Risco,risk,no,NA,NA,NA,5.12,1.8,5,2,5,2,9,5,8,5,2377,3.44
+Roda,wheel,no,NA,NA,NA,2.29,1.26,4,2,4,2,11,4,9,4,1015,3.38
+Rosto,face,no,NA,NA,NA,4.05,1.75,5,2,5,2,6,4,7,4,1583,3.01
+Roupa,clothing,no,NA,NA,NA,3.58,1.43,5,2,4,2,1,5,8,4,1185,3.2
+Rua,road,no,NA,NA,NA,2.57,1.24,3,2,3,2,7,3,6,3,3961,3.07
+Santo,saint,no,NA,NA,NA,3.71,1.44,5,2,4,2,4,5,7,4,996,3.6
+Sede,headquarters,no,NA,NA,NA,2.35,1.3,4,2,4,2,4,4,4,4,1247,3
+Sessão,session,no,NA,NA,NA,5.74,1.65,6,2,5,2,1,5,4,5,1634,3.1
+Série,series,no,NA,NA,NA,5.66,1.6,5,2,5,2,1,5,3,5,2509,3.21
+Sinal,sign,no,NA,NA,NA,4.3,1.97,5,2,5,2,2,5,1,5,2451,3.4
+Sítio,place,no,NA,NA,NA,3.44,1.51,5,2,5,2,1,3,4,5,1406,3.39
+Sonho,dream,no,NA,NA,NA,3.3,1.5,5,2,4,2,2,5,5,3,1779,3.15
+Sopa,soup,no,1.53,6.28,6.19,1.72,1.24,4,2,4,2,8,4,6,4,1256,3.25
+Sorte,luck,no,NA,NA,NA,3.73,1.36,5,2,5,2,5,5,5,4,1178,3.1
+Tarde,afternoon,no,NA,NA,NA,2.53,1,5,2,5,2,0,5,0,4,3666,3.07
+Tempo,time,no,NA,NA,NA,3.2,1.46,5,2,4,2,3,5,8,4,17878,3.56
+Tensão,tension,no,NA,NA,NA,6.72,1.5,6,2,5,2,4,5,7,4,1776,4.25
+Termo,end,no,NA,NA,NA,7.94,1,5,2,5,2,3,5,2,5,4317,3.25
+Terra,earth,no,NA,NA,NA,3.5,1.91,5,2,4,2,5,5,7,4,6585,3.64
+Tiro,shot,no,NA,NA,NA,3.2,1.36,4,2,4,2,9,4,9,4,885,3.82
+Treino,training,no,NA,NA,NA,5.13,1.38,6,2,6,2,2,6,0,6,1017,2.95
+Vale,valley,no,2.4,5.22,4.31,5,1.88,4,2,4,2,4,4,3,4,1368,3.01
+Valor,value,no,3.17,2.1,2.27,5,1.7,5,2,5,2,3,5,3,4,7691,3.14
+Verão,summer,no,NA,NA,NA,3.54,1.84,5,2,5,2,6,4,4,4,1439,3.89
+Verba,summer,no,NA,NA,NA,8.42,1.11,5,2,5,2,3,5,1,5,881,3.16
+Verbo,verb,no,NA,NA,NA,4.88,1.36,5,2,5,2,3,5,2,5,138,2.95
+Via,way,no,NA,NA,NA,6.3,1.52,3,2,3,2,14,3,12,3,2793,2.14
+Vida,life,no,NA,NA,NA,3.35,1.56,4,2,4,2,11,4,13,4,13495,3.45
+Vidro,glass,no,NA,NA,NA,3.38,1.69,5,2,5,2,2,5,2,5,934,4.13
+Vinho,wine,no,NA,NA,NA,3.76,1.53,5,2,4,2,6,5,8,4,2320,2.97
+Vista,view,no,NA,NA,NA,3.82,1.24,5,2,5,2,4,5,3,5,3922,3.37
+Volta,return,no,NA,NA,NA,3.92,1.78,5,2,5,2,3,5,3,5,4461,3.59
+Voto,vote,no,NA,NA,NA,6.33,1.44,4,2,4,2,9,4,5,3,2085,3.65
+Ácido,acid,no,NA,NA,NA,6.37,1.87,5,3,5,3,2,3,2,3,235,3.32
+Adulto,adult,no,NA,NA,NA,3.73,1.76,6,3,6,3,1,6,2,6,584,2.37
+Afecto,affection,no,NA,NA,NA,5.26,1.82,6,3,5,3,1,6,3,5,208,2.77
+Agência,agency,no,NA,NA,NA,6.46,1.46,7,3,6,3,0,3,0,6,947,2.32
+Agosto,august,no,NA,NA,NA,3.38,1.11,6,3,6,3,2,4,2,4,2688,2.98
+Ajuda,help,no,NA,NA,NA,3.4,1.48,5,3,5,3,1,5,2,5,1233,3.43
+Álcool,alcohol,no,NA,NA,NA,5.5,1.84,6,3,6,2,0,3,0,6,563,3.09
+Aldeia,village,no,NA,NA,NA,3.24,1.7,6,3,6,3,1,5,1,4,1949,2.75
+Alívio,relief,no,NA,NA,NA,6.13,1.51,6,3,6,3,1,4,1,6,234,3.29
+Almoço,lunch,no,1.5,NA,NA,2.9,1.43,6,3,6,3,0,6,0,4,871,2.37
+Alvará,permit,no,NA,NA,NA,8.32,0.98,6,3,6,3,1,6,0,5,119,2.94
+Amador,amateur,no,NA,NA,NA,5.88,1.51,6,3,6,3,1,6,2,5,383,2.08
+Amante,lover,no,NA,NA,NA,6.86,1.48,6,3,5,3,1,6,0,5,524,2.58
+Ambição,ambition,no,NA,NA,NA,6.18,1.62,7,3,6,3,0,5,0,5,545,2.72
+Âmbito,scope,no,NA,NA,NA,7.98,0.88,6,3,5,3,0,4,2,4,1569,2.74
+Amigo,friend,no,NA,NA,NA,2.74,1.26,5,3,5,3,2,5,3,5,4182,3.2
+Anexo,attachment,no,NA,NA,NA,7.43,1.36,5,3,6,3,2,5,1,6,160,3.62
+Angústia,anguish,no,NA,NA,NA,7.88,0.92,8,3,7,3,0,4,0,7,444,2.21
+Animal,animal,no,NA,NA,NA,2.27,1.14,6,3,6,3,1,6,1,6,2302,2.65
+Ânimo,soul,no,NA,NA,NA,6.9,1.43,5,3,5,3,0,3,1,5,312,3.36
+Apelo,appeal,no,NA,NA,NA,7.05,1.48,5,3,5,3,4,5,2,4,784,2.5
+Aplauso,applause,no,NA,NA,NA,5.6,1.6,7,3,7,3,0,6,0,6,172,2.89
+Árbitro,referee,no,1.93,NA,NA,5.49,1.45,7,3,7,3,0,3,0,3,1373,2.24
+Arbusto,bush,no,NA,NA,NA,4.85,1.55,7,3,7,3,0,7,0,7,159,3.14
+Areia,sand,no,NA,NA,NA,2.73,1.75,5,3,5,3,4,5,4,4,1016,2.2
+Arguido,accused,no,NA,NA,NA,8.15,1.08,7,3,7,3,1,6,0,6,628,3.01
+Armário,closet,no,2,NA,NA,3.77,1.56,7,3,7,3,0,4,0,6,411,2.8
+Armazém,warehouse,no,NA,NA,NA,5.46,1.49,7,3,7,3,0,6,0,6,426,2.61
+Arquivo,archive,no,NA,NA,NA,6.69,1.36,7,3,6,3,0,7,0,6,310,2.63
+Arranjo,arrangement,no,NA,NA,NA,6.19,1.53,7,3,5,3,3,7,2,5,350,2.49
+Arranque,start,no,NA,NA,NA,5.9,1.64,8,3,5,3,0,6,2,5,250,2.55
+Artesão,craftsman,no,NA,NA,NA,6.8,1.01,7,3,7,3,0,6,0,6,243,2.4
+Artigo,article,no,NA,NA,NA,6.82,0.87,6,3,6,3,1,6,0,6,6837,2.39
+Artista,artist,no,NA,NA,NA,4.74,1.61,7,3,7,3,1,5,0,7,1378,3.83
+Asilo,asylum,no,2.77,5.02,4.15,6.82,1.45,5,3,5,3,1,5,2,5,162,3.14
+Ataque,attack,no,NA,NA,NA,5.1,1.43,6,3,5,3,0,4,2,5,1512,2.21
+Atleta,athlete,no,NA,NA,NA,5.08,1.32,6,3,6,3,0,6,0,6,830,3.18
+Atraso,delay,no,NA,NA,NA,4.32,1.54,6,3,6,3,0,6,0,5,864,2.92
+Aumento,increase,no,NA,NA,NA,5.08,1.66,7,3,6,3,1,7,0,6,2795,2.94
+Ausência,absence,no,NA,NA,NA,5.52,1.37,8,3,7,3,0,4,0,5,1239,3.45
+Auxílio,support,no,NA,NA,NA,6.64,1.61,7,3,7,3,0,4,0,7,409,3.09
+Azeite,olive oil,no,1.95,NA,NA,4.1,1.25,6,3,6,3,2,6,2,6,683,2.61
+Baliza,goal,no,NA,NA,NA,3.64,1.31,6,3,6,3,1,6,0,6,504,2.84
+Bancada,row,no,NA,NA,NA,4.96,1.52,7,3,6,3,1,6,3,5,724,2.7
+Barraca,shack,no,NA,NA,NA,5.21,1.55,7,3,6,3,3,7,3,6,441,2.86
+Barreira,barrier,no,NA,NA,NA,5.68,1.37,8,3,7,3,3,8,4,7,440,2.65
+Batata,potato,no,1.7,NA,NA,2.18,1.36,6,3,6,3,3,6,4,5,576,2.64
+Beleza,beauty,no,NA,NA,NA,4.38,1.41,6,3,6,3,0,5,0,4,1107,2.76
+Bilhete,ticket,no,NA,NA,NA,4.16,1.49,7,3,6,3,0,7,0,6,684,3.04
+Bocado,piece,no,NA,NA,NA,3.44,1.62,6,3,6,3,1,5,3,5,2373,2.84
+Bombeiro,fireman,no,1.65,NA,NA,3.44,1.15,8,3,7,3,0,5,1,5,1070,3.38
+Cabeça,head,no,1.26,NA,NA,1.65,0.66,6,3,6,3,2,6,2,6,4663,3.03
+Cadáver,body,no,NA,NA,NA,7.23,1.21,7,3,7,3,0,4,0,5,428,3.67
+Cadeia,prison,no,NA,NA,NA,4.45,1.81,6,3,6,3,4,6,2,6,891,2.63
+Cadeira,chair,no,1.95,NA,NA,2.28,1.13,7,3,7,3,8,7,6,7,1138,2.95
+Cálculo,calculation,no,NA,NA,NA,5.44,1.37,7,3,7,3,0,5,0,7,675,3.06
+Camada,layer,no,3.07,4.12,2.71,5.56,1.36,6,3,6,3,7,5,8,5,775,2.83
+Camião,truck,no,1.9,6.52,6.46,4.28,1.28,6,3,6,2,1,5,0,5,513,2.89
+Camisa,shirt,no,1.37,NA,NA,3.36,1.47,6,3,6,3,0,6,1,6,539,2.71
+Capital,capital,no,NA,NA,NA,6.19,1.82,7,3,7,3,1,7,1,6,3580,2.73
+Carácter,character,no,NA,NA,NA,7.32,1.12,8,3,7,3,0,4,0,6,1840,3.55
+Carreira,career,no,NA,NA,NA,5.88,1.65,8,3,7,3,5,8,6,7,1366,3.27
+Castelo,castle,no,NA,NA,NA,3.48,1.91,7,3,7,3,1,7,0,5,674,3.14
+Cavalo,horse,no,1.11,6.68,6.77,2.78,1.31,6,3,6,3,4,6,3,6,1559,2.83
+Centena,hundred,no,NA,NA,NA,5.04,0.81,7,3,6,3,1,7,1,4,1301,3.19
+Céptico,sceptical,no,NA,NA,NA,8.23,1.07,7,3,6,3,1,3,4,5,83,3.11
+Certeza,certainty,no,NA,NA,NA,5.21,1.44,7,3,7,3,1,6,1,5,1924,1.92
+Chamada,call,no,NA,NA,NA,4.65,1.44,7,3,6,3,2,6,5,5,886,3.28
+Cidadão,citizen,no,NA,NA,NA,6.07,1.31,7,3,7,3,0,6,0,6,1689,2.95
+Ciência,science,no,NA,NA,NA,6.27,1.5,7,3,6,2,0,3,0,4,6914,3.23
+Cinema,cinema,no,NA,NA,NA,4.51,1.4,6,3,6,3,0,6,1,5,1686,3.84
+Circuito,circuit,no,NA,NA,NA,6.54,1.43,8,3,8,3,0,6,0,6,1424,3.23
+Círculo,circle,no,NA,NA,NA,5.02,2.21,7,3,7,3,0,4,0,7,718,3.15
+Cliente,client,no,NA,NA,NA,4.98,1.38,7,3,6,2,1,7,0,6,1324,2.86
+Colégio,private school,no,NA,NA,NA,4.1,1.74,7,3,7,3,0,5,0,5,438,3.12
+Combate,combat,no,NA,NA,NA,5.33,1.33,7,3,6,3,1,7,0,4,994,2.64
+Começo,start,no,NA,NA,NA,4.62,1.56,6,3,6,3,0,6,1,5,595,3
+Comércio,commerce,no,NA,NA,NA,5.36,1.21,8,3,8,3,0,5,0,5,1788,2.78
+Comida,food,no,NA,NA,NA,1.76,1.17,6,3,6,3,0,5,3,5,527,3.25
+Comissão,comission,no,NA,NA,NA,7.02,1.44,8,3,7,3,1,7,4,6,1296,2.72
+Complexo,complex,no,NA,NA,NA,6.48,1.91,8,3,8,3,2,8,0,8,838,3.11
+Conceito,concept,no,NA,NA,NA,6.38,1.59,8,3,7,3,2,8,1,7,1128,2.92
+Concerto,concert,no,NA,NA,NA,5.72,1.62,8,3,7,3,2,8,0,4,980,3.05
+Concessão,concession,no,NA,NA,NA,7.66,1.83,9,3,7,3,1,8,2,6,485,2.99
+Conclusão,conclusion,no,NA,NA,NA,5.88,1.35,9,3,8,3,0,8,0,7,1426,2.69
+Concreto,concrete,no,NA,NA,NA,7.54,1.03,8,3,7,3,0,8,0,7,774,3.15
+Concurso,contest,no,NA,NA,NA,5.1,1.36,8,3,7,3,0,6,0,6,1500,2.89
+Conduta,conduct,no,NA,NA,NA,6.18,2.26,7,3,6,3,1,7,1,6,437,3.18
+Condutor,driver,no,NA,NA,NA,4.4,1.33,8,3,7,3,1,8,0,6,1018,2.64
+Congresso,congress,no,NA,NA,NA,8.02,1.07,9,3,7,3,0,9,0,5,855,3.01
+Conquista,conquer,no,NA,NA,NA,5.67,1.45,9,3,7,3,1,9,0,7,752,2.93
+Construção,construction,no,NA,NA,NA,6.26,1.01,10,3,9,3,1,8,1,6,3961,2.88
+Consumo,consumption,no,NA,NA,NA,6.02,1.5,7,3,6,3,0,7,0,6,1575,3.6
+Contraste,contrast,no,NA,NA,NA,7.14,1.09,9,3,8,3,0,9,0,6,530,3.2
+Controlo,control,no,NA,NA,NA,6.44,1.41,8,3,7,3,0,8,0,5,1875,2.73
+Convicção,conviction,no,NA,NA,NA,7.53,1.24,9,3,8,3,1,7,0,6,507,3.27
+Convite,invitition,no,NA,NA,NA,4.7,1.39,7,3,6,3,0,6,0,5,651,2.71
+Convívio,gathering,no,NA,NA,NA,6.16,1.39,8,3,7,3,0,5,0,6,384,2.81
+Coração,heart,no,NA,NA,NA,3.16,1.42,7,3,7,3,5,5,5,5,2213,2.59
+Coragem,courage,no,NA,NA,NA,4.94,1.67,7,3,7,3,3,5,4,5,626,3.35
+Corredor,runner,no,NA,NA,NA,4.18,1.35,8,3,7,3,1,7,1,6,808,2.8
+Correio,mail,no,NA,NA,NA,4.54,1.65,7,3,6,3,2,7,1,6,520,2.91
+Conselho,advice,no,NA,NA,NA,6.18,1.43,8,3,6,3,1,8,0,5,1239,2.72
+Costume,habit,no,NA,NA,NA,5.68,1.53,7,3,7,3,1,7,2,7,926,3.09
+Cozinha,kitchen,no,NA,NA,NA,3.19,1.37,7,3,6,3,1,7,1,6,1315,2.97
+Crédito,credit,no,NA,NA,NA,7.27,1.43,7,3,7,3,1,5,0,5,1179,3.12
+Criança,child,no,NA,NA,NA,3.34,1.37,7,3,6,2,0,7,0,6,5652,3.07
+Crítica,criticism,no,NA,NA,NA,7,1.14,7,3,7,3,1,7,1,7,1471,3.75
+Cultura,culture,no,NA,NA,NA,6.02,1.3,7,3,7,3,0,7,1,7,13809,3.17
+Década,decade,no,NA,NA,NA,6.61,1.22,6,3,6,3,0,4,0,5,1600,4.14
+Decisão,decision,no,NA,NA,NA,5.74,1.08,7,3,7,3,1,6,2,6,3331,3.2
+Defeito,defect,no,NA,NA,NA,5.7,1.59,7,3,7,3,2,7,1,7,504,3.52
+Defesa,defense,no,NA,NA,NA,6.1,1.22,6,3,6,3,3,6,3,6,2499,2.7
+Demissão,resignation,no,NA,NA,NA,7.28,1.43,8,3,7,3,2,7,1,6,507,3.4
+Derrota,failure,no,NA,NA,NA,5.28,1.57,7,3,6,3,1,7,0,4,1201,2.71
+Descrição,discription,no,NA,NA,NA,5.86,1.34,9,3,9,3,1,7,0,8,491,3.08
+Desgraça,disgrace,no,NA,NA,NA,5.36,1.52,8,3,8,3,1,8,0,6,451,2.69
+Desporto,sport,no,NA,NA,NA,4.35,1.42,8,3,8,3,1,8,1,6,10871,2.66
+Destino,faith,no,NA,NA,NA,5.66,1.67,7,3,7,3,1,7,0,7,1633,4.04
+Desvio,deflection,no,NA,NA,NA,5.44,1.59,6,3,6,3,1,6,0,6,505,3.21
+Dezembro,december,no,NA,NA,NA,3.44,1.42,8,3,7,3,0,5,0,7,3619,2.7
+Dezena,ten,no,NA,NA,NA,4.4,1.26,6,3,6,3,0,5,0,4,1095,3.56
+Difusão,diffusion,no,NA,NA,NA,8.28,0.97,7,3,7,3,1,6,1,6,430,3.04
+Dimensão,dimension,no,NA,NA,NA,5.76,1.49,8,3,7,3,0,7,1,6,1690,2.63
+Direcção,direction,no,NA,NA,NA,5.98,1.39,8,3,7,3,0,6,1,6,3284,3.23
+Director,director,no,NA,NA,NA,5.84,1.7,8,3,7,3,1,8,0,6,2127,3.52
+Direita,right,no,NA,NA,NA,3.48,1.32,7,3,7,3,1,7,2,7,1036,3.33
+Discurso,speech,no,NA,NA,NA,5.86,1.35,8,3,8,3,0,8,0,8,1448,3.02
+Distância,distance,no,NA,NA,NA,5.45,1.19,9,3,8,3,0,5,0,8,1596,3.16
+Distinção,distinction,no,NA,NA,NA,6.77,1.54,9,3,8,3,0,7,1,6,416,3.2
+Dívida,debt,no,NA,NA,NA,5.69,1.34,6,3,6,3,1,3,3,6,1099,2.62
+Divisão,division,no,NA,NA,NA,5.35,1.23,7,3,7,3,0,6,0,6,1300,3.04
+Doença,disease,no,NA,NA,NA,3.22,1.33,6,3,5,2,0,5,0,4,3015,3.11
+Doente,sick,no,NA,NA,NA,2.92,1.59,6,3,5,2,3,6,2,5,1419,3.48
+Eleição,election,no,NA,NA,NA,6.17,1.29,7,3,7,3,0,5,0,5,2772,3.15
+Eleitor,elector,no,NA,NA,NA,7.58,1.05,7,3,7,3,2,7,1,6,456,3.44
+Empate,draw,no,NA,NA,NA,4.88,1.27,6,3,5,3,1,6,2,4,609,2.66
+Emprego,job,no,NA,NA,NA,5,1.54,7,3,6,3,0,7,0,5,2200,2.79
+Empresa,company,no,NA,NA,NA,5.86,1.5,7,3,6,3,0,7,1,5,7752,3.34
+Encargo,charge,no,NA,NA,NA,7.26,1.35,7,3,6,3,0,6,2,5,468,3.89
+Encontro,meeting,no,NA,NA,NA,4.74,1.61,8,3,6,3,1,8,0,6,3657,2.67
+Ensaio,rehearsal,no,NA,NA,NA,5.4,1.45,6,3,5,3,0,6,0,5,549,3.56
+Envio,sending,no,NA,NA,NA,5.41,1.58,5,3,4,3,1,5,0,4,162,2.74
+Equipa,team,no,NA,NA,NA,4.27,1.35,6,3,5,3,1,6,0,5,6138,2.21
+Escala,scale,no,NA,NA,NA,6.16,1.38,6,3,6,3,7,6,5,6,1024,3.79
+Escola,school,no,NA,NA,NA,2.78,1.58,6,3,6,3,10,6,7,6,8296,3.01
+Escolha,choice,no,NA,NA,NA,4.08,1.96,7,3,6,3,4,7,2,6,1490,3.92
+Escravo,slave,no,2.23,4.76,5.02,6.15,1.01,7,3,7,3,1,7,1,7,486,3.17
+Escritor,writer,no,2.05,NA,NA,4.82,1.26,8,3,8,3,2,8,0,7,988,2.69
+Espaço,space,no,NA,NA,NA,4.56,1.4,6,3,6,3,0,6,3,5,13522,3
+Espanto,amazement,no,2.87,2.28,3.06,5.69,1.52,7,3,6,3,1,7,1,6,411,4.13
+Espécie,species,no,NA,NA,NA,6.67,1.43,7,3,7,3,0,7,0,6,2955,2.61
+Espelho,mirror,no,1.55,NA,NA,3.23,1.34,7,3,6,3,0,7,0,NA,762,3.47
+Esposo,husband,no,NA,NA,NA,5.88,1.48,6,3,6,3,2,6,1,6,449,2.88
+Esquema,scheme,no,NA,NA,NA,6.21,1.51,7,3,6,3,0,7,2,5,707,2.65
+Estação,station,no,NA,NA,NA,4.42,1.2,7,3,7,3,3,5,3,6,2569,2.85
+Estado,state,no,NA,NA,NA,6.04,1.29,6,3,6,3,6,6,7,6,5050,3.41
+Estágio,traineeship,no,NA,NA,NA,7.71,1.4,7,3,7,3,1,5,1,5,348,3.7
+Estilo,style,no,3.33,2.46,2.6,6.58,1.39,6,3,6,3,2,6,3,6,1519,2.54
+Estrada,road,no,NA,NA,NA,4.88,1.49,7,3,7,3,5,7,3,7,1825,3.18
+Estrela,start,no,NA,NA,NA,2.92,1.37,7,3,7,3,3,7,1,6,1397,3.26
+Evento,event,no,NA,NA,NA,6.62,1.39,6,3,5,3,1,6,2,5,496,3.15
+Excesso,excess,no,NA,NA,NA,6.49,1.59,7,3,7,3,1,7,2,7,660,2.7
+Êxito,sucess,no,NA,NA,NA,6.36,1.42,5,3,6,3,0,3,0,4,906,2.82
+Expansão,expansion,no,NA,NA,NA,6.56,1.47,8,3,8,3,0,7,0,7,901,2.96
+Explosão,explosion,no,NA,NA,NA,4.66,1.72,8,3,9,3,0,7,1,8,514,2.96
+Expressão,expression,no,NA,NA,NA,5.78,1.56,9,3,9,3,1,8,1,8,2048,2.71
+Extensão,extension,no,NA,NA,NA,6.74,1.54,8,3,8,3,1,7,2,7,873,3.31
+Fabrico,manufacture,no,NA,NA,NA,6.26,1.12,7,3,7,3,0,7,0,7,571,2.94
+Fatia,slice,no,NA,NA,NA,3.74,1.43,5,3,5,3,2,5,0,5,456,2.76
+Festival,festival,no,NA,NA,NA,6.29,1.56,8,3,8,3,1,8,1,7,518,2.66
+Figura,figure,no,NA,NA,NA,4.1,1.67,6,3,6,3,2,6,2,6,3711,2.72
+Finito,finite,no,NA,NA,NA,7,1.47,6,3,6,3,0,4,1,4,24,3.57
+Formação,formation,no,NA,NA,NA,6.6,1.34,8,3,8,3,0,6,1,6,3077,1.4
+Frequência,frequency,no,NA,NA,NA,6.38,1.52,10,3,9,3,0,6,0,7,1387,3.49
+Fronteira,border,no,NA,NA,NA,5.92,1.43,9,3,8,3,1,9,2,8,820,3.14
+Fundação,foundation,no,NA,NA,NA,7.66,0.98,8,3,7,3,1,6,1,5,540,2.91
+Futebol,football,no,NA,NA,NA,3.1,1.64,7,3,7,3,0,4,0,4,2652,2.73
+Galinha,chicken,no,1.74,6.78,6.67,2.38,1.37,7,3,6,3,1,7,1,6,436,3.42
+Garrafa,bottle,no,1.32,NA,NA,4.28,1.4,7,3,6,3,1,7,0,5,508,2.64
+Género,kind,no,NA,NA,NA,6.22,1.39,6,3,6,3,1,6,1,6,1527,2.71
+Governo,government,no,NA,NA,NA,6.12,1.45,7,3,7,3,0,7,0,4,2437,3.18
+Grandeza,greatness,no,NA,NA,NA,5.84,1.54,8,3,7,3,0,7,0,5,585,3.39
+Guloso,greedy,no,NA,NA,NA,3.5,1.73,6,3,6,3,0,6,4,4,30,2.77
+Hospital,hospital,no,NA,NA,NA,3.13,1.56,8,3,7,3,0,8,0,4,1585,1.49
+Ideia,idea,no,NA,NA,NA,4.08,1.73,5,3,5,3,0,4,0,4,4721,3.2
+Igreja,church,no,NA,NA,NA,3.04,1.41,6,3,6,3,0,6,0,4,1615,3.67
+Ilusão,illusion,no,NA,NA,NA,6.38,1.69,6,3,6,3,2,5,5,5,482,3.21
+Imagem,image,no,NA,NA,NA,4,1.58,6,3,6,3,0,5,0,3,5822,2.68
+Imortal,immortal,no,NA,NA,NA,6.3,1.75,7,3,7,3,2,7,2,6,52,3.77
+Imóvel,immobile,no,NA,NA,NA,7.26,0.83,6,3,6,3,1,3,1,3,537,1.72
+Impacto,impact,no,NA,NA,NA,5.94,1.58,7,3,6,3,0,6,2,4,699,2.73
+Imprensa,press,no,NA,NA,NA,6.92,1.03,8,3,6,3,0,6,1,4,1676,2.85
+Impressão,impression,no,NA,NA,NA,6.88,1.31,9,3,7,3,1,8,1,6,1039,3.22
+Impulso,impulse,no,NA,NA,NA,6.48,1.47,7,3,6,3,1,7,1,6,409,3.02
+Incêndio,fire,no,NA,NA,NA,4.42,1.44,8,3,6,3,0,4,0,6,907,2.61
+Indústria,industry,no,NA,NA,NA,5.98,1.22,9,3,8,3,0,4,0,8,1892,2.96
+Infiel,unfaithful,no,NA,NA,NA,7.47,1.29,6,3,5,2,0,5,1,3,53,3.28
+Injusto,unfair,no,NA,NA,NA,5.5,1.4,7,3,6,3,0,7,1,6,222,1.73
+Intenção,intention,no,NA,NA,NA,6.63,1.13,8,3,6,3,1,6,2,5,1397,2.35
+Janela,window,no,NA,NA,NA,2.4,1.43,6,3,6,3,3,6,3,6,2060,3.15
+Jogador,player,no,NA,NA,NA,3.8,1.34,7,3,7,3,0,6,0,4,3262,3.31
+Jornada,journey,no,NA,NA,NA,6.4,1.78,7,3,7,3,2,7,2,6,1754,3.51
+Juízo,judgement,no,NA,NA,NA,4.08,1.94,5,3,5,2,0,3,0,4,429,3.24
+Justiça,justice,no,3,1.8,2.71,5.44,1.63,7,3,7,3,1,7,1,7,1776,2.63
+Lateral,lateral,no,NA,NA,NA,6.34,1.21,6,3,6,3,3,6,3,6,385,3.25
+Ligação,connection,no,NA,NA,NA,5.88,1.39,7,3,7,3,2,5,2,5,2196,2.59
+Limite,limit,no,NA,NA,NA,6.02,1.7,6,3,6,3,0,6,0,6,1486,3.34
+Linguagem,language,no,NA,NA,NA,5.42,1.33,9,3,8,3,0,7,0,6,1024,3.17
+Litoral,seaside,no,NA,NA,NA,5.83,1.46,7,3,7,3,1,5,1,6,460,3.01
+Mandato,mandate,no,NA,NA,NA,7.92,0.89,7,3,6,3,0,7,0,5,1014,2.66
+Manteiga,butter,no,2,NA,NA,2.82,1.2,8,3,7,3,0,8,0,7,846,3.01
+Máquina,machine,no,2.17,6.18,5.35,3.98,1.67,7,3,6,3,0,3,0,4,1875,2.93
+Marcador,marker,no,NA,NA,NA,3.54,1.95,8,3,8,3,1,6,1,6,623,3.27
+Marido,husband,no,2.13,4.8,4.42,4.26,1.52,6,3,6,3,0,5,1,5,1888,2.8
+Massacre,massacre,no,NA,NA,NA,7.6,1.01,8,3,7,3,0,8,0,5,392,3.28
+Medalha,medal,no,NA,NA,NA,5,1.48,7,3,6,3,0,5,0,4,452,2.59
+Menino,little boy,no,NA,NA,NA,1.79,1.34,6,3,6,3,0,6,0,6,2321,2.66
+Mercado,market,no,NA,NA,NA,4.26,1.65,7,3,7,3,2,7,1,6,4890,3.37
+Metade,half,no,NA,NA,NA,3.24,1.24,6,3,6,3,0,5,0,5,1649,3.69
+Método,method,no,NA,NA,NA,6.08,1.99,6,3,6,3,0,4,0,4,1528,3.22
+Milénio,millenium,no,NA,NA,NA,6.38,1.63,7,3,7,3,0,5,0,5,1011,3.18
+Minuto,minute,no,NA,NA,NA,3.84,1.45,6,3,6,3,2,6,2,6,3478,3.01
+Mistério,mystery,no,NA,NA,NA,5.84,1.57,8,3,8,3,0,5,0,7,668,3.54
+Miúdo,kid,no,NA,NA,NA,4.07,1.45,5,3,5,2,1,5,2,5,910,2.83
+Modelo,model,no,NA,NA,NA,5.33,1.64,6,3,6,3,0,6,0,5,2211,2.96
+Momento,moment,no,NA,NA,NA,5.13,1.77,7,3,6,3,1,7,2,6,5817,3.34
+Montante,amount,no,NA,NA,NA,7.41,1.37,8,3,6,3,0,7,1,5,754,3.76
+Mudança,change,no,NA,NA,NA,5.33,1.43,7,3,6,3,0,5,0,4,1823,2.88
+Muralha,wall,no,NA,NA,NA,5.48,1.64,7,3,6,3,0,6,2,5,464,3.26
+Música,music,no,NA,NA,NA,2.5,1.36,6,3,6,3,1,6,1,6,2491,2.67
+Navio,ship,no,2.11,NA,NA,3.72,1.72,5,3,5,3,1,4,1,4,891,3.4
+Negócio,business,no,NA,NA,NA,6,1.92,7,3,7,3,0,4,0,4,2041,2.95
+Notável,remarkable,no,NA,NA,NA,7.2,1.12,7,3,7,3,1,5,1,7,709,3.31
+Notícia,news,no,NA,NA,NA,4.98,1.5,7,3,7,3,0,4,0,7,1763,2.85
+Novembro,november,no,NA,NA,NA,3.92,1.26,8,3,7,3,0,5,0,5,2491,3.25
+Obeso,obese,no,NA,NA,NA,6.73,1.63,5,3,5,3,0,5,0,3,33,3.4
+Obeso,obese,no,NA,NA,NA,6.73,1.63,5,3,5,3,0,5,0,3,33,1.52
+Oferta,offer,no,NA,NA,NA,5,1.62,6,3,6,3,1,6,0,3,894,1.53
+Ofício,trade,no,NA,NA,NA,6.54,1.5,6,3,6,3,0,4,0,6,457,2.95
+Orelha,ear,no,1.32,NA,NA,2.02,0.96,6,3,5,3,2,3,2,4,453,2.66
+Origem,origin,no,NA,NA,NA,6.17,1.29,6,3,6,3,0,5,0,5,2926,2.66
+Orquestra,orchestra,no,NA,NA,NA,6.14,1.44,9,3,8,3,1,9,0,4,551,3.47
+Outubro,october,no,NA,NA,NA,4.13,1.18,7,3,6,3,0,4,0,4,2786,2.74
+Ouvido,ear,no,NA,NA,NA,2.43,1.34,6,3,5,3,1,5,2,4,578,3.45
+Página,page,no,NA,NA,NA,4.48,1.28,6,3,6,3,0,3,0,4,19173,2.76
+Paisagem,landscape,no,NA,NA,NA,5.16,1.66,8,3,8,3,1,7,0,5,1054,4.28
+Paragem,stop,no,NA,NA,NA,5.22,1.82,7,3,7,3,2,5,2,5,515,3.02
+Partida,departure,no,NA,NA,NA,4.21,1.7,7,3,7,3,1,7,2,7,1796,2.71
+Partido,party,no,NA,NA,NA,5.4,2.62,7,3,7,3,1,7,1,7,3745,3.25
+Passagem,passage,no,NA,NA,NA,5.56,1.55,8,3,7,3,3,8,2,5,1922,3.57
+Pássaro,bird,no,NA,NA,NA,2.18,1.16,7,3,6,3,0,4,0,5,564,3.28
+Passeio,sidewalk,no,NA,NA,NA,2.98,1.49,7,3,6,3,1,6,2,5,999,2.75
+Pavilhão,pavilion,no,NA,NA,NA,5.36,1.24,8,3,7,3,0,5,0,5,854,3
+Percurso,course,no,NA,NA,NA,6.14,1.2,8,3,8,3,0,6,0,6,1063,2.93
+Perfume,perfume,no,1.47,NA,NA,4.07,1.3,7,3,7,3,0,7,0,7,643,3.03
+Pergunta,question,no,NA,NA,NA,3.25,1.34,8,3,7,3,1,8,0,7,1447,2.81
+Pescador,fisherman,no,1.74,NA,NA,4.14,1.54,8,3,8,3,1,7,1,6,746,3.16
+Pesquisa,research,no,NA,NA,NA,6.67,1.14,8,3,7,3,1,8,0,7,4787,2.87
+Piloto,pilot,no,NA,NA,NA,4.45,1.72,6,3,6,3,2,6,1,5,726,3.68
+Pimenta,pepper,no,2.74,NA,NA,4.48,1.57,7,3,6,3,1,7,2,6,895,2.86
+Pintura,painting,no,NA,NA,NA,3.5,1.63,7,3,6,3,2,5,2,5,1081,2.95
+Piscina,swimmingpool,no,NA,NA,NA,3.56,1.33,7,3,7,3,0,6,0,6,484,3.03
+Planície,plain,no,NA,NA,NA,6.44,1.16,8,3,8,3,0,5,0,6,534,2.69
+Plástico,plastic,no,NA,NA,NA,4.36,1.47,8,3,8,3,2,8,2,8,395,2.73
+Plenário,plenary,no,NA,NA,NA,8.27,0.91,8,3,8,3,0,5,0,5,215,2.6
+Pormenor,detail,no,NA,NA,NA,7.15,1.38,8,3,8,3,0,8,0,7,997,2.33
+Porta-voz,representative,no,NA,NA,NA,7,1.25,8,3,8,3,0,7,0,6,556,3
+Porteiro,doorkeeper,no,2.16,NA,NA,4.71,1.55,8,3,8,3,3,6,1,6,206,2.75
+Português,portuguese,no,NA,NA,NA,4.33,1.29,9,3,8,3,0,8,0,7,1971,2.32
+Posição,position,no,NA,NA,NA,5.4,1.39,7,3,7,3,2,5,4,6,3875,3.29
+Potência,power,no,NA,NA,NA,7,1.81,8,3,7,3,0,4,1,7,789,3.59
+Poupança,savings,no,NA,NA,NA,5.76,1.88,8,3,6,3,0,6,0,4,982,2.9
+Prática,practice,no,NA,NA,NA,5.42,1.49,7,3,7,3,1,7,1,7,2128,2.99
+Prestação,instalment,no,NA,NA,NA,7.86,1.11,9,3,9,3,0,7,0,7,774,3.33
+Prestígio,prestige,no,NA,NA,NA,7.45,1.4,9,3,9,3,0,6,0,9,472,2.89
+Príncipe,prince,no,NA,NA,NA,2.83,1.3,8,3,7,3,0,3,0,7,560,2.67
+Princípio,beginning,no,NA,NA,NA,5.07,1.68,9,3,8,3,1,9,1,8,3373,2.75
+Problema,problem,no,NA,NA,NA,4.17,1.45,8,3,8,3,0,8,0,6,8050,3.53
+Procura,search,no,NA,NA,NA,4,1.89,7,3,7,3,1,7,0,7,2090,3.91
+Produto,product,no,NA,NA,NA,5.96,1.19,7,3,7,3,1,7,0,7,3970,3.32
+Professor,teacher,no,1.47,NA,NA,3.27,1.09,9,3,8,3,1,9,1,7,3082,3.6
+Profissão,profession,no,2.37,4.18,3.13,4.46,1.29,9,3,8,3,1,8,1,7,827,3.49
+Progresso,progress,no,3.23,2.62,2.44,6.56,1.33,9,3,8,3,1,9,0,6,945,2.92
+Promotor,promoter,no,NA,NA,NA,6.7,1.93,8,3,8,3,0,6,1,6,281,2.98
+Proporção,proportion,no,NA,NA,NA,7.66,0.72,9,3,9,3,0,8,1,8,519,2.45
+Protecção,protection,no,NA,NA,NA,5.9,1.59,9,3,8,3,1,7,1,7,1378,2.72
+Província,province,no,NA,NA,NA,6.52,1.17,9,3,8,3,0,5,0,8,979,3.14
+Público,public,no,NA,NA,NA,5.02,1.49,7,3,7,3,0,7,0,7,10815,2.99
+Receio,fear,no,NA,NA,NA,6.02,1.56,6,3,6,3,2,6,1,6,614,4.03
+Reflexão,reflection,no,NA,NA,NA,7.31,1.45,8,3,8,3,1,7,1,7,669,2.79
+Reforma,retirement,no,NA,NA,NA,6.6,1.41,7,3,7,3,1,7,0,4,1425,2.83
+Região,region,no,NA,NA,NA,5.06,1.32,6,3,6,2,1,5,0,4,7154,3.15
+Regime,regime,no,NA,NA,NA,6.36,1.76,6,3,6,3,0,6,0,6,2151,3.85
+Registo,registration,no,NA,NA,NA,5.76,1.74,7,3,7,3,0,7,0,7,884,3.33
+Relevo,relief,no,NA,NA,NA,7.06,1.66,6,3,6,3,0,6,0,5,701,2.95
+Relógio,clock,no,1.12,6.6,6.6,3.6,1.35,7,3,7,3,0,4,0,4,761,2.85
+Relvado,lawn,no,NA,NA,NA,3.69,1.67,7,3,7,3,0,6,0,6,451,2.88
+Repente,sudden,no,NA,NA,NA,5.74,1.93,7,3,6,3,2,7,2,6,1074,2.66
+Respeito,respect,no,NA,NA,NA,4.66,1.89,8,3,8,3,2,8,2,8,2384,3.03
+Restante,remaining,no,NA,NA,NA,6.22,1.46,8,3,7,3,1,6,1,5,1227,3.38
+Retrato,portrait,no,NA,NA,NA,4.94,1.14,7,3,7,3,0,7,0,7,659,3.09
+Revista,magazine,no,2.05,NA,NA,3.98,1.49,7,3,7,3,2,7,0,7,1244,2.82
+Revolta,revolt,no,NA,NA,NA,6.02,1.44,7,3,7,3,2,7,0,6,581,3.1
+Riqueza,fortune,no,NA,NA,NA,5.1,1.53,7,3,6,3,0,3,1,4,873,2.76
+Ritual,ritual,no,NA,NA,NA,6.54,1.58,6,3,6,2,0,4,0,4,394,2.94
+Romance,romance,no,NA,NA,NA,6.98,0.84,7,3,6,3,0,7,0,6,786,2.6
+Ruído,noise,no,NA,NA,NA,5.06,1.93,5,3,5,2,0,4,2,5,726,2.9
+Saída,exit,no,NA,NA,NA,3.26,1.26,5,3,5,3,2,3,2,4,2082,2.86
+Salário,salary,no,NA,NA,NA,6.02,1.54,7,3,7,3,0,4,1,5,928,3.32
+Sapato,shoe,no,1.32,NA,NA,2.19,1.21,6,3,6,3,0,6,0,5,677,2.97
+Saúde,health,no,NA,NA,NA,4.21,1.51,5,3,5,3,0,3,0,3,2738,2.83
+Sedutor,seductive,no,NA,NA,NA,7.39,1.24,7,3,7,3,1,5,1,5,67,3.44
+Segredo,secret,no,NA,NA,NA,2.98,1.04,7,3,7,3,1,7,1,5,850,1.83
+Semana,week,no,NA,NA,NA,3.12,1.25,6,3,6,3,1,6,0,6,6141,2.93
+Semestre,semester,no,NA,NA,NA,7.7,1.5,8,3,8,3,0,8,0,4,301,3.79
+Sensação,feeling,no,NA,NA,NA,6.03,1.51,8,3,7,3,0,6,1,6,753,2.48
+Sentido,sense,no,NA,NA,NA,7,1.21,7,3,6,3,0,6,1,5,4856,2.88
+Sequência,sequency,no,NA,NA,NA,6.34,1.27,9,3,8,3,0,5,0,8,1254,3.69
+Síntese,synthesis,no,NA,NA,NA,7.06,1.24,7,3,6,3,0,4,0,5,459,3.1
+Sistema,system,no,NA,NA,NA,6.94,1.64,7,3,7,3,0,7,0,5,5690,2.66
+Solução,solution,no,NA,NA,NA,5.76,1.39,7,3,7,3,1,6,0,6,2392,3.76
+Sondagem,poll,no,NA,NA,NA,7.52,1.49,8,3,7,3,0,6,0,5,543,3.38
+Sorriso,smile,no,NA,NA,NA,2.88,1.72,7,3,6,3,0,6,0,5,1150,2.74
+Subida,climb,no,NA,NA,NA,3.98,2.03,6,3,6,3,0,5,0,5,1024,3.06
+Subsídio,subsidy,no,NA,NA,NA,6.98,1.55,8,3,8,3,0,5,0,8,739,3.01
+Sugestão,suggestion,no,NA,NA,NA,6.57,1.27,8,3,8,3,0,7,0,7,519,2.87
+Suicídio,suicide,no,NA,NA,NA,6.88,1.75,8,3,8,3,0,5,0,7,287,2.72
+Suporte,support,no,NA,NA,NA,6.31,1.37,7,3,7,3,0,7,0,4,406,2.46
+Surpresa,surprise,no,NA,NA,NA,3.24,1.17,8,3,8,3,1,8,1,8,1082,2.61
+Suspeita,suspician,no,NA,NA,NA,6.78,1.54,8,3,8,3,2,8,1,8,455,3.03
+Suspensão,suspension,no,NA,NA,NA,7.1,0.84,9,3,8,3,1,8,0,7,491,2.66
+Tabela,table,no,NA,NA,NA,5.41,1.51,6,3,6,3,2,6,1,5,666,2.69
+Talento,talent,no,NA,NA,NA,5.58,1.55,7,3,6,3,1,7,1,6,429,2.82
+Técnica,technique,no,NA,NA,NA,6.65,1.68,7,3,7,3,1,7,1,7,1273,2.63
+Telhado,roof,no,NA,NA,NA,4.42,1.31,7,3,6,3,1,6,1,4,420,3.11
+Tendência,tendency,no,NA,NA,NA,7.38,1.25,9,3,7,3,1,5,2,7,1642,2.62
+Ternura,tenderness,no,NA,NA,NA,5.02,2.04,7,3,7,3,0,5,0,4,409,3.22
+Terreno,ground,no,NA,NA,NA,4.84,1.4,7,3,6,3,0,6,0,4,2553,2.61
+Título,title,no,NA,NA,NA,5.02,1.62,6,3,6,3,0,4,0,6,2645,3.41
+Tomada,capture,no,NA,NA,NA,4.1,1.52,6,3,6,3,2,5,3,5,647,3.42
+Tráfego,traffic,no,NA,NA,NA,7.71,1.29,7,3,7,3,0,5,0,5,398,2.81
+Tragédia,tragedy,no,2.9,2.38,3.19,6.88,1.26,8,3,8,3,0,5,0,6,757,2.6
+Trânsito,traffic,no,NA,NA,NA,5.26,1.63,8,3,7,3,0,6,1,7,1065,2.88
+Transmissão,transmission,no,NA,NA,NA,7.02,1.47,11,3,9,3,0,10,0,8,781,3.03
+Tratado,treaty,no,NA,NA,NA,6.66,1.45,7,3,7,3,1,7,1,6,487,2.89
+Treinador,coach,no,NA,NA,NA,5.02,1.27,9,3,9,3,0,7,0,6,1887,2.69
+Tristeza,sadness,no,NA,NA,NA,4.2,1.75,8,3,8,3,0,7,0,6,495,3.28
+Triunfo,triumph,no,NA,NA,NA,6.84,1.33,7,3,6,2,1,7,1,6,818,2.7
+Turista,tourist,no,NA,NA,NA,5.35,1.33,7,3,7,3,2,6,3,7,654,2.91
+Utente,user,no,NA,NA,NA,7.4,1.48,6,3,5,3,0,5,1,4,538,2.82
+Vantagem,advantage,no,NA,NA,NA,4.82,1.47,8,3,7,3,0,6,1,4,1666,2.73
+Vencedor,winner,no,NA,NA,NA,4.42,1.11,8,3,7,3,1,6,1,4,734,3.22
+Vestígio,trace,no,NA,NA,NA,7.24,1.08,8,3,8,3,0,6,0,6,642,2.87
+Viagem,trip,no,NA,NA,NA,4.3,1.23,6,3,6,2,2,4,1,4,2449,2.81
+Virtude,virtue,no,NA,NA,NA,6.75,1.49,7,3,7,3,0,6,0,5,690,3.39
+Vítima,victim,no,NA,NA,NA,6.19,1.5,6,3,6,3,0,4,0,6,1732,2.84
+Vizinho,neighbour,no,NA,NA,NA,3.76,1.44,7,3,6,3,0,7,0,6,480,3.24
+Vocação,vocation,no,NA,NA,NA,8.34,0.77,7,3,7,3,3,5,4,5,354,2.68
+Volante,steering wheel,no,NA,NA,NA,4.7,1.86,7,3,6,3,1,5,1,4,217,2.55
+Vontade,will,no,3.1,2,2.23,3.9,1.62,7,3,6,3,0,3,1,2,2119,2.34
+Votação,voting,no,NA,NA,NA,6.73,1.54,7,3,7,3,6,5,7,4,568,3.33
+Abertura,opening,no,NA,NA,NA,4.66,1.39,8,4,8,4,0,6,0,4,1628,2.76
+Abordagem,approach,no,NA,NA,NA,6.94,1.53,9,4,9,4,1,7,1,7,351,3.21
+Acessório,accessory,no,NA,NA,NA,7.15,1.3,9,4,8,4,0,6,0,5,179,2.55
+Acidente,accident,no,NA,NA,NA,4.42,1.16,8,4,7,4,1,8,2,7,2016,2.26
+Acusação,accusation,no,NA,NA,NA,6.76,1.39,8,4,8,4,0,6,0,6,1116,3.3
+Adaptação,adaptation,no,NA,NA,NA,7.23,1.36,9,4,9,4,0,7,0,7,606,3.05
+Adjectivo,adjective,no,NA,NA,NA,5.96,1.34,9,4,8,4,0,9,0,8,132,2.78
+Adversário,opponent,no,NA,NA,NA,5.62,1.58,10,4,10,4,0,7,0,7,1113,2.12
+Afirmação,affirmation,no,NA,NA,NA,6.16,1.65,9,4,9,4,0,7,0,7,706,3.05
+Agricultor,farmer,no,1.7,NA,NA,4.41,1.41,10,4,10,4,0,9,0,9,527,2.85
+Alegria,joy,no,1.53,2.2,3.38,2.7,1.38,7,4,7,4,1,6,1,6,1142,2.72
+Aliado,ally,no,NA,NA,NA,6.83,1.68,6,4,6,3,5,5,8,5,234,3.06
+Aliança,alliance,no,NA,NA,NA,5.62,1.56,7,4,6,3,0,5,0,4,339,2.37
+Ambiente,environment,no,NA,NA,NA,4.85,1.87,8,4,6,3,0,8,0,6,2161,2.53
+Amizade,friendship,no,NA,NA,NA,3.8,1.55,7,4,7,4,0,4,0,4,584,3.33
+Amplitude,amplitude,no,NA,NA,NA,7.34,1.41,9,4,8,4,0,6,0,5,362,2.77
+Análise,analysis,no,NA,NA,NA,6.34,1.77,7,4,7,4,0,5,0,5,1980,2.56
+Analista,analyst,no,NA,NA,NA,7.28,1.51,8,4,8,4,1,7,1,6,307,3.3
+Aparelho,machine,no,NA,NA,NA,5.64,1.41,8,4,7,4,1,8,1,7,1074,2.49
+Aparência,appearance,no,NA,NA,NA,6.49,1.65,9,4,8,4,0,5,0,6,273,3.03
+Apetite,appetite,no,NA,NA,NA,5,1.62,7,4,7,4,0,7,0,7,208,2.44
+Aprovação,approval,no,NA,NA,NA,6.14,1.65,9,4,9,4,1,7,1,7,556,2.32
+Arbitragem,refereeing,no,NA,NA,NA,6.24,1.42,10,4,10,4,0,8,0,8,482,2.75
+Arquitecto,arquitect,no,1.9,NA,NA,6.37,1.3,10,4,8,4,0,10,0,8,615,2.68
+Artefacto,artefact,no,NA,NA,NA,7.7,1.52,9,4,9,4,0,5,0,6,148,2.79
+Assassínio,murder,no,NA,NA,NA,7.24,0.82,10,4,8,4,0,7,1,7,243,2.17
+Assassino,murderer,no,NA,NA,NA,5.68,1.78,9,4,7,4,0,9,1,7,220,2.39
+Atitude,attitude,no,NA,NA,NA,7.06,1.55,7,4,7,4,2,4,1,4,1716,2.34
+Atmosfera,atmosphere,no,NA,NA,NA,6.24,1.29,9,4,9,4,0,7,0,9,833,3.23
+Audiência,audience,no,NA,NA,NA,6.84,1.73,9,4,8,3,0,5,0,5,640,2.92
+Auditório,auditorium,no,NA,NA,NA,6.64,1.95,9,4,9,4,0,6,0,6,313,2.81
+Autarquia,council,no,NA,NA,NA,7.32,1.74,9,4,8,4,0,6,1,6,1914,2.5
+Autoria,autorship,no,NA,NA,NA,7.3,1.11,7,4,7,4,1,7,0,7,349,3.28
+Avenida,avenue,no,NA,NA,NA,5.44,1.78,7,4,7,4,0,5,0,4,330,2.54
+Aventura,adventure,no,3.1,2.7,3.08,4.98,1.45,8,4,7,4,1,8,1,7,528,2.52
+Balneário,changing room,no,NA,NA,NA,5.47,1.5,9,4,9,3,0,6,0,8,139,2.72
+Basquetebol,basketball,no,NA,NA,NA,4.67,1.31,11,4,10,4,0,4,0,5,266,2.15
+Brincadeira,play,no,NA,NA,NA,2.48,1.34,11,4,10,4,0,8,0,6,333,2.43
+Calendário,calendar,no,NA,NA,NA,5.28,0.57,10,4,9,4,0,7,0,6,471,2.52
+Camarada,comrade,no,NA,NA,NA,6.38,1.59,8,4,8,4,1,8,1,7,202,2.67
+Capacete,helmet,no,NA,NA,NA,4.04,1.54,8,4,8,4,0,6,0,6,149,2.31
+Carpinteiro,carpenter,no,2.35,NA,NA,4.92,1.69,11,4,10,4,0,11,0,10,115,2.18
+Carruagem,carriage,no,NA,NA,NA,4.98,1.68,9,4,8,3,0,5,0,4,255,2.06
+Cavaleiro,knight,no,NA,NA,NA,4.36,1.34,9,4,9,4,1,7,1,7,408,2.41
+Celebração,celebration,no,NA,NA,NA,5.9,1.79,10,4,10,4,1,8,1,7,285,2.61
+Cemitério,cemitery,no,NA,NA,NA,4.56,1.37,9,4,9,4,0,4,0,6,583,2.46
+Centímetro,centimetre,no,NA,NA,NA,5.43,1.09,10,4,9,4,0,5,0,6,195,2.77
+Chocolate,chocolate,no,1.65,NA,NA,2.4,1.54,9,4,8,4,0,9,0,6,218,2.29
+Cientista,scientist,no,2.25,NA,NA,6.56,1.65,9,4,8,3,0,8,0,7,428,2.34
+Circulação,circulation,no,NA,NA,NA,6.81,1.41,10,4,10,4,0,8,0,8,886,2.63
+Cobertura,covering,no,NA,NA,NA,6.12,1.8,9,4,9,4,0,7,0,7,509,2.95
+Cogumelo,mushroom,no,1.95,NA,NA,3.73,1.71,8,4,8,4,0,5,0,5,260,2.71
+Colocação,collocation,no,NA,NA,NA,6.92,1.22,9,4,9,4,1,7,1,6,400,2.42
+Comandante,commander,no,NA,NA,NA,5.08,1.64,10,4,8,4,0,8,0,6,712,2.6
+Combinação,combination,no,NA,NA,NA,7.1,1.02,10,4,9,4,0,8,0,6,460,2.85
+Combustível,fuel,no,NA,NA,NA,5.82,1.35,11,4,10,4,0,8,1,7,68,2.66
+Comparação,comparison,no,NA,NA,NA,5.98,1.47,10,4,9,4,0,8,0,7,557,1.84
+Competência,competence,no,NA,NA,NA,7.04,1.22,11,4,9,4,0,7,1,7,807,2.75
+Competição,competititon,no,NA,NA,NA,5.54,1.42,10,4,9,4,0,8,0,7,935,2.91
+Componente,component,no,NA,NA,NA,6.98,1.7,10,4,8,4,0,6,0,5,795,2.97
+Composição,composition,no,NA,NA,NA,5.2,0.86,10,4,9,4,0,8,0,7,801,2.9
+Comprimento,lenght,no,NA,NA,NA,4.94,1.15,11,4,9,4,1,8,1,7,686,2.9
+Compromisso,commitment,no,NA,NA,NA,6.77,1.38,11,4,9,4,0,8,0,7,861,2.84
+Computador,computer,no,NA,NA,NA,5.54,1.54,10,4,9,4,1,10,0,8,1637,2.94
+Comunismo,communism,no,NA,NA,NA,7.84,1.53,9,4,9,4,0,8,0,8,109,3.21
+Concentração,concentration,no,NA,NA,NA,5.95,1.31,12,4,10,4,0,10,0,8,699,2.04
+Concorrente,chain,no,NA,NA,NA,5.83,1.37,11,4,8,4,0,9,0,7,465,2.85
+Condensador,condenser,no,NA,NA,NA,7.92,1.2,11,4,9,4,0,9,1,7,277,2.67
+Conferência,conference,no,NA,NA,NA,7.38,1.37,11,4,9,4,0,7,0,9,1240,2.44
+Confiança,trust,no,2.97,2.08,2.37,6.65,0.99,9,4,7,3,0,7,0,5,1214,3.09
+Consulado,consulate,no,NA,NA,NA,7.67,1.53,9,4,8,4,0,7,0,7,150,3.08
+Consultório,office,no,NA,NA,NA,5.35,1.73,11,4,10,4,0,8,0,7,127,2.18
+Contestação,refutation,no,NA,NA,NA,8.04,1.07,11,4,10,4,0,9,0,7,334,2.11
+Continente,continent,no,NA,NA,NA,4.8,1.47,10,4,8,4,1,10,1,8,917,2.53
+Convergência,convergence,no,NA,NA,NA,8.1,1.34,12,4,10,4,0,8,0,8,293,2.96
+Conversação,conversation,no,NA,NA,NA,6.56,1.7,11,4,10,4,0,9,0,8,307,2.47
+Costureiro,tailor,no,NA,NA,NA,5.96,1.28,10,4,10,4,1,10,1,10,157,2.49
+Criatura,creature,no,NA,NA,NA,5.61,1.47,8,4,8,3,0,6,0,6,315,2.2
+Criminoso,criminal,no,NA,NA,NA,6.12,1.5,9,4,9,4,0,9,0,7,209,2.5
+Cruzamento,crossroads,no,NA,NA,NA,6.27,1.32,10,4,9,4,0,6,0,6,320,2.32
+Currículo,curriculum,no,NA,NA,NA,7.8,1.81,9,4,8,4,0,5,1,6,175,2.51
+Declaração,statement,no,NA,NA,NA,6.94,1.66,10,4,10,4,1,8,1,7,1762,2.25
+Decreto-lei,act,no,NA,NA,NA,8.62,0.63,10,4,10,4,0,8,0,8,516,3.25
+Definição,definition,no,NA,NA,NA,6.12,1.48,9,4,9,4,0,7,0,7,705,2.71
+Degradação,degradation,no,NA,NA,NA,7.42,1.44,10,4,10,4,0,8,0,8,300,2.85
+Delegação,delegation,no,NA,NA,NA,6.92,1.75,9,4,9,4,1,7,1,8,492,2.48
+Densidade,thickness,no,NA,NA,NA,7.38,1.01,9,4,8,4,0,6,0,5,343,2.69
+Dependência,dependence,no,NA,NA,NA,6.74,1.51,11,4,9,4,0,7,1,7,471,2.54
+Depósito,deposit,no,NA,NA,NA,7.13,1.48,8,4,8,4,0,4,0,4,728,2.67
+Desafio,challenge,no,NA,NA,NA,5.9,1.26,7,4,7,4,0,7,0,7,1014,2.86
+Desempenho,performance,no,NA,NA,NA,7,1.35,10,4,8,4,1,10,0,7,403,3.01
+Desespero,despair,no,NA,NA,NA,6.35,1.38,9,4,9,4,0,9,0,7,384,2.61
+Designação,designation,no,NA,NA,NA,7.8,1.18,10,4,10,4,1,8,1,8,602,2.59
+Desperdício,waste,no,NA,NA,NA,6.9,1.47,11,4,11,4,1,11,1,11,145,2.78
+Deslocação,dislocation,no,NA,NA,NA,7.12,0.77,10,4,10,4,0,8,0,8,599,2.16
+Despedida,farewell,no,NA,NA,NA,4.98,1.75,9,4,9,4,1,8,1,8,250,2.78
+Diamante,diamant,no,NA,NA,NA,6.76,1.08,8,4,7,3,0,8,0,7,161,2.4
+Dignidade,dignity,no,NA,NA,NA,7.44,1.35,9,4,9,4,0,6,1,6,517,2.21
+Dinâmica,dynamic,no,NA,NA,NA,7.54,1.08,8,4,8,4,1,8,1,8,476,2.71
+Dinamismo,dynamism,no,NA,NA,NA,7.36,1.69,9,4,9,4,0,7,0,7,216,2.68
+Dinastia,dinasty,no,NA,NA,NA,6.2,1.36,8,4,8,4,0,5,0,5,565,2.34
+Dinossauro,dinossaur,no,NA,NA,NA,3.88,1.59,10,4,9,4,0,4,0,5,137,2.75
+Diplomata,diplomat,no,NA,NA,NA,7.08,1.7,9,4,9,4,0,9,0,9,204,2.14
+Discípulo,disciple,no,NA,NA,NA,6.26,1.79,9,4,9,4,0,5,0,7,285,2.31
+Discoteca,disco,no,NA,NA,NA,6.6,1.61,9,4,9,4,0,6,0,7,352,2.46
+Disposição,mood,no,2.1,2.16,2.04,6.67,1.39,10,4,10,4,0,8,1,8,969,2.55
+Divergência,divergence,no,NA,NA,NA,7.64,1.46,11,4,10,4,0,7,0,8,332,2.99
+Divulgação,divulging,no,NA,NA,NA,7.49,1.08,10,4,10,4,0,8,0,7,505,2.52
+Domicílio,dwelling,no,NA,NA,NA,6.92,1.54,9,4,9,4,0,6,0,9,155,2.7
+Educador,educator,no,NA,NA,NA,4.64,2.15,8,4,8,4,1,8,0,6,123,2.19
+Elefante,elephant,no,1.24,6.8,6.6,2.92,1.38,8,4,7,4,1,8,1,7,223,2.09
+Elemento,element,no,NA,NA,NA,5.88,1.6,8,4,7,4,1,8,1,7,3759,2.35
+Elevador,elevator,no,1.6,NA,NA,3.82,1.74,8,4,8,4,0,6,0,6,182,3.58
+Elevação,elevation,no,NA,NA,NA,6.18,1.91,8,4,8,4,0,6,0,6,312,2.26
+Embalagem,packet,no,NA,NA,NA,4.94,1.39,9,4,8,4,0,7,0,6,326,2.5
+Embarcação,boat,no,NA,NA,NA,6.37,1.51,10,4,9,4,0,8,0,7,362,2.51
+Emergência,emergency,no,NA,NA,NA,6.44,1.49,10,4,9,4,0,6,0,7,437,2.56
+Empregado,waiter,no,NA,NA,NA,5.1,1.66,10,4,9,4,1,10,0,6,908,2.64
+Encenador,stage manager,no,NA,NA,NA,7.51,1.35,9,4,8,4,0,7,1,6,154,2.96
+Endereço,address,no,NA,NA,NA,5.83,1.53,8,4,7,4,0,8,1,5,165,2.19
+Energia,energy,no,NA,NA,NA,4.96,1.83,7,4,7,4,0,6,1,6,2588,2.22
+Enfermagem,nursing,no,NA,NA,NA,6.05,1.72,10,4,9,4,0,8,0,7,353,3.41
+Enfermeiro,nurse,no,1.75,NA,NA,5.58,1.14,10,4,9,4,0,7,0,7,558,2.55
+Engenheiro,engineer,no,2.25,NA,NA,6.44,1.8,10,4,8,4,0,7,0,6,630,2.75
+Escândalo,scandal,no,NA,NA,NA,6.9,1.32,9,4,8,4,0,4,0,8,526,2.8
+Escritório,office,no,2.1,5.82,5.29,5.12,1.45,10,4,10,4,0,7,0,7,662,2.72
+Escultura,sculpture,no,NA,NA,NA,6.04,1.56,9,4,9,4,1,9,0,9,493,2.82
+Espectador,viewer,no,NA,NA,NA,5.58,1.68,10,4,9,4,0,8,0,7,632,2.69
+Esperança,hope,no,3.17,1.7,2.6,5.54,1.18,9,4,8,4,1,9,0,8,1562,2.8
+Estatuto,statue,no,NA,NA,NA,7.72,1.4,8,4,8,4,0,8,0,8,1031,3.19
+Estímulo,stimulus,no,NA,NA,NA,7.63,1.31,8,4,8,4,0,4,0,8,443,3.01
+Estrutura,structure,no,NA,NA,NA,6.31,1.4,9,4,9,4,2,9,0,9,2881,2.65
+Eucalipto,eucalyptus,no,NA,NA,NA,4.96,1.65,9,4,9,4,0,5,0,5,200,3.46
+Evidência,evidence,no,NA,NA,NA,7.3,1.18,9,4,8,4,1,9,1,8,382,2.3
+Evolução,evolution,no,NA,NA,NA,7.3,0.99,8,4,8,4,2,6,0,7,2008,2.58
+Excendente,exceeding,no,NA,NA,NA,7.52,1.39,9,4,9,4,1,9,1,9,215,3.3
+Exibição,exhibition,no,NA,NA,NA,7.38,1.38,8,4,8,4,0,6,0,7,500,2.33
+Existência,existence,no,NA,NA,NA,6.8,1.31,10,4,9,4,0,6,0,6,2419,2.7
+Explicação,explanation,no,NA,NA,NA,4.96,1.4,10,4,11,4,0,8,0,8,857,3.38
+Exploração,exploration,no,NA,NA,NA,6.16,1.65,10,4,11,4,0,8,0,8,1195,2.93
+Exportação,exportation,no,NA,NA,NA,6.9,1.92,10,4,11,4,1,8,1,9,759,3.08
+Fabricante,manufacturer,no,NA,NA,NA,5.43,1.27,10,4,9,4,0,8,0,7,245,2.88
+Federação,federation,no,NA,NA,NA,7.53,1.34,9,4,9,4,0,7,0,7,264,2.39
+Fenómeno,phenomenon,no,NA,NA,NA,6.98,1.4,8,4,8,4,0,5,0,5,1435,2.42
+Ferimento,wound,no,NA,NA,NA,6.44,1.2,9,4,8,4,1,5,1,5,246,3.16
+Ferramenta,tool,no,2.6,NA,NA,4.64,1.82,10,4,8,4,0,6,0,5,439,2.39
+Fotógrafo,photographer,no,NA,NA,NA,4.79,1.43,9,4,9,4,1,5,1,5,200,2.64
+Fundamento,reason,no,NA,NA,NA,7,1.46,10,4,8,4,0,10,0,8,283,2.3
+Galeria,gallery,no,NA,NA,NA,6.3,1.68,7,4,7,4,1,6,0,4,457,2.45
+Garantia,guarantee,no,NA,NA,NA,5.66,1.83,8,4,7,4,1,8,1,7,893,2.66
+Governador,governor,no,NA,NA,NA,6.86,1.16,10,4,10,4,0,10,0,10,645,2.95
+Governante,governing,no,NA,NA,NA,7.07,1.52,10,4,9,4,1,10,1,9,630,2.81
+Gravidade,gravity,no,NA,NA,NA,7.1,1.28,9,4,9,4,0,7,0,7,440,2.8
+Habitante,inhabitant,no,NA,NA,NA,5.5,1.09,9,4,7,4,0,7,0,5,1306,2.64
+Heroína,heroine,no,NA,NA,NA,6.92,1.4,7,4,6,3,0,6,0,6,304,3.12
+Hipótese,chance,no,NA,NA,NA,6.88,1.52,8,4,7,4,0,5,0,5,1858,2.48
+Homenagem,homage,no,NA,NA,NA,6.98,1.46,9,4,8,4,0,9,0,5,459,3.27
+Homicídio,homicide,no,NA,NA,NA,7.52,0.86,9,4,8,4,0,6,0,7,293,2.66
+Horizonte,horizon,no,NA,NA,NA,5.9,1.63,9,4,7,4,0,9,0,7,746,2.47
+Imigrante,immigrant,no,NA,NA,NA,7,1.36,9,4,8,4,1,7,0,6,167,2.87
+Imperador,emperor,no,NA,NA,NA,6.19,1.71,9,4,8,4,0,7,1,6,512,2.23
+Importância,importance,no,NA,NA,NA,5.46,1.34,11,4,9,4,0,7,0,7,2596,2.71
+Importante,important,no,NA,NA,NA,4.46,1.3,10,4,8,4,0,8,0,7,5960,3.41
+Imprudente,rash,no,NA,NA,NA,6.98,1.44,10,4,8,4,0,10,1,8,16,3.78
+Incentivo,incentive,no,NA,NA,NA,6.32,1.36,9,4,7,4,0,9,0,7,359,1.23
+Incidência,incidence,no,NA,NA,NA,7.12,1.7,10,4,8,4,0,6,0,6,404,2.56
+Incómodo,uncomfortable,no,NA,NA,NA,6.35,1.33,8,4,7,4,0,5,1,4,173,2.61
+Indicação,direction,no,NA,NA,NA,6.34,1.24,9,4,8,4,1,7,0,6,585,2.24
+Indicador,indicative,no,NA,NA,NA,6.4,1.65,9,4,8,4,0,7,0,6,497,2.77
+Indivíduo,individual,no,NA,NA,NA,6.06,1.6,9,4,8,4,0,6,0,8,2410,2.7
+Influência,influence,no,NA,NA,NA,6.8,1.23,10,4,8,3,0,6,2,8,1954,3.38
+Inimigo,enemy,no,NA,NA,NA,4.55,1.32,7,4,7,4,0,6,1,4,740,3.29
+Inovação,innovation,no,NA,NA,NA,6.92,1.22,8,4,8,4,0,6,1,5,490,2.87
+Inspiração,inspiration,no,NA,NA,NA,7.64,0.85,10,4,9,4,0,8,1,6,321,2.69
+Inquérito,questionnaire,no,NA,NA,NA,7.18,1.26,9,4,7,4,0,5,0,3,1006,2.51
+Instalação,installation,no,NA,NA,NA,6.06,1.36,10,4,9,4,1,9,1,8,2361,3
+Instantâneo,immediate,no,NA,NA,NA,7.16,1.11,11,4,9,4,0,8,0,9,71,3.37
+Interesse,interest,no,3.13,2.12,2.54,5.75,1.51,9,4,7,4,0,9,0,5,3467,1.86
+Interior,interior,no,NA,NA,NA,5.17,1.36,8,4,7,3,2,8,2,7,2102,3.54
+Intérprete,interpreter,no,NA,NA,NA,6.54,1.39,10,4,9,4,0,4,0,6,283,3.32
+Intervalo,break,no,NA,NA,NA,4.54,1.99,9,4,8,4,0,9,0,6,1295,2.45
+Intervenção,intervention,no,NA,NA,NA,7.08,1.34,11,4,9,4,0,9,0,8,2029,3.11
+Ironia,irony,no,NA,NA,NA,7.98,0.98,6,4,6,4,0,6,0,4,350,3.31
+Irresponsável,irresponsable,no,NA,NA,NA,6.38,1.41,11,4,10,4,0,8,1,7,3368,2.55
+Jornalista,journalist,no,2.05,NA,NA,5.15,1.63,10,4,10,4,0,7,0,7,1906,3.53
+Lançamento,launch,no,NA,NA,NA,6.14,1.41,10,4,8,4,0,6,0,5,682,3.28
+Legislação,legislation,no,NA,NA,NA,7.98,1.3,10,4,10,4,0,8,0,8,729,2.83
+Libertação,liberation,no,NA,NA,NA,6.57,1.55,10,4,10,4,1,8,1,8,399,2.86
+Libertador,liberator,no,NA,NA,NA,6.92,1.59,10,4,10,4,0,8,0,8,22,2.6
+Liderança,leadership,no,NA,NA,NA,7.43,1.22,9,4,8,4,0,7,0,6,880,1.36
+Limitação,limitation,no,NA,NA,NA,6.74,0.92,9,4,9,4,2,7,2,7,395,2.94
+Mão-de-obra,labour,no,NA,NA,NA,7.21,1.37,10,4,8,3,0,4,0,4,386,2.6
+Material,material,no,NA,NA,NA,4.18,1.21,8,4,8,3,2,8,2,8,2324,2.59
+Mecanismo,mechanism,no,NA,NA,NA,6.52,1.67,9,4,9,4,0,7,0,7,778,3.37
+Medicina,medicine,no,NA,NA,NA,5.22,1.45,8,4,8,4,1,8,0,4,593,2.89
+Mentiroso,liar,no,NA,NA,NA,3.54,1.59,9,4,8,4,0,7,0,6,38,2.77
+Ministério,ministry,no,NA,NA,NA,7.58,1.03,10,4,10,4,0,7,0,7,571,1.59
+Molécula,molecule,no,NA,NA,NA,8.19,0.98,8,4,8,4,0,5,0,5,352,2.76
+Monarquia,monarchy,no,NA,NA,NA,6.48,1.2,9,4,8,4,0,6,0,5,311,2.55
+Motorista,driver,no,1.95,NA,NA,4.48,1.35,9,4,9,4,0,7,0,7,333,2.49
+Munícipe,citizen,no,NA,NA,NA,7.56,1.58,8,4,8,4,0,4,0,6,193,2.52
+Município,township,no,NA,NA,NA,6.96,1.44,9,4,9,4,0,6,0,8,1205,2.29
+Nascimento,birth,no,NA,NA,NA,3.76,1.36,10,4,9,4,0,5,0,5,417,3.08
+Natureza,nature,no,NA,NA,NA,4.23,1.39,8,4,8,4,0,6,0,6,2291,2.62
+Nevoeiro,fog,no,NA,NA,NA,6.16,1.11,8,4,8,3,0,6,0,5,386,3.36
+Nomeação,nomination,no,NA,NA,NA,7.28,1.53,8,4,8,3,0,6,0,5,375,2.59
+Observação,observation,no,NA,NA,NA,6.38,1.32,10,4,10,4,0,8,0,8,1022,2.58
+Observador,observer,no,NA,NA,NA,5.74,1.48,10,4,10,4,0,8,0,8,321,3.01
+Obstáculo,obstacle,no,NA,NA,NA,5.7,1.93,9,4,9,4,0,5,0,6,493,2.51
+Ocasião,occasion,no,NA,NA,NA,5.62,1.41,7,4,7,3,0,6,0,6,1215,2.69
+Ocupação,occupation,no,NA,NA,NA,6.08,1.41,8,4,8,4,0,6,0,5,774,3.08
+Ocupante,occupant,no,NA,NA,NA,6.29,1.6,8,4,7,4,0,6,0,5,137,2.89
+Oficina,workshop,no,NA,NA,NA,5.33,1.58,7,4,7,4,0,6,0,5,443,2.14
+Operador,operator,no,NA,NA,NA,6.63,1.35,8,4,8,4,0,6,1,6,504,2.65
+Opinião,opinion,no,NA,NA,NA,5.59,1.21,7,4,7,3,0,6,0,6,3215,2.7
+Opositor,opponent,no,NA,NA,NA,6.84,1.53,8,4,8,4,0,6,0,6,230,3.51
+Optimismo,optimism,no,NA,NA,NA,6.95,1.4,9,4,8,4,0,8,0,7,242,2.36
+Orçamento,budget,no,NA,NA,NA,7.1,0.99,9,4,8,4,1,9,1,8,1600,2.39
+Organismo,organism,no,NA,NA,NA,6.54,1.67,9,4,9,4,0,8,0,7,1184,3.2
+Orifício,opening,no,NA,NA,NA,7.37,1.54,8,4,8,4,0,4,0,4,127,3.07
+Paciente,patient,no,NA,NA,NA,5.72,1.63,8,4,7,3,0,8,1,7,204,2.11
+Pagamento,payment,no,NA,NA,NA,5.08,1.43,9,4,8,4,1,5,2,5,1714,2.31
+Paraíso,paradise,no,NA,NA,NA,5.32,1.54,7,4,7,4,0,5,0,5,288,3.23
+Paralelo,parallel,no,NA,NA,NA,6.2,1.36,8,4,8,4,1,8,1,8,437,2.46
+Parâmetro,parameter,no,NA,NA,NA,7.36,1.54,9,4,9,4,0,4,0,6,223,2.64
+Parasita,parasite,no,NA,NA,NA,6.58,1.98,8,4,8,4,0,8,0,8,235,2.35
+Passageiro,passenger,no,NA,NA,NA,5.42,1.13,10,4,9,4,0,8,0,6,709,2.37
+Património,patrimony,no,NA,NA,NA,7.56,1.28,10,4,10,4,1,7,1,7,954,2.85
+Patrocínio,sponsorship,no,NA,NA,NA,7.6,1.12,10,4,10,4,1,7,1,9,194,2.98
+Percentagem,percentage,no,NA,NA,NA,6.69,1.35,11,4,10,4,0,6,0,5,718,2.29
+Permanência,permanence,no,NA,NA,NA,7.35,0.86,11,4,10,4,0,7,0,8,277,2.86
+Personagem,character,no,NA,NA,NA,5.18,1.33,10,4,10,4,0,8,0,7,1104,2.44
+Perspectiva,perspective,no,NA,NA,NA,7.51,1.23,11,4,10,4,0,6,0,6,1518,3.04
+Perturbação,disorder,no,NA,NA,NA,8.08,0.78,11,4,11,4,0,9,0,8,460,3.18
+Pesadelo,nightmare,no,NA,NA,NA,4.08,1.71,8,4,8,4,0,6,0,5,311,2.66
+Política,politics,no,NA,NA,NA,5.96,1.84,8,4,8,4,1,8,1,8,11455,2.49
+Poluição,pollution,no,NA,NA,NA,4.86,1.55,8,4,8,3,0,6,0,6,529,4.06
+População,population,no,NA,NA,NA,4.98,1.33,9,4,9,4,0,8,0,7,4501,2.72
+Povoação,village,no,NA,NA,NA,6,1.44,8,4,8,3,0,6,0,6,521,3.65
+Prejuízo,loss,no,NA,NA,NA,7.26,1.16,8,4,8,3,0,6,0,5,854,2.72
+Preparação,preparation,no,NA,NA,NA,6.3,1.49,10,4,10,4,1,8,0,8,1061,2.93
+Presidência,presidency,no,NA,NA,NA,6.63,1.47,11,4,10,4,2,7,1,10,881,3.03
+Pressuposto,assumption,no,NA,NA,NA,7.86,1.2,11,4,10,4,0,10,0,8,203,2.95
+Privilégio,privilege,no,NA,NA,NA,7.55,1.16,10,4,10,4,0,7,0,7,318,2.31
+Programa,program,no,NA,NA,NA,5.51,1.31,11,4,11,4,0,9,0,9,3787,2.5
+Proibição,prohibition,no,NA,NA,NA,4.8,1.73,9,4,9,3,0,7,0,7,257,3.58
+Propaganda,propaganda,no,NA,NA,NA,7.5,1.2,10,4,9,4,0,10,0,9,410,2.41
+Propósito,purpose,no,NA,NA,NA,8,1.01,9,4,9,4,0,5,0,6,1443,2.61
+Proteína,protein,no,NA,NA,NA,7.18,1.35,8,4,8,4,0,6,0,5,218,3.16
+Quantidade,quantity,no,NA,NA,NA,5.31,1.34,10,4,9,4,0,7,0,6,1719,2.34
+Quilómetro,kilometer,no,NA,NA,NA,5.98,0.99,10,4,9,4,0,5,0,5,1928,3.24
+Radiação,radiation,no,NA,NA,NA,7.16,1.69,8,4,8,3,2,6,3,6,427,3.29
+Rapariga,girl,no,NA,NA,NA,2.2,1.14,8,4,8,4,0,6,0,5,1641,2.63
+Reclamação,complaint,no,NA,NA,NA,6.44,1.91,10,4,10,4,1,8,1,8,251,3.22
+Recordação,memory,no,NA,NA,NA,6.32,1.53,10,4,10,4,0,8,0,7,385,2.4
+Reembolso,refund,no,NA,NA,NA,7.08,1.29,9,4,8,3,0,9,0,8,112,2.59
+Referendo,referendum,no,NA,NA,NA,7.69,1.26,9,4,8,4,1,9,1,8,751,2.05
+Relevante,relevant,no,NA,NA,NA,7.14,1.26,9,4,8,4,0,9,1,8,427,2.88
+Religião,religion,no,3.03,2.1,2.92,5.49,1.43,8,4,8,3,0,7,1,7,1155,2.63
+Renovação,renewal,no,NA,NA,NA,6.57,1.37,9,4,9,4,0,7,0,6,423,3.06
+Repartição,partition,no,NA,NA,NA,8.18,0.98,10,4,10,4,0,8,0,8,278,2.63
+Repetição,repetition,no,NA,NA,NA,4.88,1.04,9,4,9,4,0,7,0,7,324,2.45
+Reportagem,reporting,no,NA,NA,NA,6.4,1.58,10,4,10,4,0,6,0,5,378,2.51
+Respiração,breathing,no,NA,NA,NA,4.85,1.29,10,4,10,4,0,8,0,8,307,2.58
+Restaurante,restaurant,no,NA,NA,NA,3.48,1.64,11,4,10,4,0,9,0,8,884,2.49
+Resultado,result,no,NA,NA,NA,4.94,1.53,9,4,9,4,0,8,0,8,5745,2.95
+Retirada,retreat,no,NA,NA,NA,6.66,1.65,8,4,8,4,1,8,1,8,295,3.76
+Reunião,reunion,no,NA,NA,NA,4.87,1.59,7,4,7,2,0,6,0,5,2470,2.47
+Sacerdote,priest,no,NA,NA,NA,6.06,1.56,9,4,9,4,0,9,0,8,315,3.39
+Sacrifício,sacrifice,no,NA,NA,NA,6.79,1.47,10,4,10,4,0,7,0,8,456,2.5
+Santuário,sanctuary,no,NA,NA,NA,6.29,1.7,9,4,8,3,0,5,0,4,214,2.66
+Satisfação,satisfaction,no,NA,NA,NA,5.59,1.66,10,4,10,4,0,9,1,9,522,2.33
+Secretário,secretary,no,NA,NA,NA,5.92,1.4,10,4,10,4,1,10,1,10,1544,2.72
+Semelhança,similarity,no,NA,NA,NA,5.59,1.37,10,4,8,4,0,9,0,7,687,3.19
+Seminário,seminar,no,NA,NA,NA,7.73,1.32,9,4,9,4,1,6,1,7,297,2.84
+Sentimental,sentimental,no,NA,NA,NA,7.16,1.09,11,4,9,4,0,11,0,9,205,2.47
+Sentimento,feeling,no,NA,NA,NA,6.72,1.03,11,4,9,4,1,11,1,9,1335,2.31
+Separação,separation,no,NA,NA,NA,5.06,1.46,9,4,9,4,1,7,1,7,389,3.13
+Situação,situation,no,NA,NA,NA,5.44,1.83,8,4,8,3,0,6,1,5,7129,2.59
+Sofrimento,suffering,no,NA,NA,NA,5.68,1.68,10,4,9,4,0,6,1,6,471,3.85
+Superfície,surface,no,NA,NA,NA,5.78,1.58,10,4,10,4,0,7,0,10,1750,2.67
+Tabuleiro,tray,no,NA,NA,NA,4.18,1.26,9,4,9,4,0,7,0,6,263,3.24
+Televisão,telvision,no,NA,NA,NA,2.73,1.4,9,4,9,4,0,8,0,8,1984,2.42
+Temporada,season,no,NA,NA,NA,6.55,1.15,9,4,8,4,0,8,0,7,527,3.3
+Teoria,theory,no,NA,NA,NA,7.24,1.16,6,4,6,3,0,6,0,6,1000,2.72
+Território,territory,no,NA,NA,NA,5.92,1.51,10,4,9,4,0,7,0,6,1989,3
+Testemunho,testemony,no,NA,NA,NA,7.56,1.07,10,4,9,4,1,10,1,9,539,3.3
+Tonelada,ton,no,NA,NA,NA,6.6,1.64,8,4,8,4,0,7,0,7,566,2.73
+Tratamento,treatment,no,NA,NA,NA,6.31,1.39,10,4,9,4,0,6,0,6,1938,2.75
+Tripulação,crew,no,NA,NA,NA,6.22,1.36,10,4,10,4,1,8,1,7,233,3.29
+Tripulante,crew member,no,NA,NA,NA,7.64,1.32,10,4,9,4,0,8,0,7,137,2.37
+Unidade,unit,no,NA,NA,NA,5.02,1.22,7,4,7,4,0,5,1,5,2287,2.14
+Universo,universe,no,NA,NA,NA,5.48,1.78,8,4,8,4,0,8,0,5,676,3.36
+Utensílio,utensil,no,NA,NA,NA,5.86,1.94,9,4,8,4,0,6,0,7,362,2.83
+Variante,variant,no,NA,NA,NA,7.58,1.28,8,4,7,3,0,6,1,5,356,2.56
+Variável,variable,no,NA,NA,NA,7.5,1.49,8,4,8,3,0,5,1,6,680,2.55
+Veículo,vehicle,no,NA,NA,NA,5.62,1.36,7,4,7,4,0,3,0,3,973,2.83
+Vereador,councillor,no,NA,NA,NA,7.98,1.08,8,4,8,3,0,6,0,4,1361,2.99
+Veterano,veteran,no,NA,NA,NA,7.65,1.44,8,4,8,4,0,6,0,6,214,3.13
+Viatura,vehicle,no,NA,NA,NA,5.9,1.63,7,4,7,3,0,4,0,4,793,2.33
+Vigilância,vigilance,no,NA,NA,NA,6.98,1.02,10,4,9,4,0,6,0,7,423,2.9
+Violência,violence,no,NA,NA,NA,5.6,1.34,9,4,8,3,0,5,0,6,1144,2.63
+Visitante,visitor,no,NA,NA,NA,5.7,1.23,9,4,8,4,0,7,1,6,563,3.06
+Aceleração,acceleration,no,NA,NA,NA,6.67,1.91,10,5,10,5,0,8,1,8,209,2.75
+Actividade,activity,no,NA,NA,NA,5,1.41,10,5,9,5,0,7,1,6,4713,2.32
+Acumulação,accumulation,no,NA,NA,NA,6.6,1.36,10,5,10,5,0,8,1,7,306,3.67
+Adiamento,postponement,no,NA,NA,NA,5.92,1.63,9,5,8,4,2,5,2,4,238,2.49
+Adolescência,adolescence,no,NA,NA,NA,6.84,1.02,12,5,11,5,0,8,0,9,202,2.38
+Adolescente,adolescent,no,NA,NA,NA,6.4,1.38,11,5,10,5,0,8,0,9,352,2.31
+Aeroporto,airport,no,NA,NA,NA,5.4,1.66,9,5,9,5,0,6,0,6,636,2.55
+Afinidade,affinity,no,NA,NA,NA,7.49,1.36,9,5,9,5,0,5,2,4,166,2.8
+Agrupamento,gathering,no,NA,NA,NA,6.78,1.05,11,5,10,5,0,7,0,6,299,2.22
+Alargamento,enlargement,no,NA,NA,NA,6.81,1.23,11,5,10,5,0,7,0,6,593,2.48
+Alcoolismo,alcoholism,no,NA,NA,NA,7.13,1.4,10,5,10,4,0,8,0,8,149,2.77
+Alimentação,feeding,no,NA,NA,NA,4.4,1.39,11,5,10,5,0,9,0,8,694,2.18
+Alojamento,accomodation,no,NA,NA,NA,6.84,1.43,10,5,9,5,1,6,1,5,238,2.84
+Anonimato,anonymity,no,NA,NA,NA,6.6,1.64,9,5,9,5,0,4,0,4,100,2.38
+Antecedente,previous,no,NA,NA,NA,7.44,1.23,11,5,9,5,1,11,1,9,101,2
+Apartamento,apartment,no,NA,NA,NA,4.56,1.65,11,5,10,5,2,7,2,7,318,2.01
+Aprendizagem,learning,no,NA,NA,NA,5.82,1.63,12,5,11,5,0,10,0,9,280,2.5
+Apresentação,presentation,no,NA,NA,NA,5.96,1.68,12,5,11,5,0,10,0,9,1039,2.45
+Aproximação,approximation,no,NA,NA,NA,5.88,1.73,11,5,11,5,0,9,0,8,454,3.02
+Apuramento,improvement,no,NA,NA,NA,6.78,1.58,10,5,9,5,0,6,2,5,317,2.66
+Arquipélago,archipelago,no,NA,NA,NA,6.82,1.44,11,5,10,5,0,6,0,5,267,2.5
+Arquitectura,architecture,no,NA,NA,NA,6.95,1.62,12,5,10,5,1,12,0,10,792,2.43
+Arrendamento,lease,no,NA,NA,NA,7.77,1.19,12,5,9,5,0,8,0,6,120,2.9
+Artesanato,handicrafts,no,NA,NA,NA,6.35,1.38,10,5,10,5,0,6,0,6,236,2.08
+Articulação,articulation,no,NA,NA,NA,7,1.5,11,5,11,5,0,9,0,8,374,2.37
+Associado,associate,no,NA,NA,NA,7.43,0.98,9,5,8,4,0,8,0,7,494,2.57
+Atribuição,attribution,no,NA,NA,NA,6.78,1.67,10,5,10,4,0,8,0,8,423,2.69
+Auto-estrada,highway,no,NA,NA,NA,5.43,1.78,11,5,10,4,0,6,0,5,766,2.63
+Autonomia,autonomy,no,NA,NA,NA,6.38,1.38,9,5,9,5,0,5,0,5,633,2.88
+Autoridade,authority,no,NA,NA,NA,6.02,1.36,10,5,10,5,0,7,0,7,2114,2.8
+Camioneta,coach,no,2,NA,NA,3.1,1.62,9,5,9,4,0,7,0,7,285,3.33
+Campeonato,championship,no,NA,NA,NA,4.94,2.02,10,5,9,4,0,6,0,5,1279,2.46
+Candidatura,application,no,NA,NA,NA,6.66,1.38,11,5,10,5,0,9,0,8,1387,3.11
+Capitalista,capitalist,no,NA,NA,NA,8.18,0.95,11,5,11,5,0,10,0,10,104,3.14
+Certificado,certificate,no,NA,NA,NA,8.08,1.05,11,5,11,5,0,10,0,10,173,2.02
+Civilização,civilization,no,NA,NA,NA,7.3,1.26,11,5,11,5,0,9,0,8,1074,2.24
+Classificação,classification,no,NA,NA,NA,6.24,1.39,13,5,12,5,0,11,0,10,1031,3.03
+Colaboração,cooperation,no,NA,NA,NA,6.48,1.52,11,5,11,5,0,9,0,9,828,3.01
+Comemoração,celebration,no,NA,NA,NA,6.63,1.44,11,5,11,5,0,9,0,9,287,2.92
+Compartimento,compartment,no,NA,NA,NA,6.39,1.27,13,5,11,5,0,9,0,8,171,2.46
+Compatriota,compatriot,no,NA,NA,NA,7.5,1.43,11,5,10,4,0,7,0,6,216,2.24
+Complexidade,complexity,no,NA,NA,NA,7.44,0.73,12,5,12,5,0,10,0,10,262,2.34
+Comportamento,behavior,no,NA,NA,NA,5.16,1.72,13,5,11,5,0,13,0,11,1565,2.42
+Consideração,consideration,no,NA,NA,NA,7.27,1.38,12,5,11,5,0,10,0,8,608,3.19
+Constituição,constitution,no,NA,NA,NA,7.42,1.46,12,5,11,4,0,10,0,9,1074,2.78
+Continuação,follow-up,no,NA,NA,NA,5.12,1.56,11,5,10,4,0,9,0,8,364,3.03
+Contra-ataque,counterattack,no,NA,NA,NA,5.96,1.82,12,5,9,4,0,11,0,7,225,2.56
+Contrapartida,counterpart,no,NA,NA,NA,6.22,1.9,13,5,12,5,0,8,0,7,425,2.35
+Cooperação,cooperation,no,NA,NA,NA,7.56,1.11,10,5,10,4,0,8,0,8,890,2.63
+Coordenação,coordination,no,NA,NA,NA,7.37,1.25,11,5,11,4,0,9,0,9,333,2.95
+Correspondência,correspondence,no,NA,NA,NA,6.58,1.22,15,5,12,5,0,11,0,10,365,2.52
+Cristianismo,christianism,no,NA,NA,NA,6.26,1.59,12,5,12,4,0,10,0,10,218,2.56
+Deficiência,handicap,no,NA,NA,NA,5.86,1.9,11,5,10,4,1,7,0,8,358,2.34
+Departamento,department,no,NA,NA,NA,7.22,1.33,12,5,11,5,0,12,0,11,428,2.56
+Depoimento,evidence,no,NA,NA,NA,7.55,1.48,10,5,9,4,0,6,0,5,196,2.63
+Desconfiança,suspicion,no,NA,NA,NA,7.28,0.88,12,5,10,4,0,10,0,8,221,2.29
+Desequilíbrio,imbalance,no,NA,NA,NA,6.38,1.34,13,5,12,5,0,9,0,11,216,2.35
+Dificuldade,dificulty,no,NA,NA,NA,5.38,1.63,11,5,11,5,0,8,0,8,2589,2.34
+Diplomacia,diplomacy,no,NA,NA,NA,7.72,1.34,10,5,10,5,0,8,0,7,224,3.41
+Dispositivo,device,no,NA,NA,NA,7.02,1.68,11,5,11,5,1,8,0,8,316,2.35
+Distribuição,distribution,no,NA,NA,NA,6.22,1.63,12,5,12,4,0,10,0,10,1580,2.5
+Diversidade,diversity,no,NA,NA,NA,6.42,1.2,11,5,11,5,0,8,0,7,420,3.2
+Domicílio,domicile,no,NA,NA,NA,6.92,1.54,9,4,9,4,0,6,0,9,155,2.19
+Economista,economist,no,2.2,NA,NA,7.48,1.25,10,5,10,5,0,8,0,8,215,2.62
+Ecossistema,ecosystem,no,NA,NA,NA,8.14,1.06,11,5,10,5,0,4,0,4,164,2.33
+Eficiência,efficiency,no,NA,NA,NA,7.35,1.64,10,5,9,4,1,6,0,7,320,2.22
+Eleitorado,electorate,no,NA,NA,NA,7.83,1.32,10,5,10,5,1,9,1,9,232,2.51
+Encerramento,closure,no,NA,NA,NA,6.61,1.3,12,5,9,5,2,8,4,5,542,2.37
+Enquadramento,framing,no,NA,NA,NA,7.47,1.32,13,5,11,5,0,9,0,7,336,2.73
+Ensinamento,teaching,no,NA,NA,NA,6.9,1.34,11,5,9,5,0,7,0,6,140,2.53
+Entendimento,agreement,no,NA,NA,NA,6.76,0.96,12,5,9,5,0,8,1,6,362,2.15
+Entusiasmo,enthusiasm,no,NA,NA,NA,5.48,1.45,10,5,9,4,0,10,0,8,514,2.56
+Escoamento,drainage,no,NA,NA,NA,8.13,1.1,10,5,9,4,1,6,0,6,142,2.71
+Especulação,speculation,no,NA,NA,NA,8.36,0.82,11,5,11,5,0,9,0,9,258,2.16
+Esquecimento,forgetfulness,no,NA,NA,NA,5.22,1.36,12,5,10,5,0,8,0,7,207,2.41
+Estatística,statistics,no,NA,NA,NA,6.96,1.44,11,5,11,5,1,11,1,11,365,2.32
+Estimativa,estimate,no,NA,NA,NA,6.6,1.36,10,5,10,5,0,7,0,7,235,2.56
+Expectativa,expectancy,no,NA,NA,NA,7.74,1.01,11,5,12,5,0,8,0,9,947,2.37
+Experiência,experience,no,NA,NA,NA,5.98,1.49,11,5,11,4,0,7,0,9,2604,2.98
+Extremidade,extremity,no,NA,NA,NA,6.73,1.7,11,5,12,5,0,8,0,9,270,3.42
+Farmacêutico,pharmacist,no,1.9,NA,NA,6.51,1.57,12,5,12,5,0,7,0,6,129,2.43
+Fidelidade,faithfulness,no,NA,NA,NA,7.18,1.25,10,5,10,5,0,5,2,5,280,2.11
+Fim-de-semana,weekend,no,NA,NA,NA,3.39,1.38,12,5,10,5,0,4,0,4,849,2.45
+Finalidade,goal,no,NA,NA,NA,6.5,1.59,10,5,10,5,0,7,0,7,396,2.93
+Fiscalização,control,no,NA,NA,NA,8.56,0.76,12,5,12,5,0,10,0,9,345,2.6
+Fornecimento,supply,no,NA,NA,NA,6.64,1.52,12,5,11,5,0,7,0,7,265,2.54
+Habilidade,skill,no,NA,NA,NA,7.1,1.52,10,5,9,5,0,8,1,7,179,2.42
+Hierarquia,hierarchy,no,2.83,3.08,2.63,7.62,1.23,10,5,8,4,0,10,0,8,273,2.26
+Humanidade,mankind,no,NA,NA,NA,6.12,1.45,10,5,9,5,0,7,0,6,474,2.44
+Identidade,identity,no,NA,NA,NA,5.58,1.76,10,5,9,5,0,7,0,6,582,2.68
+Imunidade,imunity,no,NA,NA,NA,8.34,0.96,9,5,9,5,1,6,0,6,187,2.77
+Inauguração,launch,no,NA,NA,NA,7.16,1.57,11,5,11,5,0,9,0,8,584,2.27
+Incompetente,imcompetent,no,NA,NA,NA,7.08,1.15,12,5,9,5,0,9,1,8,32,2.77
+Inconsciente,unaware,no,NA,NA,NA,7.46,1.62,12,5,9,4,0,12,1,9,121,1.52
+Indemnização,indemnity,no,NA,NA,NA,8.02,1.14,12,5,11,5,0,10,0,9,455,2.09
+Independência,independence,no,NA,NA,NA,6.52,1.57,13,5,10,5,0,9,1,8,690,2.66
+Indiferença,indifference,no,NA,NA,NA,7,1.39,11,5,9,5,0,10,1,9,290,2.84
+Inteligência,intelligence,no,NA,NA,NA,5.03,1.42,12,5,10,5,0,8,0,8,458,2.46
+Intensidade,intensity,no,NA,NA,NA,7.24,0.87,11,5,9,5,0,8,0,6,744,2.66
+Interlocutor,interlocutor,no,NA,NA,NA,6.96,1.41,12,5,11,5,0,7,0,7,158,2.87
+Investimento,investment,no,NA,NA,NA,7.65,1.54,12,5,10,5,0,8,0,7,2640,2.2
+Itinerário,itinerary,no,NA,NA,NA,6.84,1.65,10,5,10,5,0,7,0,7,188,3.42
+Justificação,justification,no,NA,NA,NA,6.24,1.59,12,5,12,5,0,10,0,9,284,2.28
+Laboratório,laboratory,no,NA,NA,NA,6.58,1.68,11,5,11,5,0,7,0,7,481,2.45
+Localidade,place,no,NA,NA,NA,5.56,1.53,10,5,10,5,0,7,0,7,602,2.68
+Localização,location,no,NA,NA,NA,5.65,1.53,11,5,11,5,1,9,1,8,547,2.78
+Manifestação,demonstration,no,NA,NA,NA,6.56,1.4,12,5,12,5,0,10,0,9,965,2.74
+Matemática,mathematics,no,NA,NA,NA,4.45,1.13,10,5,10,5,0,6,0,10,249,2.98
+Melancolia,melancholy,no,NA,NA,NA,8.08,1.06,10,5,9,5,0,7,0,5,206,2.4
+Mentalidade,mentality,no,NA,NA,NA,7.02,1.36,11,5,10,5,1,8,1,7,263,2.32
+Mercadoria,merchandise,no,NA,NA,NA,6.08,1.33,10,5,10,5,0,9,0,7,370,2.42
+Milionário,millionaire,no,NA,NA,NA,5.61,1.64,10,5,10,4,0,7,0,7,100,2.57
+Mobiliário,furniture,no,NA,NA,NA,6.76,1.1,10,5,10,4,2,7,1,7,199,2
+Mobilidade,mobility,no,NA,NA,NA,6.4,1.62,10,5,10,5,1,7,0,7,227,2.3
+Modificação,modification,no,NA,NA,NA,6.9,1.3,11,5,11,5,0,9,0,8,290,2.36
+Negociação,negotiation,no,NA,NA,NA,7.25,1.47,10,5,10,4,0,8,0,7,1220,2.46
+Negociante,merchandiser,no,NA,NA,NA,6.44,1.63,10,5,9,4,0,8,0,7,NA,3.09
+Ordenamento,order,no,NA,NA,NA,7.56,1.47,11,5,10,5,0,7,0,7,277,0
+Organização,organization,no,NA,NA,NA,6.14,1.39,11,5,11,5,0,9,1,9,2963,2.44
+Orientação,orientation,no,NA,NA,NA,6.3,1.69,10,5,9,4,0,8,0,7,931,3.47
+Penalidade,penalty,no,NA,NA,NA,7.31,1.47,10,5,10,5,1,7,1,7,311,2.97
+Preocupação,apprehension,no,NA,NA,NA,6.14,1.67,11,5,11,4,1,9,0,8,1557,2.49
+Prioridade,priority,no,NA,NA,NA,7.2,1.17,10,5,10,4,0,7,0,7,702,3.19
+Privatização,privatization,no,NA,NA,NA,8.56,0.58,12,5,12,5,0,10,0,9,546,2.85
+Procedimento,procedure,no,NA,NA,NA,7.02,1.36,12,5,11,5,0,7,1,7,420,2.74
+Profundidade,depth,no,NA,NA,NA,6.77,1.64,12,5,11,5,0,8,0,7,475,2.62
+Propriedade,property,no,NA,NA,NA,6.28,1.31,11,5,11,4,0,8,1,7,1787,2.68
+Proprietário,owner,no,NA,NA,NA,7.03,1.39,12,5,12,4,0,8,0,7,777,3.25
+Prosperidade,prosperity,no,NA,NA,NA,7.47,1.32,12,5,12,5,0,8,0,8,205,2.89
+Proximidade,proximity,no,NA,NA,NA,6.4,1.77,11,5,11,5,1,11,1,11,491,2.31
+Publicidade,advertisement,no,NA,NA,NA,5.94,1.45,11,5,11,5,0,8,0,8,726,2.69
+Raciocínio,reasoning,no,NA,NA,NA,6.26,1.69,10,5,10,4,0,7,0,9,298,2.86
+Realização,direction,no,NA,NA,NA,7.22,1.27,10,5,10,4,0,8,0,8,1443,2.48
+Realizador,director,no,NA,NA,NA,6.58,1.49,10,5,10,4,0,8,0,8,456,3.16
+Recipiente,recipient,no,NA,NA,NA,5.42,1.73,10,5,9,4,0,6,0,6,453,2.66
+Regulamento,regulation,no,NA,NA,NA,7.73,1.2,11,5,10,5,0,11,0,10,462,2.66
+Remuneração,income,no,NA,NA,NA,7.84,1.14,11,5,11,5,0,9,0,8,330,2.67
+Representante,representative,no,NA,NA,NA,7.14,1.44,13,5,11,5,0,11,0,9,1340,2.52
+Reservatório,reservoir,no,NA,NA,NA,7.16,1.81,12,5,12,5,0,8,0,7,231,3.13
+Revestimento,coating,no,NA,NA,NA,6.08,1.88,12,5,11,5,0,8,0,8,242,2.37
+Saneamento,swerage,no,NA,NA,NA,8.66,0.75,10,5,9,4,0,6,0,5,308,2.39
+Segunda-feira,Monday,no,NA,NA,NA,3.08,1.37,12,5,11,5,0,7,0,6,1464,2.49
+Significado,meaning,no,NA,NA,NA,5.4,1.59,11,5,11,5,0,10,0,10,641,3.17
+Simplicidade,simplicity,no,NA,NA,NA,5.68,1.74,12,5,11,5,0,7,0,6,255,2.81
+Soberania,sovereignty,no,NA,NA,NA,6.96,1.74,9,5,9,5,0,8,0,8,255,2.41
+Socialista,socialist,no,NA,NA,NA,7.33,1.63,10,5,10,4,0,9,0,9,1567,2.41
+Solicitador,solicitor,no,NA,NA,NA,8.2,1.03,11,5,11,5,0,9,0,9,92,3.2
+Substituição,replacement,no,NA,NA,NA,6.36,1.28,12,5,13,5,0,10,0,11,568,1.97
+Tecnologia,technology,no,NA,NA,NA,7.47,1.24,10,5,10,5,0,7,0,7,1099,2.76
+Telefone,telephone,no,1.32,NA,NA,2.74,1.2,10,5,10,5,0,9,0,8,1024,3.04
+Telefonema,call,no,NA,NA,NA,4.6,1.59,10,5,10,5,0,9,0,8,210,3.01
+Temperatura,temperature,no,NA,NA,NA,5.9,1.69,11,5,10,5,0,8,0,7,1428,2.32
+Tranquilidade,tranquility,no,NA,NA,NA,5.94,1.97,13,5,12,5,0,10,1,9,301,3.16
+Urbanização,urbanization,no,NA,NA,NA,7.84,0.96,11,5,11,5,0,9,1,8,270,2.48
+Utilização,utilization,no,NA,NA,NA,5.98,1.55,10,5,10,5,0,8,0,7,1847,2.43
+Valorização,development,no,NA,NA,NA,7.98,0.84,11,5,11,5,1,9,1,8,381,3.27
+Variedade,variety,no,NA,NA,NA,6.78,1.27,9,5,9,4,0,6,0,6,722,2.58
+Velocidade,speed,no,NA,NA,NA,4.84,1.6,10,5,10,5,0,7,0,7,1189,2.86
+Ter,to have,vb,NA,NA,NA,2.3,1.42,3,1,3,1,8,3,6,3,117212,3.08
+Abrir,to open,vb,NA,NA,NA,2.54,1.41,5,2,5,2,1,5,1,5,5271,5.07
+Agir,to act,vb,NA,NA,NA,5.69,1.67,4,2,4,2,2,4,3,4,547,3.72
+Andar,to walk,vb,NA,NA,NA,1.88,1.13,5,2,4,2,3,5,5,4,5919,2.74
+Beber,to drink,vb,NA,NA,NA,1.94,1.42,5,2,5,2,0,5,1,4,1733,3.77
+Beijar,to kiss,vb,NA,NA,NA,2.83,1.6,6,2,6,2,0,6,0,5,486,3.24
+Brincar,to play,vb,NA,NA,NA,2.7,1.63,7,2,6,2,2,7,3,6,758,2.69
+Buscar,to seek,vb,NA,NA,NA,3.64,2.02,6,2,6,2,1,6,2,6,1055,2.88
+Cobrir,to cover,vb,NA,NA,NA,3.35,1.72,6,2,6,2,1,5,2,5,1130,3.02
+Contar,to count,vb,NA,NA,NA,2.38,1.16,6,2,5,2,10,6,8,5,5521,3.05
+Dançar,to dance,vb,NA,NA,NA,2.56,1.26,6,2,5,2,3,6,2,4,516,3.74
+Deitar,to lie,vb,NA,NA,NA,3.04,2.12,6,2,6,2,4,4,3,4,2111,2.71
+Dizer,to say,vb,NA,NA,NA,3.26,1.68,5,2,5,2,0,4,0,4,39890,3.32
+Entrar,to enter,vb,NA,NA,NA,2.48,1.01,6,2,5,2,2,6,2,5,6931,4.6
+Errar,to fail,vb,NA,NA,NA,4.07,1.61,5,2,4,2,5,5,5,4,374,3.84
+Estar,to stay,vb,NA,NA,NA,2.68,1.22,5,2,5,2,8,5,6,5,65520,2.57
+Fechar,to close,vb,NA,NA,NA,2.83,1.55,6,2,5,2,2,6,2,5,2432,4.82
+Fugir,to escape,vb,NA,NA,NA,3,1.02,5,2,5,2,3,5,4,5,2094,3.39
+Gostar,to like,vb,NA,NA,NA,2.42,1.35,6,2,6,2,3,5,5,5,6243,3.32
+Gritar,to scream,vb,NA,NA,NA,2.7,1.45,6,2,6,2,3,6,3,5,1181,3.8
+Guardar,to keep,vb,NA,NA,NA,4.3,1.28,7,2,7,2,1,7,1,6,1273,3.07
+Haver,there to be,vb,NA,NA,NA,4.74,1.75,5,2,4,2,0,5,2,4,42560,3.11
+Juntar,to gather,vb,NA,NA,NA,3.6,1.66,6,2,5,2,3,6,3,4,2617,4.63
+Lembrar,to remember,vb,NA,NA,NA,3.8,1.47,7,2,6,2,0,7,0,5,4033,3.42
+Levar,to take,vb,NA,NA,NA,2.84,1.5,5,2,5,2,6,5,8,5,10145,3.61
+Lutar,to fight,vb,NA,NA,NA,4.12,2.25,5,2,5,2,5,5,11,4,958,4.01
+Mandar,to order,vb,NA,NA,NA,3.94,1.54,6,2,5,2,6,6,7,5,2821,2.98
+Morar,to live,vb,NA,NA,NA,3.24,1.27,5,2,5,2,7,5,14,5,627,3.45
+Morrer,to die,vb,NA,NA,NA,4.21,1.49,6,2,5,2,2,5,2,4,4110,2.8
+Mover,to move,vb,NA,NA,NA,5.5,1.81,5,2,5,2,1,5,2,4,880,3.61
+Negar,to deny,vb,NA,NA,NA,5.15,1.68,5,2,5,2,7,5,6,5,687,2.94
+Obter,to obtain,vb,NA,NA,NA,6.35,1.3,5,2,5,2,0,5,0,4,3593,2.84
+Ouvir,to listen,vb,NA,NA,NA,2.33,1.23,5,2,4,2,0,5,1,4,6448,3.56
+Pagar,to pay,vb,NA,NA,NA,3.75,1.55,5,2,5,2,7,5,10,4,4388,3.81
+Parar,to stop,vb,NA,NA,NA,3.54,1.25,5,2,5,2,10,5,8,5,2359,3.64
+Partir,to break,vb,NA,NA,NA,3.24,1.77,6,2,6,2,1,6,1,6,7650,3.37
+Partir,to leave,vb,NA,NA,NA,3.24,1.77,6,2,6,2,1,6,1,6,7650,3.88
+Perder,to lose,vb,NA,NA,NA,3.45,1.41,6,2,6,2,1,5,0,5,5741,3.88
+Poder,to be able to,vb,NA,NA,NA,4.64,1.44,5,2,5,2,1,5,3,5,42138,3.76
+Pousar,to land,vb,NA,NA,NA,4.24,1.66,6,2,5,2,4,6,5,5,548,4.62
+Prender,to arrest,vb,NA,NA,NA,4.56,1.76,7,2,6,2,3,6,3,5,1976,2.74
+Querer,to want,vb,NA,NA,NA,2.82,2.2,6,2,5,2,0,6,1,5,20593,3.3
+Roubar,to steal,vb,NA,NA,NA,3.92,1.24,6,2,5,2,0,6,1,4,1002,4.31
+Saber,to know,vb,NA,NA,NA,3.91,1.8,5,2,5,2,2,5,2,4,243,3
+Sair,to exit,vb,NA,NA,NA,2.65,1.36,4,2,4,2,2,4,1,4,6656,2.39
+Sentir,to feel,vb,NA,NA,NA,3.78,1.59,6,2,5,2,2,6,3,5,7271,3.82
+Soltar,to loosen,vb,NA,NA,NA,4.43,1.49,6,2,6,2,4,5,3,5,351,3.86
+Sorrir,to smile,vb,NA,NA,NA,2.53,1.37,6,2,5,2,1,6,3,5,1391,2.55
+Subir,to climb,vb,NA,NA,NA,2.48,1.52,5,2,5,2,1,5,2,5,3090,3.14
+Tentar,to try,vb,NA,NA,NA,4.9,1.68,6,2,5,2,3,6,3,5,4403,3.49
+Tirar,to take away,vb,NA,NA,NA,2.96,1.74,5,2,5,2,5,5,5,5,3101,3.64
+Abanar,to shake,vb,NA,NA,NA,3.96,1.66,6,3,6,3,5,6,4,6,235,3.49
+Abdicar,to abdicate,vb,NA,NA,NA,7.58,1.44,7,3,7,3,1,7,1,6,231,2.37
+Abraçar,to hug,vb,NA,NA,NA,2.84,1.69,7,3,7,3,1,7,1,6,433,2.37
+Abrigar,to shelter,vb,NA,NA,NA,5.08,1.66,7,3,7,3,2,7,2,7,211,2.64
+Abusar,to abuse,vb,NA,NA,NA,5.06,1.62,6,3,6,3,1,5,4,5,150,2.33
+Aceitar,to accept,vb,NA,NA,NA,4.42,1.6,7,3,7,3,6,7,5,7,2902,2.18
+Acender,to light,vb,NA,NA,NA,4.28,1.67,7,3,6,3,3,7,3,5,661,3.46
+Acordar,to rise,vb,NA,NA,NA,3.11,1.56,7,3,7,3,1,6,3,5,1192,2.82
+Adaptar,to adapt,vb,NA,NA,NA,6.46,1.64,7,3,7,3,1,7,0,7,688,3.08
+Admitir,to admit,vb,NA,NA,NA,6.92,1.3,7,3,7,3,0,5,0,5,2400,2.84
+Adquirir,to acquire,vb,NA,NA,NA,6.57,1.44,8,3,7,3,0,8,0,7,1471,3.38
+Afastar,to drive away,vb,NA,NA,NA,5.25,1.13,7,3,7,3,2,7,3,7,1941,3.17
+Afirmar,to state,vb,NA,NA,NA,5.96,1.05,7,3,7,3,1,7,2,6,5451,3.29
+Agarrar,to grab,vb,NA,NA,NA,3.06,1.48,7,3,6,3,2,7,3,6,966,3.74
+Alcançar,to reach,vb,NA,NA,NA,6.27,1.55,8,3,7,3,0,6,0,6,1180,2.99
+Amarrar,to tie,vb,NA,NA,NA,4.4,1.73,7,3,6,3,4,7,5,5,181,3.07
+Apagar,to switch off,vb,NA,NA,NA,3.36,1.44,6,3,6,3,4,6,5,6,720,2.26
+Apertar,to squeeze,vb,NA,NA,NA,3.96,1.74,7,3,7,3,5,7,4,7,833,2.86
+Apreciar,to appreciate,vb,NA,NA,NA,5.56,1.5,8,4,8,3,0,8,1,8,810,2.92
+Atingir,to reach,vb,NA,NA,NA,5.34,1.48,7,3,6,3,1,5,1,3,3926,2.91
+Baralhar,to confuse,vb,NA,NA,NA,5.35,1.65,8,3,7,3,2,8,3,7,89,3.59
+Caminhar,to walk,vb,NA,NA,NA,3.74,1.48,8,3,7,3,1,8,1,7,720,1.95
+Cancelar,to cancel,vb,NA,NA,NA,6.67,1.38,8,3,7,3,3,8,1,7,142,2.86
+Castigar,to punish,vb,NA,NA,NA,4.04,1.71,8,3,8,3,1,7,1,7,298,2.16
+Censurar,to censure,vb,NA,NA,NA,7.15,1.42,8,3,7,3,3,8,1,7,140,2.48
+Circular,to circulate,vb,NA,NA,NA,5.19,1.48,8,3,8,3,0,8,0,7,582,2.15
+Comandar,to command,vb,NA,NA,NA,6.2,1.71,8,3,7,3,0,8,0,6,533,2.77
+Combater,to battle,vb,NA,NA,NA,6,1.65,8,3,7,3,1,8,0,6,641,2.73
+Combinar,to arrange,vb,NA,NA,NA,6.64,1.19,8,3,7,3,1,8,1,7,609,2.81
+Começar,to start,vb,NA,NA,NA,3.38,1.52,7,3,7,3,0,6,0,5,10132,2.79
+Condenar,to condemn,vb,NA,NA,NA,6.27,1.54,8,3,7,3,1,8,0,7,1345,4.01
+Conhecer,to know,vb,NA,NA,NA,3.76,1.46,8,3,7,3,0,7,0,6,8329,3.13
+Convencer,to convice,vb,NA,NA,NA,5.52,1.62,9,3,7,3,0,8,0,6,651,3.92
+Criticar,to criticise,vb,NA,NA,NA,5.64,1.79,8,3,8,3,0,8,0,8,1011,2.81
+Debater,to debate,vb,NA,NA,NA,6.56,1.69,7,3,7,3,2,7,1,4,571,3.01
+Decorar,to decorate,vb,NA,NA,NA,5.56,1.21,7,3,7,3,4,7,5,6,341,2.76
+Defender,to defend,vb,NA,NA,NA,5.16,1.7,8,3,7,3,1,6,1,5,3480,2.53
+Definir,to define,vb,NA,NA,NA,6.5,1.56,7,3,7,3,0,7,1,7,2378,3.54
+Deparar,to face,vb,NA,NA,NA,7.19,1.57,7,3,7,3,3,6,3,6,315,3.38
+Derramar,to spill,vb,NA,NA,NA,6.24,1.63,8,3,7,3,3,8,3,6,194,2.5
+Despedir,to fire,vb,NA,NA,NA,4.86,1.51,8,3,8,3,0,8,0,8,670,2.29
+Discursar,to deliever a speech,vb,NA,NA,NA,7.23,1,9,3,9,3,0,8,1,8,84,2.83
+Discursar,to deliever a speech,vb,NA,NA,NA,7.23,1,9,3,9,3,0,8,1,8,84,1.92
+Embater,to shock,vb,NA,NA,NA,7.24,1.04,7,3,6,3,3,7,1,5,117,1.93
+Embrulhar,to wrap,vb,NA,NA,NA,4.62,1.38,9,3,7,3,0,9,2,7,210,2.07
+Esperar,to wait,vb,NA,NA,NA,3.54,1.57,7,3,7,3,5,7,5,6,5057,2.32
+Falecer,to pass away,vb,NA,NA,NA,5.82,1.6,7,3,7,3,0,6,0,6,313,3.7
+Festejar,to celebrate,vb,NA,NA,NA,4.46,1.47,8,3,8,3,0,7,0,6,263,2.5
+Flutuar,to float,vb,NA,NA,NA,5.98,1.61,7,3,7,2,0,7,0,6,177,2.42
+Fornecer,to supply,vb,NA,NA,NA,6.14,1.48,8,3,8,3,0,8,0,7,1481,2.25
+Gaguejar,to stammer,vb,NA,NA,NA,6.2,1.46,8,3,7,3,0,6,0,4,55,3.17
+Garantir,to guarantee,vb,NA,NA,NA,6.53,1.61,8,3,7,3,1,8,1,7,3428,1.75
+Governar,to govern,vb,NA,NA,NA,6.31,1.46,8,3,8,3,0,8,0,7,643,3.54
+Ignorar,to ignore,vb,NA,NA,NA,6.08,1.2,7,3,7,3,0,7,0,7,753,2.81
+Imitar,to imitate,vb,NA,NA,NA,4.04,1.95,6,3,6,3,1,6,6,6,315,2.88
+Impedir,to prevent,vb,NA,NA,NA,6.38,1.15,7,3,6,3,1,7,2,6,1707,2.5
+Imprimir,to print,vb,NA,NA,NA,6.42,1.14,8,3,7,3,0,5,1,4,327,3.23
+Inclinar,to incline,vb,NA,NA,NA,6.14,1.36,8,3,7,3,0,8,1,6,435,2.52
+Insistir,to insist,vb,NA,NA,NA,5.73,1.71,8,3,7,3,0,7,1,6,1031,2.64
+Internar,to hospitalize,vb,NA,NA,NA,5.48,1.33,8,3,7,3,0,8,0,6,262,3.01
+Inventar,to invent,vb,NA,NA,NA,4.18,1.48,8,3,6,3,1,8,2,6,660,2.42
+Investir,to invest,vb,NA,NA,NA,6.66,1.77,8,3,7,3,0,8,1,7,792,2.82
+Irritar,to irritate,vb,NA,NA,NA,4.22,1.63,7,3,6,3,1,7,5,5,291,2.9
+Lamentar,to regret,vb,NA,NA,NA,6.82,1.26,8,3,7,3,0,8,0,7,727,2.47
+Legendar,to subtitle,vb,NA,NA,NA,7,1.38,8,3,7,3,1,8,0,7,86,2.86
+Legislar,to legislate,vb,NA,NA,NA,7.75,1.68,8,3,8,3,0,8,0,7,53,1.94
+Levantar,to lift,vb,NA,NA,NA,3.29,1.58,8,3,7,3,0,8,0,6,3037,1.73
+Liderar,to lead,vb,NA,NA,NA,6.9,1.34,7,3,7,3,1,7,1,6,918,3.48
+Madrugar,to rise early,vb,NA,NA,NA,6.27,1.29,8,3,8,3,0,8,0,8,10,2.96
+Magicar,to brood,vb,NA,NA,NA,6.7,1.79,7,3,7,3,0,7,0,5,20,1.04
+Madrugar,to rise early,vb,NA,NA,NA,6.27,1.29,8,3,8,3,0,8,0,8,10,1
+Magicar,to brood,vb,NA,NA,NA,6.7,1.79,7,3,7,3,0,7,0,5,20,1.3
+Magoar,to hurt,vb,NA,NA,NA,5.5,1.81,6,3,6,2,0,5,2,4,259,1.32
+Maltratar,to ill-treat,vb,NA,NA,NA,5.32,1.62,9,3,9,3,0,7,0,7,119,2.41
+Massajar,to massage,vb,NA,NA,NA,5.81,1.89,8,3,7,3,1,6,1,6,17,2.08
+Melhorar,to improve,vb,NA,NA,NA,4.94,1.36,8,3,7,3,0,8,0,6,1180,1.26
+Merecer,to deserce,vb,NA,NA,NA,4.88,1.77,7,3,7,3,1,6,1,6,1548,3.07
+Misturar,to mix,vb,NA,NA,NA,4.02,1.76,8,3,8,3,1,8,0,7,672,3.19
+Mobilar,to furnish,vb,NA,NA,NA,6.7,1.91,7,3,7,3,0,6,2,6,44,2.83
+Murmurar,to whisper,vb,NA,NA,NA,6.12,1.35,8,3,8,3,0,8,0,7,489,1.65
+Namorar,to date,vb,NA,NA,NA,5,1.95,7,3,7,3,1,7,2,7,299,2.69
+Navegar,to sail,vb,NA,NA,NA,5.77,1.42,7,3,7,3,0,7,0,7,291,2.48
+Nomear,to nominate,vb,NA,NA,NA,6.79,1.47,6,3,6,2,0,6,0,6,90,2.47
+Obrigar,to oblige,vb,NA,NA,NA,4.18,1.41,7,3,7,3,2,7,2,7,2887,1.96
+Ocorrer,to occur,vb,NA,NA,NA,6.12,1.44,7,3,6,3,2,6,3,5,2167,3.46
+Ocultar,to hide,vb,NA,NA,NA,7.5,1.3,7,3,7,3,1,7,0,6,278,3.34
+Odiar,to hate,vb,NA,NA,NA,6.72,1.25,5,3,5,2,1,4,4,4,250,2.45
+Ofender,to offend,vb,NA,NA,NA,5.36,1.65,7,3,6,3,1,5,1,4,272,2.4
+Parecer,to seem,vb,NA,NA,NA,5.15,1.7,7,3,7,3,4,7,4,6,10094,2.44
+Passear,to take a walk,vb,NA,NA,NA,2.56,1.39,7,3,6,2,2,7,6,6,598,4
+Pedalar,to pedal,vb,NA,NA,NA,4.28,1.7,7,3,7,3,0,6,0,5,27,2.78
+Pendurar,to hang,vb,NA,NA,NA,4.9,1.71,8,3,7,3,1,7,0,6,291,1.45
+Percorrer,to cover,vb,NA,NA,NA,6.66,1.32,9,3,8,3,0,5,0,6,1062,2.47
+Perdoar,to forgive,vb,NA,NA,NA,5,1.65,7,3,7,2,0,6,0,7,478,3.03
+Perguntar,to ask,vb,NA,NA,NA,3.53,1.41,9,3,8,3,1,9,0,7,3028,2.68
+Perseguir,to chase,vb,NA,NA,NA,5.8,1.45,9,3,8,3,0,9,0,8,503,3.48
+Perturbar,to disturb,vb,NA,NA,NA,6.82,1.22,9,3,9,3,0,9,0,8,413,2.7
+Piorar,to worsen,vb,NA,NA,NA,4.98,1.22,6,3,6,2,0,5,0,4,102,2.62
+Planear,to plan,vb,NA,NA,NA,6.5,1.41,7,3,7,2,2,6,2,5,291,2.01
+Ponderar,to evaluate,vb,NA,NA,NA,7.56,0.93,8,3,7,3,0,8,0,7,228,2.47
+Possuir,to own,vb,NA,NA,NA,5.5,1.85,7,3,6,2,0,7,1,6,1943,2.36
+Premiar,to reward,vb,NA,NA,NA,6.31,1.65,7,3,7,2,1,6,0,5,299,3.29
+Pressentir,to foretell,vb,NA,NA,NA,7.6,1.17,10,3,8,3,1,10,0,8,212,2.48
+Pretender,to wish,vb,NA,NA,NA,6.8,1.48,9,3,8,3,0,9,0,7,3544,2.33
+Procurar,to look for,vb,NA,NA,NA,4.12,2.03,8,3,8,3,1,8,0,7,3938,3.55
+Proibir,to forbid,vb,NA,NA,NA,3.58,1.53,7,3,7,2,0,7,0,7,698,3.6
+Protestar,to protest,vb,NA,NA,NA,6.96,1.18,9,3,9,3,0,9,0,8,432,2.84
+Publicar,to publish,vb,NA,NA,NA,6.98,1.55,8,3,8,3,0,8,0,7,2091,2.64
+Rabiscar,to scrawl,vb,NA,NA,NA,5.19,2.05,8,3,8,3,0,7,0,7,25,3.32
+Rastejar,to crawl,vb,NA,NA,NA,4.9,1.95,8,3,8,3,0,8,0,7,54,1.41
+Reagir,to react,vb,NA,NA,NA,6.41,1.24,6,3,6,3,0,5,0,5,719,1.74
+Reatar,to resume,vb,NA,NA,NA,7.27,1.43,6,3,6,3,6,6,1,5,59,2.86
+Reaver,to retrieve,vb,NA,NA,NA,7.3,1.4,6,3,6,3,1,5,0,5,26,1.78
+Rebaixar,to lower,vb,NA,NA,NA,7.62,0.78,8,3,8,3,0,8,0,7,61,1.43
+Reatar,to reattach,vb,NA,NA,NA,7.27,1.43,6,3,6,3,6,6,1,5,59,1.77
+Reaver,to recover,vb,NA,NA,NA,7.3,1.4,6,3,6,3,1,5,0,5,26,1.41
+Rebentar,to burst,vb,NA,NA,NA,5.1,1.59,8,3,7,3,0,8,3,6,409,1.79
+Receber,to receive,vb,NA,NA,NA,4.04,1.5,7,3,7,3,0,6,0,4,5682,2.61
+Rechear,to stuff,vb,NA,NA,NA,5.66,1.7,7,3,6,2,2,6,2,4,294,3.75
+Reciclar,to recycle,vb,NA,NA,NA,5.54,1.94,8,3,8,3,0,8,0,8,72,2.47
+Recitar,to recite,vb,NA,NA,NA,5.92,1.97,7,3,7,3,4,7,2,7,108,1.86
+Reclamar,to complain,vb,NA,NA,NA,4.96,1.85,8,3,8,3,2,8,0,8,682,2.04
+Recorrer,to resort,vb,NA,NA,NA,7.34,1.08,8,3,7,3,1,8,3,6,1265,2.83
+Recortar,to cut,vb,NA,NA,NA,3.91,1.52,8,3,8,3,2,7,3,6,240,3.1
+Recuar,to go back,vb,NA,NA,NA,5.63,1.44,6,3,6,2,2,5,2,4,511,2.38
+Reduzir,to reduce,vb,NA,NA,NA,6.2,1.31,7,3,7,3,3,5,3,5,1653,2.71
+Referir,to refere,vb,NA,NA,NA,6.65,1.51,7,3,7,3,2,6,1,6,7061,3.22
+Reforçar,to reinforce,vb,NA,NA,NA,6.91,1.36,8,3,8,3,1,7,1,6,1192,3.85
+Reformar,to retire,vb,NA,NA,NA,6.58,1.38,8,3,8,3,3,8,2,7,255,3.08
+Registar,to register,vb,NA,NA,NA,6.42,1.2,8,3,8,3,1,7,1,7,2826,2.41
+Regressar,to return,vb,NA,NA,NA,5.22,1.36,9,3,8,3,0,8,1,7,2188,3.45
+Remexer,to rummage,vb,NA,NA,NA,6.6,1.69,7,3,7,3,1,6,1,6,111,3.34
+Renascer,to reborn,vb,NA,NA,NA,6.68,1.35,8,3,8,3,0,8,0,7,174,2.05
+Renegar,to renegate,vb,NA,NA,NA,7.4,1.5,7,3,7,3,2,7,3,7,56,2.24
+Renovar,to renew,vb,NA,NA,NA,5.9,1.46,7,3,7,3,0,7,0,6,454,1.76
+Reparar,to fix,vb,NA,NA,NA,5.02,1.48,7,3,7,3,3,7,3,6,1054,2.66
+Repousar,to rest,vb,NA,NA,NA,6.38,1.35,8,3,7,3,0,7,1,6,212,3.02
+Reprovar,to disaprove,vb,NA,NA,NA,5.7,1.61,8,3,8,3,0,8,0,8,87,2.33
+Repuxar,to stretch,vb,NA,NA,NA,7.64,1.42,7,3,7,3,1,6,1,6,32,1.94
+Residir,to reside,vb,NA,NA,NA,6.67,1.44,7,3,7,3,1,6,0,6,659,1.52
+Resolver,to solve,vb,NA,NA,NA,4.94,1.07,8,3,8,3,1,6,0,4,3051,2.82
+Respirar,to breathe,vb,NA,NA,NA,2.94,1.42,8,3,8,3,0,8,0,7,576,3.48
+Responder,to answer,vb,NA,NA,NA,3.73,1.24,9,3,8,3,0,7,0,6,3557,2.76
+Resultar,to result,vb,NA,NA,NA,6.02,1.62,8,3,8,3,0,8,0,8,1803,3.55
+Retirar,to remove,vb,NA,NA,NA,5.48,1.47,7,3,7,3,2,7,2,7,2053,3.26
+Seduzir,to seduce,vb,NA,NA,NA,7.42,1.75,7,3,7,3,2,5,2,5,224,3.31
+Segurar,to hold,vb,NA,NA,NA,3.52,1.72,7,3,7,3,0,7,2,7,625,2.35
+Semear,to sow,vb,NA,NA,NA,4.18,1.4,6,3,6,2,0,6,1,5,237,2.8
+Separar,to separate,vb,NA,NA,NA,4.32,1.91,7,3,7,3,2,7,2,7,1054,2.38
+Simular,to simulate,vb,NA,NA,NA,6.94,1.7,7,3,7,3,1,7,2,7,117,3.02
+Sortear,to raffle,vb,NA,NA,NA,5.9,1.37,7,3,7,2,1,6,0,5,90,2.07
+Sossegar,to calm,vb,NA,NA,NA,4.53,1.62,8,3,7,3,1,8,1,7,243,1.96
+Sublinhar,to underline,vb,NA,NA,NA,5.85,1.44,9,3,8,3,0,6,1,6,1547,2.39
+Suplicar,to beg,vb,NA,NA,NA,6.45,1.89,8,3,8,3,2,8,1,7,75,3.19
+Temperar,to season,vb,NA,NA,NA,5.84,1.28,8,3,7,3,0,8,0,7,672,1.88
+Tolerar,to tolerate,vb,NA,NA,NA,6.72,1.28,7,3,7,3,0,7,0,7,123,2.83
+Torturar,to torture,vb,NA,NA,NA,6.8,1.2,8,3,8,3,1,8,0,7,109,2.09
+Trabalhar,to work,vb,NA,NA,NA,3.92,1.37,9,3,8,3,0,9,0,7,4986,2.04
+Traduzir,to translate,vb,NA,NA,NA,6.66,1.32,8,3,8,3,0,6,0,6,1287,3.7
+Ultrajar,to overtake,vb,NA,NA,NA,8.35,1.18,8,3,8,3,1,8,1,7,21,3.11
+Variar,to vary,vb,NA,NA,NA,4.96,1.78,6,3,6,2,5,6,8,6,1066,1.34
+Viajar,to travel,vb,NA,NA,NA,4.3,NA,6,3,6,2,0,6,0,5,709,3.03
+Vigiar,to watch,vb,NA,NA,NA,5.76,1.71,6,3,6,2,2,6,1,4,326,2.85
+Visitar,to visit,vb,NA,NA,NA,3.88,1.7,7,3,7,3,1,7,1,6,1413,2.51
+Aborrecer,to bore,vb,NA,NA,NA,5.08,1.59,9,4,8,4,0,9,0,7,219,3.15
+Acelerar,to accelerate,vb,NA,NA,NA,5.74,1.43,8,4,8,4,0,8,1,8,374,2.34
+Acentuar,to stress,vb,NA,NA,NA,6.73,1.51,8,4,7,3,0,8,1,6,697,2.57
+Acontecer,to happen,vb,NA,NA,NA,4.74,1.4,9,4,8,4,0,8,0,7,5519,2.84
+Acrescentar,to add,vb,NA,NA,NA,6,1.34,11,4,10,4,0,11,0,9,2819,3.74
+Adiantar,to advance,vb,NA,NA,NA,5.84,1.14,8,4,7,3,0,8,0,7,1462,3.45
+Adivinhar,to guess,vb,NA,NA,NA,4.38,1.55,9,4,8,4,1,9,0,7,497,3.17
+Administrar,to manage,vb,NA,NA,NA,7.8,0.97,11,4,11,4,0,11,0,10,178,2.7
+Adormecer,to fall asleep,vb,NA,NA,NA,3.1,1.54,9,4,9,4,0,8,0,8,704,2.25
+Angustiar,to distress,vb,NA,NA,NA,7.35,1.42,9,4,8,3,0,9,0,7,84,2.85
+Anunciar,to announce,vb,NA,NA,NA,6,1.39,8,4,7,3,1,8,1,6,2880,1.93
+Aparecer,to appear,vb,NA,NA,NA,3.96,1.74,8,4,8,4,1,7,1,7,4309,3.46
+Apetecer,to have an appetite,vb,NA,NA,NA,4.24,2.02,8,4,8,4,0,5,0,5,613,3.63
+Apreciar,to appreciate,vb,NA,NA,NA,5.56,1.5,8,4,8,3,0,8,1,8,810,2.79
+Caluniar,to slander,vb,NA,NA,NA,8.54,1.01,8,4,8,3,0,8,2,7,15,2.91
+Capacitar,to enable,vb,NA,NA,NA,7.47,1.3,9,4,9,4,0,7,1,7,11,1.2
+Catalogar,to catalogue,vb,NA,NA,NA,7.65,1.25,9,4,9,4,0,9,0,8,39,1.08
+Certificar,to certify,vb,NA,NA,NA,6.95,1.45,10,4,10,4,0,10,0,10,205,1.6
+Classificar,to classify,vb,NA,NA,NA,6.39,1.26,11,4,10,4,0,11,0,10,965,2.31
+Coincidir,to coincide,vb,NA,NA,NA,6.9,1.37,9,4,8,3,0,8,0,7,462,2.98
+Colaborar,to cooperate,vb,NA,NA,NA,6.5,1.28,9,4,9,4,0,9,0,8,437,2.67
+Compreender,to comprehend,vb,NA,NA,NA,6.06,1.17,11,4,9,3,0,9,0,7,2740,2.64
+Corresponder,to correspond,vb,NA,NA,NA,6.06,1.42,12,4,10,4,0,12,0,9,2006,3.44
+Desafiar,to challenge,vb,NA,NA,NA,6.38,1.55,8,4,8,3,2,7,2,6,351,3.3
+Efectuar,to achieve,vb,NA,NA,NA,6.68,1.24,8,4,7,3,0,8,0,6,2137,2.55
+Elaborar,to elaborate,vb,NA,NA,NA,6.14,1.48,8,4,8,4,1,8,1,7,1023,3.33
+Eliminar,to eliminate,vb,NA,NA,NA,4.96,1.69,8,4,8,4,0,8,2,7,857,3.01
+Emagrecer,to lose weight,vb,NA,NA,NA,5.78,1.67,9,4,9,4,0,8,0,8,55,2.93
+Examinar,to examine,vb,NA,NA,NA,6.86,1.39,8,4,8,4,0,8,0,7,302,1.75
+Facilitar,to facilitate,vb,NA,NA,NA,6.43,1.33,9,4,9,4,0,9,0,8,834,2.48
+Falsificar,to falsify,vb,NA,NA,NA,7.19,1.16,10,4,10,4,0,10,1,9,61,2.92
+Felicitar,to congratulate,vb,NA,NA,NA,7.76,9.3,9,4,9,4,0,9,0,7,96,1.79
+Financiar,to fund,vb,NA,NA,NA,8.1,1.03,9,4,8,3,0,9,0,7,438,1.99
+Focalizar,to focus,vb,NA,NA,NA,7.39,1.57,9,4,9,4,1,9,1,8,9,2.64
+Focalizar,to focus,vb,NA,NA,NA,7.39,1.57,9,4,9,4,1,9,1,8,9,0.95
+Fortalecer,to strenghten,vb,NA,NA,NA,7.03,1.21,10,4,10,4,0,9,0,9,115,1
+Fotografar,to photograph,vb,NA,NA,NA,4.94,1.22,10,4,10,4,0,9,0,9,152,2.06
+Funcionar,to function,vb,NA,NA,NA,4.78,1.58,9,4,8,3,1,9,1,8,2172,2.18
+Habituar,to accustom,vb,NA,NA,NA,5.33,1.43,8,4,7,3,2,8,3,7,798,3.34
+Horrorizar,to horrify,vb,NA,NA,NA,7.18,1.28,10,4,8,4,0,7,0,5,32,2.9
+Humanizar,to humanize,vb,NA,NA,NA,7.6,1.64,9,4,8,4,0,7,1,6,40,1.52
+Humedecer,to dampen,vb,NA,NA,NA,6.32,1.94,9,4,8,4,0,4,1,4,90,1.61
+Iluminar,to light,vb,NA,NA,NA,4.72,1.54,8,4,8,4,0,8,1,8,462,1.96
+Improvisar,to improvise,vb,NA,NA,NA,7.22,1.2,10,4,9,4,0,10,0,8,112,2.67
+Inaugurar,to launch,vb,NA,NA,NA,7.14,1.37,9,4,9,4,1,9,1,9,1162,2.05
+Incentivar,to encourage,vb,NA,NA,NA,7.06,1.55,10,4,8,4,0,9,0,7,325,3.07
+Iniciar,to initiate,vb,NA,NA,NA,4.59,1.47,7,4,7,3,1,7,1,7,2490,2.51
+Instituir,to institute,vb,NA,NA,NA,8,1.1,9,4,8,3,0,9,0,8,220,3.4
+Interpretar,to interpret,vb,NA,NA,NA,6.49,1.19,11,4,10,4,0,11,0,9,863,2.34
+Interrogar,to interrogate,vb,NA,NA,NA,6.78,1.25,10,4,8,4,0,10,0,7,579,2.94
+Interromper,to interrupt,vb,NA,NA,NA,6.6,1.11,11,4,8,4,0,8,0,5,808,2.76
+Introduzir,to introduce,vb,NA,NA,NA,6.2,1.41,10,4,9,4,0,8,0,7,1334,2.91
+Licenciar,to license,vb,NA,NA,NA,7.65,1.62,9,4,8,3,0,9,0,7,178,3.13
+Lubrificar,to lubricate,vb,NA,NA,NA,7.78,1.14,10,4,10,4,0,10,0,9,22,2.25
+Manifestar,to manifest,vb,NA,NA,NA,6.68,1.42,10,4,10,4,0,10,0,9,1609,1.36
+Manipular,to manipulate,vb,NA,NA,NA,6.86,1.71,9,4,9,4,0,9,0,8,110,3.21
+Maximizar,maximize,vb,NA,NA,NA,6.88,1.48,9,4,10,4,0,6,0,6,37,2.05
+Mencionar,to mention,vb,NA,NA,NA,7.4,1.05,9,4,8,3,1,4,2,4,504,1.58
+Minimizar,to minimize,vb,NA,NA,NA,7.19,1.55,9,4,9,4,0,5,0,6,211,2.7
+Mobilizar,to mobilize,vb,NA,NA,NA,7.55,1.61,9,4,9,4,1,9,0,8,309,2.33
+Modificar,to change,vb,NA,NA,NA,5.88,1.43,9,4,9,4,1,9,1,8,521,2.49
+Multiplicar,to multiply,vb,NA,NA,NA,5.06,1.07,11,4,11,4,0,11,0,10,413,2.72
+Normalizar,to normalize,vb,NA,NA,NA,7.63,1.43,10,4,10,4,1,10,0,10,74,1.87
+Negociar,to negotiate,vb,NA,NA,NA,6.22,1.52,8,4,8,3,0,8,0,8,553,2.62
+Normalizar,to normalize,vb,NA,NA,NA,7.63,1.43,10,4,10,4,1,10,0,10,74,2.74
+Obedecer,to obbey,vb,NA,NA,NA,4.44,1.54,8,4,8,4,0,5,1,5,532,1.88
+Oferecer,to offer,vb,NA,NA,NA,4.54,1.79,8,4,8,4,0,7,0,7,2392,2.73
+Participar,to participate,vb,NA,NA,NA,5.13,1.72,10,4,10,4,0,10,0,9,2279,3.38
+Permanecer,to remain,vb,NA,NA,NA,6.16,1.51,10,4,10,4,0,8,0,7,1303,3.36
+Persuadir,to persuade,vb,NA,NA,NA,7.44,1.64,9,4,9,3,0,7,0,7,73,3.12
+Pestanejar,to blink,vb,NA,NA,NA,5.14,1.43,10,4,10,4,0,7,0,7,23,1.87
+Planificar,to plan,vb,NA,NA,NA,7.44,1.37,10,4,10,4,0,10,0,9,44,1.38
+Prejudicar,to harm,vb,NA,NA,NA,6.98,0.89,10,4,10,4,0,9,0,8,653,1.65
+Preocupar,to worry,vb,NA,NA,NA,5.33,1.58,9,4,9,3,1,9,0,8,933,2.82
+Pressionar,to pressure,vb,NA,NA,NA,7.21,1.4,10,4,9,3,0,6,1,7,289,2.97
+Principiar,to begin,vb,NA,NA,NA,6.95,1.41,10,4,9,3,0,10,0,8,388,2.46
+Purificar,to purify,vb,NA,NA,NA,7.37,1.3,9,4,9,4,1,9,1,8,64,2.59
+Quantificar,to quantify,vb,NA,NA,NA,7.27,1.41,11,4,10,4,0,11,0,9,78,1.81
+Quantificar,to quantify,vb,NA,NA,NA,7.27,1.41,11,4,10,4,0,11,0,9,78,1.89
+Questionar,to question,vb,NA,NA,NA,6.08,1.48,10,4,9,3,0,9,0,9,483,1.9
+Reacender,to relight,vb,NA,NA,NA,7.84,0.98,9,4,8,4,0,5,0,5,50,2.68
+Reactivar,to reactivate,vb,NA,NA,NA,7.42,1.25,9,4,8,3,0,9,0,7,22,1.71
+Recensear,to take a census of,vb,NA,NA,NA,8.4,0.96,9,4,8,3,0,9,0,7,72,1.36
+Recomendar,to recommend,vb,NA,NA,NA,6.94,1.43,10,4,9,4,0,10,0,9,478,1.86
+Recompensar,to reward,vb,NA,NA,NA,5.64,1.61,11,4,9,4,1,11,0,8,66,2.68
+Reconduzir,to lead back,vb,NA,NA,NA,7.8,1.43,10,4,9,4,0,8,0,7,66,1.83
+Reconfortar,to comfort,vb,NA,NA,NA,6.48,1.8,11,4,10,4,0,10,0,6,26,1.83
+Reconstruir,to rebuild,vb,NA,NA,NA,6.76,1.2,11,4,10,3,0,10,0,8,209,1.43
+Reconverter,to reconvert,vb,NA,NA,NA,8.16,1.13,11,4,10,4,0,9,0,8,32,2.32
+Recriminar,to recriminate,vb,NA,NA,NA,7.77,1.43,10,4,10,4,0,10,0,9,13,1.52
+Recuperar,to recover,vb,NA,NA,NA,6.24,1.41,9,4,9,4,0,9,0,9,1482,1.15
+Reembolsar,to refund,vb,NA,NA,NA,7.65,1.09,10,4,9,3,0,9,0,9,40,3.17
+Reenviar,to forward,vb,NA,NA,NA,7.18,1.25,8,4,7,2,0,7,0,5,15,1.61
+Reformular,to reformulate,vb,NA,NA,NA,7.23,1.19,10,4,10,4,0,7,0,7,81,1.2
+Regenerar,to regenerate,vb,NA,NA,NA,8.42,0.7,9,4,9,4,1,9,1,9,37,1.91
+Reincidir,to replapse,vb,NA,NA,NA,7.92,1.56,9,4,8,4,0,8,0,7,14,1.58
+Reocupar,NA,vb,NA,NA,NA,7.58,1.54,8,4,8,3,1,8,0,7,18,1.18
+Reenviar,to redispatch,vb,NA,NA,NA,7.18,1.25,8,4,7,2,0,7,0,5,15,1.18
+Reformular,to reformulate,vb,NA,NA,NA,7.23,1.19,10,4,10,4,0,7,0,7,81,1.91
+Representar,to represent,vb,NA,NA,NA,6.02,1.48,11,4,10,4,0,11,0,9,4520,1.28
+Reproduzir,to reproduce,vb,NA,NA,NA,5.98,1.61,10,4,10,4,0,8,0,8,334,3.66
+Requisitar,to request,vb,NA,NA,NA,6.66,1.57,10,4,9,4,0,10,0,8,58,2.53
+Ressuscitar,to restore to life,vb,NA,NA,NA,5.68,1.91,11,4,10,4,0,6,0,5,128,1.77
+Retroceder,to retrogress,vb,NA,NA,NA,7.84,1.02,10,4,10,4,0,8,0,7,50,2.11
+Rivalizar,to rival,vb,NA,NA,NA,7.45,1.21,9,4,9,4,0,7,0,7,53,1.71
+Saborear,to savour,vb,NA,NA,NA,6.35,1.31,8,4,8,3,0,6,0,6,195,1.73
+Salientar,to point out,vb,NA,NA,NA,7.38,1.51,9,4,8,3,0,8,0,7,1414,2.29
+Significar,to mean,vb,NA,NA,NA,5.71,1.44,10,4,10,4,1,10,0,10,1710,3.15
+Simpatizar,to take a liking,vb,NA,NA,NA,5.41,1.75,10,4,9,4,0,10,0,8,48,3.23
+Simpatizar,to take a liking,vb,NA,NA,NA,5.41,1.75,10,4,9,4,0,10,0,8,48,1.68
+Simplificar,to simplify,vb,NA,NA,NA,7,1.3,11,4,10,4,0,11,0,9,189,1.69
+Sinalizar,to signal,vb,NA,NA,NA,7.02,0.77,9,4,9,4,1,9,1,8,31,2.28
+Sintetizar,to abridge,vb,NA,NA,NA,7.34,1.35,10,4,9,4,0,10,0,8,136,1.51
+Solicitar,to request,vb,NA,NA,NA,7.83,1.24,9,4,9,4,0,9,0,8,752,2.14
+Subestimar,to underestimate,vb,NA,NA,NA,8.02,1.03,10,4,10,4,0,5,0,8,49,2.88
+Subordinar,to subordinate,vb,NA,NA,NA,7.7,1.57,10,4,10,4,0,10,1,10,293,1.7
+Substituir,to replace,vb,NA,NA,NA,5.16,1.67,10,4,11,4,0,10,0,11,1716,2.47
+Sumariar,to sum up,vb,NA,NA,NA,6.48,1.36,8,4,8,3,0,8,0,5,12,3.23
+Testemunhar,to testify,vb,NA,NA,NA,7.58,1.21,11,4,10,4,1,11,0,10,240,1.11
+Tipificar,NA,vb,NA,NA,NA,8.16,1.15,9,4,9,4,0,5,0,4,16,2.38
+Totalizar,to total,vb,NA,NA,NA,7.42,1.38,9,4,9,4,0,9,0,8,114,1.23
+Tranquilizar,to tranquilize,vb,NA,NA,NA,6.48,1.72,12,4,11,4,0,12,0,10,84,2.06
+Transparecer,to show through,vb,NA,NA,NA,7.21,1.32,12,4,11,4,0,10,0,8,111,1.93
+Usufruir,to enjoy,vb,NA,NA,NA,7.77,1.29,8,4,8,3,0,8,0,8,152,2.05
+Valorizar,to value,vb,NA,NA,NA,6.57,1.34,9,4,9,4,1,9,1,8,372,2.18
+Verificar,to check,vb,NA,NA,NA,6.4,1.34,9,4,9,4,2,9,1,8,3867,2.57
+Actualizar,to update,vb,NA,NA,NA,7.52,1.05,10,5,9,4,0,10,0,8,217,3.59
+Adicionar,to add,vb,NA,NA,NA,5.54,1.18,9,5,9,4,1,9,1,9,306,2.34
+Coleccionar,to collect,vb,NA,NA,NA,5.08,1.58,11,5,10,4,0,11,0,9,77,2.49
+Contabilizar,to write up,vb,NA,NA,NA,7.66,1.14,12,5,11,5,0,12,0,10,159,1.89
+Desaparecer,to disappear,vb,NA,NA,NA,4,1.46,11,5,11,5,0,10,0,10,1639,2.2
+Desequilibrar,to unbalance,vb,NA,NA,NA,5.98,1.6,13,5,12,5,0,13,0,12,87,3.21
+Desinteressar,to lose interest,vb,NA,NA,NA,6.04,1.47,13,5,11,5,0,13,0,11,79,1.94
+Generalizar,to generalize,vb,NA,NA,NA,7.18,1.08,11,5,11,5,0,11,0,11,194,1.9
+Homenagear,to pay homage to,vb,NA,NA,NA,7.74,1.29,10,5,9,4,0,9,0,5,183,2.29
+Hospitalizar,to hospitalize,vb,NA,NA,NA,6.73,1.62,12,5,11,5,0,10,0,9,50,2.26
+Identificar,to identify,vb,NA,NA,NA,5.95,1.43,11,5,10,5,0,11,0,10,1326,1.71
+Impressionar,to impress,vb,NA,NA,NA,6.86,1.29,12,5,10,4,0,12,1,10,272,3.12
+Influenciar,to influence,vb,NA,NA,NA,6.84,1.31,11,5,9,3,0,10,0,9,694,2.44
+Liberalizar,to liberalize,vb,NA,NA,NA,7.75,1.06,11,5,11,5,0,9,0,9,47,2.84
+Monopolizar,to monopolize,vb,NA,NA,NA,8.1,0.91,11,5,11,5,0,6,0,6,36,1.68
+Naturalizar,to naturalize,vb,NA,NA,NA,7.24,1.44,11,5,11,5,0,11,0,10,34,1.57
+Popularizar,to popularize,vb,NA,NA,NA,7.46,1.17,11,5,11,5,0,9,0,9,22,1.54
+Liberalizar,to liberalize,vb,NA,NA,NA,7.75,1.06,11,5,11,5,0,9,0,9,47,1.67
+Posicionar,to place,vb,NA,NA,NA,7.02,1.27,10,5,10,4,0,10,0,9,124,1.36
+Possibilitar,to enable,vb,NA,NA,NA,6.3,1.45,12,5,11,5,0,10,1,9,354,2.1
+Privilegiar,to privilege,vb,NA,NA,NA,7.32,1.62,11,5,11,4,0,11,0,11,368,2.55
+Proporcionar,to provide,vb,NA,NA,NA,7.04,1.31,12,5,12,4,1,12,2,12,892,2.57
+Reaparecer,to reappear,vb,NA,NA,NA,7.1,1.3,10,5,10,5,0,9,0,9,118,2.95
+Reconsiderar,to reconsidered,vb,NA,NA,NA,7.33,1.39,12,5,11,5,0,12,0,10,46,2.08
+Reconstituir,to reconstitute,vb,NA,NA,NA,7.5,1.32,12,5,11,4,0,12,0,11,124,1.67
+Regulamentar,to regulate,vb,NA,NA,NA,7.5,1.67,12,5,11,5,0,12,0,10,234,2.1
+Relacionar,to relate,vb,NA,NA,NA,6.48,1.61,10,5,10,4,0,10,0,9,1121,2.37
+Restabelecer,to reestablish,vb,NA,NA,NA,7.78,1.05,12,5,12,5,1,11,1,11,147,3.05
+Sensibilizar,to sensitize,vb,NA,NA,NA,7.24,1.32,12,5,11,5,0,12,1,10,184,2.17
+Solucionar,to solve,vb,NA,NA,NA,6.88,1.24,10,5,10,4,0,5,0,6,125,2.27
+Teatralizar,to dramatize,vb,NA,NA,NA,7.78,0.68,11,5,11,4,0,9,0,9,13,2.1
+Transaccionar,to transact,vb,NA,NA,NA,8.02,1.49,13,5,11,4,0,8,0,7,129,1.15
+Bom,good,aj,NA,NA,NA,1.81,1.1,3,1,2,1,7,3,5,2,10285,2.11
+Mau,bad,aj,NA,NA,NA,1.33,0.56,3,1,3,1,9,3,7,3,3228,4.01
+Ágil,agile,aj,NA,NA,NA,6.25,1.66,4,2,4,2,0,3,1,2,72,3.51
+Amplo,ample,aj,NA,NA,NA,6.9,1.33,5,2,4,2,0,5,0,4,638,1.86
+Azul,blue,aj,NA,NA,NA,2,1.01,4,2,4,2,0,4,0,4,1443,2.81
+Baixo,low,aj,NA,NA,NA,4.72,1.37,5,2,5,2,4,5,5,5,2557,3.16
+Belo,beautiful,aj,NA,NA,NA,3.92,1.83,4,2,4,2,9,4,5,4,1080,3.41
+Caro,expensive,aj,NA,NA,NA,3.9,2.29,4,2,4,2,18,4,20,4,989,3.03
+Cheio,full,aj,NA,NA,NA,2.42,1.33,5,2,4,2,3,5,6,4,2461,3
+Comum,common,aj,NA,NA,NA,5.36,1.76,5,2,4,2,0,5,2,4,2402,3.39
+Curto,short,aj,NA,NA,NA,3.42,1.67,5,2,5,2,8,5,9,5,2516,3.38
+Doce,sweet,aj,NA,NA,NA,3.36,1.84,4,2,4,2,5,4,2,4,652,3.4
+Fácil,easy,aj,NA,NA,NA,3.1,1.3,5,2,5,2,0,5,1,5,2246,2.81
+Falso,FALSE,aj,NA,NA,NA,4.91,1.44,5,2,5,2,3,5,2,5,595,3.35
+Feio,ugly,aj,NA,NA,NA,1.77,0.86,4,2,4,2,10,4,6,4,207,2.78
+Fraco,weak,aj,NA,NA,NA,3.71,1.4,5,2,5,2,2,5,3,5,913,2.32
+Frio,cold,aj,NA,NA,NA,1.9,0.88,4,2,4,2,7,4,5,4,1350,2.96
+Geral,general,aj,NA,NA,NA,5.16,1.77,5,2,5,2,2,5,1,5,3400,3.13
+Grande,big,aj,NA,NA,NA,1.95,1.06,6,2,5,2,2,6,3,5,20517,3.53
+Igual,equal,aj,NA,NA,NA,4.9,1.3,5,2,5,2,0,5,0,5,2197,4.31
+Largo,broad,aj,NA,NA,NA,3.9,1.73,5,2,5,2,3,5,3,5,1383,3.34
+Lindo,beautiful,aj,NA,NA,NA,2.63,1.82,5,2,4,2,3,5,7,4,740,3.14
+Longo,long,aj,NA,NA,NA,4.08,1.41,5,2,4,2,2,5,3,4,6170,2.87
+Magro,thin,aj,NA,NA,NA,3.88,1.73,5,2,5,2,2,5,2,4,488,3.79
+Maior,bigger,aj,NA,NA,NA,2.8,1.28,5,2,5,2,2,5,0,5,9594,2.69
+Livre,free,aj,NA,NA,NA,4.22,1.76,5,2,5,2,1,5,1,5,2232,3.98
+Neutro,neutral,aj,NA,NA,NA,7.2,1.26,6,2,6,2,2,6,0,6,102,3.35
+Normal,normal,aj,NA,NA,NA,4.21,1.42,6,2,6,2,2,6,1,6,1446,2.01
+Novo,new,aj,NA,NA,NA,2.65,1.16,4,2,4,2,7,4,5,4,18113,3.16
+Pior,worse,aj,NA,NA,NA,3.45,1.9,4,2,4,1,4,4,1,3,1087,4.26
+Pleno,full,aj,NA,NA,NA,7.27,1.52,5,2,5,2,1,5,2,4,1053,3.04
+Próprio,own,aj,NA,NA,NA,4.73,1.72,7,2,7,2,2,7,3,7,2432,3.02
+Quente,hot,aj,NA,NA,NA,2.03,1.4,6,2,4,2,0,4,8,3,1604,3.39
+Rico,rich,aj,NA,NA,NA,3.96,1.4,4,2,4,2,8,4,10,4,1365,3.21
+Simples,simple,aj,NA,NA,NA,4.24,1.33,7,2,6,2,0,7,0,6,2633,3.14
+Actual,present,aj,NA,NA,NA,5.92,1.53,6,3,5,2,2,6,2,5,3665,3.42
+Alegre,glad,aj,NA,NA,NA,2.64,1.18,6,3,6,3,0,6,0,4,325,3.56
+Amargo,bitter,aj,NA,NA,NA,4.4,1.83,6,3,6,3,1,6,0,6,249,2.51
+Antigo,ancient,aj,NA,NA,NA,4.08,1.69,6,3,5,3,1,6,0,5,5484,2.4
+Anual,annual,aj,NA,NA,NA,5.08,1.56,5,3,5,2,2,5,3,5,847,3.74
+Barato,cheap,aj,NA,NA,NA,4.28,1.21,6,3,6,3,3,6,5,6,451,2.93
+Básico,basic,aj,NA,NA,NA,6,1.59,6,3,6,3,0,4,1,4,922,2.66
+Bonito,pretty,aj,NA,NA,NA,2,1.35,6,3,6,3,0,5,0,5,1389,2.97
+Calado,quiet,aj,NA,NA,NA,2.81,1.4,6,3,6,3,10,6,7,6,257,3.14
+Casado,married,aj,NA,NA,NA,3.14,0.98,6,3,6,3,7,6,6,5,222,2.41
+Célebre,famous,aj,NA,NA,NA,6.96,1.38,7,3,7,3,1,5,1,5,573,2.35
+Certeiro,well-aimed,aj,NA,NA,NA,6.64,0.94,8,3,8,3,3,6,2,6,64,2.76
+Cheiroso,scented,aj,NA,NA,NA,4.6,2.05,8,3,7,3,0,7,0,5,30,1.81
+Céptico,sceptical,aj,NA,NA,NA,8.23,1.07,7,3,6,3,1,3,4,5,83,1.92
+Coberto,covered,aj,NA,NA,NA,4.06,1.64,7,3,7,3,2,7,0,4,778,1.49
+Cómico,funny,aj,NA,NA,NA,5.76,1.77,6,3,6,3,2,4,3,4,182,2.89
+Compacto,compact,aj,NA,NA,NA,6.42,1.82,8,3,7,3,0,8,1,5,119,2.26
+Completo,complete,aj,NA,NA,NA,4.82,1.49,8,3,7,3,1,8,1,7,1243,2.08
+Confuso,confused,aj,NA,NA,NA,6.05,1.38,7,3,6,3,2,7,1,6,298,3.09
+Contente,happy,aj,NA,NA,NA,2.68,1.2,8,3,6,3,0,8,0,6,465,2.48
+Decente,decent,aj,NA,NA,NA,6.49,1.32,7,3,6,3,3,6,4,5,90,2.67
+Difícil,difficult,aj,NA,NA,NA,2.92,1.33,7,3,7,3,0,4,0,5,3402,1.96
+Discreto,discreet,aj,NA,NA,NA,6.43,1.49,8,3,8,3,0,8,1,8,468,3.53
+Enorme,huge,aj,NA,NA,NA,6.7,1.47,6,3,6,3,0,6,0,4,2080,2.67
+Europeu,european,aj,NA,NA,NA,6.29,1.37,7,3,7,3,0,7,0,6,3538,3.32
+Externo,external,aj,NA,NA,NA,6.46,1.79,7,3,8,3,2,7,0,5,1128,3.55
+Fechado,closed,aj,NA,NA,NA,2.75,1.49,7,3,6,3,0,7,0,5,948,3.05
+Festivo,festive,aj,NA,NA,NA,6.08,1.94,7,3,7,3,0,7,0,7,137,2.98
+Flácido,flaccid,aj,NA,NA,NA,6.96,1.8,7,3,7,3,1,3,1,4,32,2.14
+Formoso,pleasant,aj,NA,NA,NA,7.6,1.23,7,3,7,3,1,7,2,5,150,1.52
+Frequente,frequent,aj,NA,NA,NA,6.49,1.22,9,3,8,3,0,9,0,8,855,2.18
+Frustrado,frustrated,aj,NA,NA,NA,7.4,1.3,9,3,9,3,0,8,0,8,59,2.93
+Genial,brilliant,aj,NA,NA,NA,5.9,1.37,6,3,6,2,1,6,0,6,126,1.78
+Gradual,gradual,aj,NA,NA,NA,7.33,1.43,7,3,7,2,1,7,1,7,214,2.1
+Gratuito,free,aj,NA,NA,NA,5.94,1.45,8,3,8,3,0,8,0,8,334,2.33
+Grosseiro,rude,aj,NA,NA,NA,6.78,1.42,9,3,8,3,0,9,0,8,101,2.53
+Heróico,heroic,aj,NA,NA,NA,6.16,1.63,7,3,6,3,0,6,0,6,170,2.01
+Humilde,humble,aj,NA,NA,NA,6.85,1.66,7,3,6,3,0,7,0,6,197,2.23
+Ideal,ideal,aj,NA,NA,NA,6.02,1.57,5,3,5,2,0,5,1,4,556,2.3
+Ilegal,illegal,aj,NA,NA,NA,6.74,1.52,6,3,6,3,1,6,1,5,430,2.75
+Ilustre,illustrious,aj,NA,NA,NA,6.72,1.62,7,3,7,3,1,7,1,7,197,2.63
+Incrível,incredible,aj,NA,NA,NA,5.38,1.61,8,3,7,3,0,5,1,4,208,2.3
+Ingénuo,naive,aj,NA,NA,NA,6.7,1.3,7,3,6,3,0,4,0,6,117,2.32
+Íntimo,intimate,aj,NA,NA,NA,6.74,1.56,6,3,5,3,1,4,4,5,566,2.07
+Invulgar,uncommon,aj,NA,NA,NA,6.46,1.3,8,3,7,3,0,8,1,7,164,2.75
+Juvenil,juvenile,aj,NA,NA,NA,6.1,1.66,7,3,7,3,0,6,0,4,178,2.22
+Latente,latent,aj,NA,NA,NA,8.49,0.91,7,3,6,3,2,5,2,5,94,2.25
+Latente,latent,aj,NA,NA,NA,8.49,0.91,7,3,6,3,2,5,2,5,94,1.97
+Lectivo,academic,aj,NA,NA,NA,5.98,1.25,7,3,6,3,0,4,0,3,260,1.98
+Líquido,liquid,aj,NA,NA,NA,4.46,1.82,7,3,6,3,1,5,3,6,1007,2.42
+Lúcido,lucid,aj,NA,NA,NA,7.6,1.1,6,3,6,3,0,3,1,6,107,3
+Lúdico,entertaining,aj,NA,NA,NA,6.94,1.66,6,3,6,3,0,3,1,5,86,2.03
+Macio,soft,aj,NA,NA,NA,4.5,1.98,5,3,5,3,4,5,2,5,273,1.94
+Mínimo,minimum,aj,NA,NA,NA,5.54,1.57,6,3,6,3,0,4,0,6,1191,2.44
+Moderno,modern,aj,NA,NA,NA,6.19,1.44,7,3,7,3,0,7,0,7,1354,3.08
+Mundial,worldwide,aj,NA,NA,NA,5.48,1.6,7,3,6,2,0,7,0,6,1705,3.13
+Nervoso,nervous,aj,NA,NA,NA,5.27,1.59,7,3,7,3,1,7,0,5,586,3.23
+Oculto,hidden,aj,NA,NA,NA,8.02,0.84,6,3,6,3,1,6,2,6,129,2.77
+Oposto,opposite,aj,NA,NA,NA,5.8,1.41,6,3,6,3,1,5,3,4,475,2.11
+Pequeno,small,aj,NA,NA,NA,2.02,1.03,7,3,6,3,0,7,0,6,7667,2.68
+Perfeito,perfect,aj,NA,NA,NA,5,1.64,8,3,8,3,0,8,1,8,1003,3.88
+Pesado,heavy,aj,NA,NA,NA,3.76,2.16,6,3,6,3,1,6,1,6,939,3
+Péssimo,lousy,aj,NA,NA,NA,5.02,1.7,7,3,6,3,0,3,1,6,153,2.97
+Policial,police,aj,NA,NA,NA,6.7,0.95,6,3,6,3,0,6,0,4,509,2.19
+Popular,popular,aj,NA,NA,NA,5.98,1.24,7,3,7,3,1,7,3,7,1271,2.71
+Prático,practical,aj,NA,NA,NA,5.96,1.3,7,3,7,3,1,7,1,7,605,3.1
+Principal,main,aj,NA,NA,NA,5.45,1.64,9,3,8,3,0,9,0,8,4902,2.78
+Prudente,prudent,aj,NA,NA,NA,7.61,1.27,8,3,7,3,0,8,1,7,131,3.69
+Queimado,burnt,aj,NA,NA,NA,3.71,1.68,8,3,7,3,1,8,1,7,66,2.12
+Queimado,burnt,aj,NA,NA,NA,6.76,1.45,8,3,7,3,1,8,1,7,66,1.82
+Querido,dear,aj,NA,NA,NA,3.45,1.77,7,3,6,3,0,5,1,4,329,1.83
+Quieto,quiet,aj,NA,NA,NA,3.7,1.92,6,3,5,2,2,6,1,5,245,2.52
+Radical,radical,aj,NA,NA,NA,5.94,1.46,7,3,7,3,1,7,1,7,439,2.39
+Refeito,remade,aj,NA,NA,NA,7.21,1.54,7,3,7,3,2,7,1,7,28,2.64
+Remoto,remote,aj,NA,NA,NA,7.32,1.45,6,3,6,3,0,5,0,5,303,1.46
+Rentável,profitable,aj,NA,NA,NA,7.26,1.38,8,3,7,3,0,5,0,4,129,2.48
+Repleto,replete,aj,NA,NA,NA,6.54,1.93,7,3,7,3,0,5,0,5,179,2.11
+Restrito,restricited,aj,NA,NA,NA,6.54,1.64,8,3,8,3,1,8,1,8,243,2.26
+Romano,roman,aj,NA,NA,NA,5.68,1.54,6,3,6,3,0,6,1,6,813,2.39
+Rústico,rustic,aj,NA,NA,NA,7.42,1.5,7,3,7,3,0,2,0,7,127,2.91
+Sagrado,sacred,aj,NA,NA,NA,6.4,1.55,7,3,7,3,1,6,1,6,419,2.11
+Saudável,healthy,aj,NA,NA,NA,5.2,1.69,8,3,8,3,0,5,0,6,308,2.62
+Seguro,safe,aj,NA,NA,NA,5.04,1.8,6,3,6,3,0,6,1,6,934,2.49
+Selvagem,wild,aj,NA,NA,NA,5.35,1.56,8,3,8,3,1,6,0,5,385,2.97
+Semanal,weekly,aj,NA,NA,NA,5.4,1.03,7,3,7,3,2,7,1,7,254,2.59
+Sensato,wise,aj,NA,NA,NA,6.98,1.6,7,3,6,3,0,7,1,6,102,2.41
+Sólido,solid,aj,NA,NA,NA,5.04,1.44,6,3,6,3,0,3,0,4,583,2.01
+Sozinho,alone,aj,NA,NA,NA,2.98,1.41,7,3,6,3,0,3,0,4,1219,2.77
+Suave,soft,aj,NA,NA,NA,4.48,1.5,5,3,5,2,0,5,0,5,504,3.09
+Suspenso,suspended,aj,NA,NA,NA,6.44,1.72,8,3,7,3,1,8,0,7,364,2.7
+Tardio,delayed,aj,NA,NA,NA,5.38,2.01,6,3,6,3,0,6,0,6,343,2.56
+Tímido,shy,aj,NA,NA,NA,5.82,1.64,6,3,6,3,1,4,2,6,239,2.54
+Trágico,tragic,aj,NA,NA,NA,6.95,1.36,7,3,7,3,1,4,1,7,403,2.38
+Último,last,aj,NA,NA,NA,3.74,1.67,6,3,6,3,2,6,2,6,17844,2.61
+Abatido,dejected,aj,NA,NA,NA,6.55,1.6,7,4,7,4,1,6,1,6,72,4.25
+Abundante,abundant,aj,NA,NA,NA,6.76,1.01,9,4,7,4,0,7,0,6,321,1.86
+Acessível,acessible,aj,NA,NA,NA,6.18,1.64,9,4,8,4,0,6,0,6,332,2.51
+Acolhedor,hospitable,aj,NA,NA,NA,6.65,1.35,9,4,8,4,0,7,0,5,49,2.52
+Adaptável,adaptabe,aj,NA,NA,NA,8.34,0.72,9,4,9,4,0,6,0,7,13,1.7
+Acolhedor,hospitable,aj,NA,NA,NA,6.65,1.35,9,4,8,4,0,7,0,5,49,1.69
+Admirável,admirable,aj,NA,NA,NA,5.96,1.62,9,4,9,4,0,6,0,7,172,1.15
+Amarelo,yellow,aj,NA,NA,NA,2.36,1.31,7,4,7,4,1,7,1,7,1105,2.24
+Amoroso,sweet,aj,NA,NA,NA,5.56,1.59,7,4,7,4,1,5,1,5,259,3.04
+Animado,cheerful,aj,NA,NA,NA,4.42,1.62,7,4,7,4,0,7,0,6,212,2.41
+Anterior,previous,aj,NA,NA,NA,5.1,1.66,8,4,7,3,1,8,1,7,3507,2.33
+Artístico,artistic,aj,NA,NA,NA,6.66,0.96,9,4,9,4,0,5,0,7,715,3.55
+Ascendente,ascending,aj,NA,NA,NA,7.33,1.41,10,4,8,4,0,8,0,7,122,2.85
+Atlântico,atlantic,aj,NA,NA,NA,5.76,1.45,9,4,8,4,0,4,1,4,196,2.09
+Autêntico,authentic,aj,NA,NA,NA,6.98,1.46,9,4,8,4,0,4,0,8,650,2.29
+Benéfico,beneficial,aj,NA,NA,NA,6.76,1.45,8,4,8,4,0,5,0,5,109,2.81
+Brasileiro,brazilian,aj,NA,NA,NA,4.78,1.58,10,4,10,4,0,10,0,10,1007,2.04
+Caloroso,warm,aj,NA,NA,NA,6.62,1.1,8,4,8,4,1,6,1,6,72,3
+Cansativo,tiring,aj,NA,NA,NA,5.48,1.58,9,4,8,4,1,6,0,5,43,1.86
+Coerente,coherent,aj,NA,NA,NA,8.02,1.16,8,4,7,3,1,5,1,6,157,1.64
+Comercial,commercial,aj,NA,NA,NA,6.14,1.48,9,4,9,3,1,9,1,9,2016,2.2
+Compatível,compatible,aj,NA,NA,NA,7.02,1.56,10,4,9,4,0,7,1,7,183,3.3
+Complicado,complicated,aj,NA,NA,NA,4.82,1.42,10,4,9,4,0,9,0,8,630,2.26
+Conhecido,known,aj,NA,NA,NA,4.72,1.4,9,4,8,4,0,8,0,7,397,2.8
+Curioso,curious,aj,NA,NA,NA,4.6,1.43,7,4,7,3,1,7,2,5,571,2.6
+Decisivo,decisive,aj,NA,NA,NA,6.91,1.49,8,4,8,4,0,8,0,8,763,2.76
+Dependente,dependent,aj,NA,NA,NA,6.78,1.51,10,4,8,4,0,8,1,7,547,2.88
+Desportivo,sporting,aj,NA,NA,NA,5.73,1.4,10,4,10,4,0,10,0,10,1211,2.74
+Directivo,directive,aj,NA,NA,NA,7.24,1.63,9,4,8,4,1,9,1,8,191,3.08
+Disponível,available,aj,NA,NA,NA,6.65,1.41,10,4,10,4,0,7,1,8,1200,2.28
+Divertido,funny,aj,NA,NA,NA,3.66,1.88,9,4,9,4,0,8,0,8,287,3.08
+Duvidoso,doubtful,aj,NA,NA,NA,6.06,1.34,8,4,8,4,0,6,1,6,199,2.46
+Efectivo,effective,aj,NA,NA,NA,7.56,1.62,8,4,7,4,2,8,1,7,565,2.3
+Especial,special,aj,NA,NA,NA,4.48,1.92,8,4,8,3,0,8,0,8,2577,2.75
+Essencial,essential,aj,NA,NA,NA,6.64,1.41,9,4,7,3,0,9,0,6,780,3.41
+Estrangeiro,foreigner,aj,NA,NA,NA,5.48,1.47,11,4,10,4,0,11,0,10,1429,2.89
+Exemplar,exemplary,aj,NA,NA,NA,5.74,1.05,11,4,8,4,0,8,0,5,258,3.16
+Fabuloso,fabulous,aj,NA,NA,NA,6.02,1.32,8,4,8,4,0,8,0,6,187,2.41
+Familiar,familiar,aj,NA,NA,NA,4.47,1.44,8,4,8,3,0,8,0,8,983,2.27
+Favorito,favourite,aj,NA,NA,NA,4.88,1.66,8,4,8,4,0,8,0,8,372,2.99
+Fugidio,fleeting,aj,NA,NA,NA,8.34,0.92,7,4,7,4,1,7,1,7,53,2.57
+Fundamental,fundamental,aj,NA,NA,NA,6.72,1.32,11,4,9,4,1,11,1,9,1707,1.73
+Furioso,furious,aj,NA,NA,NA,4.81,1.63,7,4,7,3,1,5,3,5,223,3.23
+Genuíno,genuine,aj,NA,NA,NA,6.56,1.82,7,4,7,3,0,5,0,7,133,2.35
+Grandioso,imposing,aj,NA,NA,NA,6.76,1.09,9,4,8,3,0,7,0,5,127,2.13
+Habitual,usual,aj,NA,NA,NA,5.57,1.54,8,4,7,3,1,8,1,7,1021,2.11
+Hesitante,hesitant,aj,NA,NA,NA,7.28,1.15,9,4,7,4,0,7,2,5,81,3.01
+Hesitante,hesitant,aj,NA,NA,NA,7.28,1.15,9,4,7,4,0,7,2,5,81,1.91
+Histórico,historical,aj,NA,NA,NA,6.58,1.01,9,4,8,4,1,8,1,8,1972,1.91
+Horizontal,across,aj,NA,NA,NA,5.24,1.29,10,4,8,4,0,10,0,8,248,3.3
+Ilícito,illicit,aj,NA,NA,NA,8.6,0.79,7,4,7,4,1,4,1,7,75,2.4
+Iminente,imminent,aj,NA,NA,NA,7.92,1.15,8,4,7,4,2,5,1,7,111,1.88
+Imparável,unstoppable,aj,NA,NA,NA,6.62,1.68,9,4,8,4,1,6,1,5,69,2.05
+Impensável,unthinkable,aj,NA,NA,NA,6.34,2.26,10,4,8,4,0,7,0,6,103,1.85
+Imperativo,imperative,aj,NA,NA,NA,6.78,1.61,10,5,9,5,0,10,0,9,87,1.94
+Impossível,impossible,aj,NA,NA,NA,5.47,1.52,10,4,8,4,1,7,2,6,1017,2.02
+Importante,important,aj,NA,NA,NA,3.98,1.48,10,4,8,4,0,8,0,7,5960,3.01
+Imprevisto,unforeseen,aj,NA,NA,NA,7.32,1.24,10,4,9,4,1,10,0,9,97,3.78
+Incessante,incessant,aj,NA,NA,NA,8.22,0.85,10,4,7,4,0,10,1,4,79,1.99
+Incompleto,incomplete,aj,NA,NA,NA,6.18,1.28,10,4,8,4,0,7,1,5,204,1.9
+Inconstante,changeable,aj,NA,NA,NA,7.04,0.81,11,4,8,4,0,8,1,7,15,2.31
+Incorrecto,incorrect,aj,NA,NA,NA,5.52,1.66,10,4,7,4,0,10,2,7,119,1.2
+Indiscreto,indiscreet,aj,NA,NA,NA,7.73,1.11,10,4,9,4,0,8,1,7,32,2.08
+Infalível,unfailing,aj,NA,NA,NA,8.06,1.03,9,4,8,4,0,6,1,8,70,1.52
+Inferior,inferior,aj,NA,NA,NA,4.68,1.63,8,4,7,3,2,8,1,7,1466,1.85
+Inocente,innocent,aj,NA,NA,NA,4.86,1.9,8,4,7,4,0,8,0,7,238,3.17
+Intensivo,intensive,aj,NA,NA,NA,6.98,1.6,9,4,7,4,0,8,0,6,211,2.38
+Intermédio,intermediate,aj,NA,NA,NA,6.86,1.28,10,4,9,4,0,7,0,6,312,2.33
+Lamentável,regreattable,aj,NA,NA,NA,6.75,1.45,10,4,9,4,0,7,0,9,167,2.5
+Luminoso,bright,aj,NA,NA,NA,5.61,1.32,8,4,8,4,0,8,0,6,441,2.23
+Magnético,magnetic,aj,NA,NA,NA,7.35,1.46,9,4,9,4,0,5,0,9,300,2.65
+Magnífico,magnificent,aj,NA,NA,NA,6.5,1.02,9,4,9,4,0,5,0,8,425,2.48
+Manifesto,evident,aj,NA,NA,NA,7.46,1.25,9,4,9,4,0,9,0,9,134,2.63
+Mediano,median,aj,NA,NA,NA,7.88,1.18,7,4,7,3,1,7,0,7,114,2.13
+Melódico,melodious,aj,NA,NA,NA,7.68,1.35,8,4,8,4,1,5,1,5,27,2.06
+Moderado,moderate,aj,NA,NA,NA,5.8,1.74,8,4,8,4,0,7,0,7,293,1.45
+Necessário,necessary,aj,NA,NA,NA,5.98,1.41,10,4,9,4,0,7,0,9,4521,2.47
+Negativo,negative,aj,NA,NA,NA,5.19,1.53,8,4,8,4,1,8,1,8,1497,3.66
+Numeroso,numerous,aj,NA,NA,NA,6.79,1.2,8,4,8,4,0,6,0,6,817,3.18
+Observável,observable,aj,NA,NA,NA,7.22,0.98,10,4,10,4,0,7,0,8,60,2.91
+Ocidental,western,aj,NA,NA,NA,6.32,1.23,9,4,8,4,1,8,1,7,1044,1.79
+Ofegante,panting,aj,NA,NA,NA,7.35,1.49,8,4,7,4,0,6,0,5,75,3.02
+Ofegante,gasping,aj,NA,NA,NA,7.35,1.49,8,4,7,4,0,6,0,5,75,1.88
+Ofensivo,offensive,aj,NA,NA,NA,7.53,1.22,8,4,7,4,1,8,1,7,234,1.88
+Oficial,official,aj,NA,NA,NA,7.2,0.9,7,4,7,3,1,7,1,7,1641,2.37
+Ondulante,wavy,aj,NA,NA,NA,6.24,2.01,9,4,7,4,0,7,0,5,47,3.22
+Ordinário,ordinary,aj,NA,NA,NA,7.21,1.37,9,4,9,4,0,6,0,9,151,1.68
+Pacífico,peaceful,aj,NA,NA,NA,6.32,1.6,8,4,8,4,0,4,0,5,263,2.18
+Parlamentar,parliamentary,aj,NA,NA,NA,7.2,1.76,11,4,10,4,1,11,1,10,746,2.42
+Particular,particular,aj,NA,NA,NA,6.5,1.37,10,4,10,4,1,10,1,10,1916,2.87
+Penetrante,piercing,aj,NA,NA,NA,7.96,0.92,10,4,9,4,0,8,0,7,80,3.28
+Pensativo,thoughtful,aj,NA,NA,NA,6.28,1.67,9,4,8,4,0,6,0,5,84,1.91
+Penúltimo,penultimate,aj,NA,NA,NA,5.52,1.27,9,4,9,4,0,5,0,5,85,1.93
+Perigoso,dangerous,aj,NA,NA,NA,4.26,2.18,8,4,8,4,0,8,0,6,807,1.93
+Persistente,persistent,aj,NA,NA,NA,7.43,1.15,11,4,10,4,0,11,0,10,162,2.91
+Poderoso,powerful,aj,NA,NA,NA,5.58,1.43,8,4,8,4,0,8,0,6,716,2.21
+Poético,poetic,aj,NA,NA,NA,6.38,1.68,7,4,7,3,1,7,1,7,195,2.86
+Político,politic,aj,2.16,NA,NA,5.48,1.58,8,4,8,4,2,8,2,8,18330,2.29
+Racional,rational,aj,NA,NA,NA,7.15,1.57,8,4,8,3,2,8,4,8,54,4.26
+Razoável,reasonable,aj,NA,NA,NA,6.4,1.44,8,4,8,3,0,5,0,8,389,1.74
+Realista,realistic,aj,NA,NA,NA,6.74,1.76,8,4,8,3,0,7,1,7,149,2.59
+Receptivo,receptive,aj,NA,NA,NA,6.32,1.6,9,4,8,4,0,9,0,8,91,2.18
+Rectangular,rectangular,aj,NA,NA,NA,4.84,1.09,11,4,9,4,0,6,0,8,160,1.96
+Referente,concerning,aj,NA,NA,NA,7.42,1.45,9,4,8,4,2,8,3,7,224,2.21
+Regional,regional,aj,NA,NA,NA,6.17,1.45,8,4,8,3,0,8,0,7,1844,2.35
+Resistente,resistant,aj,NA,NA,NA,6.73,1.17,10,4,9,4,0,7,0,8,178,3.27
+Resultante,resultant,aj,NA,NA,NA,7.13,1.22,10,4,9,4,0,8,0,7,657,2.25
+Respeitável,respectable,aj,NA,NA,NA,6.51,1.37,11,4,11,4,0,8,0,11,108,2.82
+Retirado,secluded,aj,NA,NA,NA,6.82,0.87,8,4,8,4,1,8,1,8,151,2.04
+Reversível,reversible,aj,NA,NA,NA,7.22,1.62,10,4,10,4,0,7,1,7,26,2.18
+Ruidoso,noisy,aj,NA,NA,NA,6.38,1.67,7,4,7,3,1,7,1,5,114,1.43
+Saliente,projecting,aj,NA,NA,NA,7.1,1.3,8,4,7,3,1,8,1,7,143,2.06
+Sarcástico,sarcastic,aj,NA,NA,NA,7.92,1.4,10,4,10,4,0,5,0,10,45,2.16
+Secundário,secondary,aj,NA,NA,NA,6,1.37,10,4,9,4,0,7,0,9,702,1.66
+Separado,separated,aj,NA,NA,NA,5.16,1.6,9,4,9,4,1,9,0,7,422,2.85
+Simbólico,symbolic,aj,NA,NA,NA,7.31,1.46,9,4,8,4,0,5,0,8,318,2.63
+Simpático,nice,aj,NA,NA,NA,3.98,1.71,9,4,8,4,0,5,1,4,383,2.5
+Sinónimo,synonym,aj,NA,NA,NA,5.71,0.89,8,4,8,4,0,5,0,5,122,2.58
+Solitário,lonely,aj,NA,NA,NA,6.12,1.49,9,4,9,4,1,5,1,5,290,2.09
+Sossegado,quiet,aj,NA,NA,NA,3.95,1.69,9,4,8,4,0,8,0,7,64,2.46
+Subjectivo,subjective,aj,NA,NA,NA,8.04,0.88,10,4,9,4,0,10,1,9,93,1.81
+Sossegado,quiet,aj,NA,NA,NA,3.95,1.69,9,4,8,4,0,8,0,7,64,1.81
+Sucessivo,successive,aj,NA,NA,NA,6.74,1.51,9,4,8,4,0,9,1,8,599,1.97
+Temporário,temporary,aj,NA,NA,NA,6.81,1.39,10,4,9,4,0,7,0,9,281,2.78
+Tolerante,tolerant,aj,NA,NA,NA,6.92,1.38,9,4,8,4,0,7,1,7,51,2.45
+Trabalhoso,laborious,aj,NA,NA,NA,6.48,1.64,10,4,9,4,1,10,0,7,44,1.72
+Unânime,unanimous,aj,NA,NA,NA,7.34,1.75,7,4,7,4,1,3,1,7,135,1.65
+Violento,violent,aj,NA,NA,NA,5.8,1.4,8,4,7,3,0,8,0,7,833,2.13
+Académico,academic,aj,NA,NA,NA,7.6,1.64,9,5,9,5,0,5,0,5,265,2.92
+Afectuoso,affectionate,aj,NA,NA,NA,7,1.38,9,5,8,4,0,6,0,5,50,2.42
+Alcoólico,alcoholic,aj,NA,NA,NA,6.69,1.26,9,5,9,4,0,6,0,7,324,1.71
+Alucinante,hallucinatory,aj,NA,NA,NA,7.94,1.21,10,5,9,5,0,8,0,7,44,2.51
+Ameaçador,threatening,aj,NA,NA,NA,5.84,1.62,9,5,9,4,0,7,0,6,90,1.65
+Ameaçador,threatening,aj,NA,NA,NA,5.84,1.62,9,5,9,4,0,7,0,6,90,1.95
+Americano,american,aj,NA,NA,NA,5.45,1.43,9,5,9,5,0,5,0,5,1877,1.96
+Angustiante,anguishing,aj,NA,NA,NA,7.14,0.78,11,5,9,4,0,9,0,7,37,3.27
+Artificial,artificial,aj,NA,NA,NA,6.27,1.35,10,5,10,4,0,10,0,9,326,1.58
+Autoritário,authoritarian,aj,NA,NA,NA,6.94,1.24,11,5,11,5,0,7,0,7,116,2.51
+Benevolente,benevolent,aj,NA,NA,NA,7.54,1.72,11,5,10,5,0,8,0,9,29,2.07
+Capitalista,capitalist,aj,NA,NA,NA,7.3,1.71,11,5,11,5,0,10,0,10,97,1.48
+Catastrófico,catastrophic,aj,NA,NA,NA,7.66,1.08,12,5,12,5,0,8,0,8,58,1.99
+Científico,scientific,aj,NA,NA,NA,7.37,1.41,10,5,9,4,0,6,0,9,1425,1.77
+Competitivo,competitive,aj,NA,NA,NA,6.33,1.66,11,5,10,5,0,11,0,10,373,3.15
+Comprovativo,corroborative,aj,NA,NA,NA,7.19,1.28,12,5,11,5,0,9,0,7,48,2.57
+Confidencial,confidential,aj,NA,NA,NA,7.35,1.13,12,5,10,4,1,12,1,10,63,1.69
+Considerável,considerable,aj,NA,NA,NA,6.92,1.41,12,5,11,5,0,9,0,11,465,1.81
+Educativo,educating,aj,NA,NA,NA,5.7,1.27,9,5,9,5,0,6,1,6,325,2.67
+Eficiente,efficient,aj,NA,NA,NA,7.04,1.5,9,5,8,4,1,6,0,7,199,2.51
+Fotográfico,photographic,aj,NA,NA,NA,5.73,1.72,11,5,11,5,0,7,0,7,163,2.3
+Habilidoso,skilful,aj,NA,NA,NA,6.82,1.4,10,5,9,5,0,8,0,7,36,2.21
+Habituado,used,aj,NA,NA,NA,5.6,1.29,9,5,8,4,0,8,0,7,56,1.57
+Hereditário,hereditary,aj,NA,NA,NA,6.9,1.84,11,5,10,5,0,8,0,10,82,1.76
+Higiénico,hygienic,aj,NA,NA,NA,5.74,1.75,9,5,8,4,0,5,0,8,116,1.92
+Humanitário,humanitarian,aj,NA,NA,NA,7.28,1.32,11,5,10,5,0,8,0,7,183,2.07
+Humorístico,humorous,aj,NA,NA,NA,7.75,1.49,11,5,10,5,0,6,0,8,34,2.26
+Ilimitado,countless,aj,NA,NA,NA,6.48,1.44,9,5,9,5,0,4,0,4,84,1.54
+Imediato,immediate,aj,NA,NA,NA,6.33,1.39,8,5,8,4,1,8,1,8,707,1.93
+Imperativo,imperative,aj,NA,NA,NA,6.78,1.61,10,5,9,5,0,10,0,9,87,2.85
+Imperdoável,unforgivable,aj,NA,NA,NA,7.23,1.29,11,5,10,4,0,6,1,5,41,1.94
+Impraticável,impracticable,aj,NA,NA,NA,7.5,0.95,12,5,12,5,0,9,0,9,50,1.62
+Imperdoável,unforgivable,aj,NA,NA,NA,7.23,1.29,11,5,10,4,0,6,1,5,41,1.61
+Imprescindível,indispensable,aj,NA,NA,NA,7.84,1.25,14,5,12,5,0,11,0,12,168,1.71
+Incoerente,incoherent,aj,NA,NA,NA,7.96,1.41,10,5,8,4,0,7,1,7,35,2.23
+Independente,independent,aj,NA,NA,NA,6.28,1.31,12,5,9,5,0,12,1,9,953,1.56
+Intelectual,intelectual,aj,NA,NA,NA,7,1.32,11,5,10,4,0,9,0,8,431,2.98
+Italiano,italian,aj,NA,NA,NA,4.88,1.29,8,5,8,4,0,3,0,3,875,2.64
+Legislativo,legislative,aj,NA,NA,NA,7.88,1.31,11,5,11,5,0,9,0,9,411,2.94
+Longitudinal,longitudinal,aj,NA,NA,NA,7.77,1.26,12,5,11,5,0,12,0,3,53,2.61
+Malicioso,malicious,aj,NA,NA,NA,6.45,1.95,9,5,9,4,0,9,0,7,46,1.73
+Megalómano,megalomaniac,aj,NA,NA,NA,8.78,0.59,10,5,10,5,0,6,0,10,30,1.67
+Minucioso,meticulous,aj,NA,NA,NA,8.03,1.1,9,5,9,4,0,9,0,7,115,1.49
+Misterioso,mysterious,aj,NA,NA,NA,6.68,1.22,10,5,10,4,0,10,0,8,344,2.06
+Movimentado,busy,aj,NA,NA,NA,5.7,1.56,11,5,10,5,0,10,0,9,53,2.54
+Oficioso,unofficial,aj,NA,NA,NA,8.04,1.58,8,5,8,4,0,6,0,6,58,1.73
+Orientador,tutor,aj,NA,NA,NA,7.18,1.31,10,5,9,4,0,8,0,7,42,1.77
+Originário,native,aj,NA,NA,NA,7.26,1.58,10,5,10,5,0,7,0,10,163,1.63
+Panorâmico,panoramic,aj,NA,NA,NA,7.1,1.8,10,5,10,5,0,6,0,8,40,2.21
+Patriótico,patriotic,aj,NA,NA,NA,7.84,1.08,10,5,10,4,0,6,0,10,80,1.61
+Periódico,periodic,aj,NA,NA,NA,7.35,1.21,9,5,9,4,0,5,0,9,239,1.91
+Prejudicial,harmful,aj,NA,NA,NA,6.52,1.58,11,5,11,4,0,9,0,8,139,2.38
+Prestigiante,prestigious,aj,NA,NA,NA,8.24,0.92,12,5,11,4,0,10,0,9,10,2.15
+Problemático,problematic,aj,NA,NA,NA,6.73,1.23,12,5,12,5,1,12,1,12,261,1.04
+Prodigioso,prodigious,aj,NA,NA,NA,8.18,1.06,10,5,10,4,0,10,0,8,77,2.42
+Prodigioso,prodigious,aj,NA,NA,NA,8.18,1.06,10,5,10,4,0,10,0,8,77,1.89
+Profissional,professional,aj,NA,NA,NA,6.84,1.08,12,5,11,4,0,12,0,11,1716,1.89
+Proporcional,proportional,aj,NA,NA,NA,7.43,1.37,12,5,12,4,1,12,1,12,196,3.23
+Recomendável,recommandable,aj,NA,NA,NA,7.88,1.14,12,5,11,5,0,9,0,9,68,2.29
+Recuperável,recoverable,aj,NA,NA,NA,7.7,1.02,11,5,11,5,0,8,1,9,21,1.84
+Repetitivo,repetitive,aj,NA,NA,NA,5.58,1.73,10,5,10,5,0,7,0,7,44,1.34
+Retrospectivo,restrospective,aj,NA,NA,NA,8.72,0.64,13,5,12,5,1,13,1,12,84,1.65
+Satisfatório,satisfactory,aj,NA,NA,NA,6.65,1.42,12,5,12,5,0,9,0,12,142,1.93
+Silencioso,silent,aj,NA,NA,NA,4.9,1.65,10,5,9,4,0,10,0,7,361,2.16
+Sintomático,symptomatic,aj,NA,NA,NA,8.31,1.37,11,5,10,5,0,7,0,6,89,2.56
+Sistemático,systematic,aj,NA,NA,NA,8.16,0.9,11,5,11,5,0,7,0,11,292,1.95
+Socialista,socialist,aj,NA,NA,NA,7.83,1.15,10,5,10,4,0,9,0,9,1567,2.47
+Suficiente,sufficient,aj,NA,NA,NA,5.27,1.6,10,5,9,4,0,10,1,9,1193,3.2
+Superficial,superficial,aj,NA,NA,NA,7.37,0.95,11,5,11,4,0,11,0,11,156,3.08
+Surpreendente,surprising,aj,NA,NA,NA,7.64,0.98,13,5,11,4,0,13,0,11,309,2.2
+Tecnológico,technological,aj,NA,NA,NA,6.68,1.22,11,5,11,5,0,7,0,7,204,2.49
+Tranquilizador,tranquillizing,aj,NA,NA,NA,7.77,1.22,14,5,13,5,0,12,0,10,14,2.31
+Unilateral,unilateral,aj,NA,NA,NA,7.96,1.25,10,5,10,5,0,5,0,5,70,1.18
+Utilitário,utilitarian,aj,NA,NA,NA,7.14,1.59,10,5,10,5,0,6,0,6,44,1.85
+Vegetativo,vegetative,aj,NA,NA,NA,7,1.94,10,5,10,5,0,7,0,7,46,1.65
+Bem,well,av,NA,NA,NA,2.19,1.62,3,1,3,1,6,3,5,3,16224,1.67
+Mais,more,av,NA,NA,NA,2.14,1.52,4,1,4,1,4,4,3,4,68436,4.21
+Não,no,av,NA,NA,NA,1.18,0.45,3,1,3,1,9,3,10,3,131826,4.84
+Sim,yes,av,NA,NA,NA,1.23,0.47,3,1,2,1,6,3,11,2,5909,5.12
+Só,just,av,NA,NA,NA,3.54,1.9,2,1,2,1,8,2,11,2,21097,3.77
+Depois,after,av,NA,NA,NA,2.64,1.28,6,2,6,2,0,6,0,5,21772,4.32
+Mesmo,even,av,NA,NA,NA,3.3,1.54,5,2,5,2,3,5,3,5,11571,4.34
+Muito,many,av,NA,NA,NA,1.73,0.86,5,2,5,2,3,5,2,5,28404,4.06
+Quando,when,av,NA,NA,NA,2.45,1.28,6,2,5,2,1,5,1,4,3323,4.45
+Agora,now,av,NA,NA,NA,2.2,1.26,5,3,5,3,2,4,1,4,14443,3.52
+Apenas,only,av,NA,NA,NA,6.18,1.3,6,3,6,3,0,5,0,4,10664,4.16
+Diante,before,av,NA,NA,NA,6.4,1.82,6,3,5,2,1,6,1,5,1452,4.03
+Certamente,certainly,av,NA,NA,NA,6.6,1.69,10,4,9,4,1,8,0,6,883,3.16
+Entretanto,meanwhile,av,NA,NA,NA,5.96,1.37,10,4,8,4,0,8,0,6,2271,2.95
+Facilmente,easily,av,NA,NA,NA,5.16,1.6,10,4,9,4,0,6,0,6,770,3.36
+Finalmente,finally,av,NA,NA,NA,5.34,1.48,10,4,9,4,0,6,0,6,1747,2.89
+Igualmente,equally,av,NA,NA,NA,5.98,1.57,10,4,9,4,0,6,0,6,2205,3.24
+Realmente,really,av,NA,NA,NA,6.38,1.47,9,4,8,3,0,5,0,5,2191,3.34
+Simplesmente,simply,av,NA,NA,NA,6.67,1.58,12,4,10,4,0,8,0,7,957,3.34
+Totalmente,totally,av,NA,NA,NA,6.38,1.41,10,4,9,4,0,6,0,6,948,2.98
+Antigamente,in olden times,av,NA,NA,NA,5.33,1.65,11,5,9,5,0,6,0,5,391,2.98
+Concretamente,concretely,av,NA,NA,NA,7.16,1.03,13,5,11,5,0,8,0,7,234,2.59
+Expressamente,deliberately,av,NA,NA,NA,8.26,0.99,13,5,12,5,0,9,0,8,165,2.37
+Extremamente,extremely,av,NA,NA,NA,6.7,1.43,12,5,12,5,0,8,0,8,800,2.22
+Injustamente,unjustly,av,NA,NA,NA,6.92,1.43,12,5,10,5,0,7,1,6,62,2.9
+Mundialmente,worldwide,av,NA,NA,NA,6.32,1.27,12,5,10,4,0,8,0,7,38,1.8
+Naturalmente,naturally,av,NA,NA,NA,6.32,1.52,12,5,11,5,0,8,0,8,1072,1.59
+Obviamente,obviously,av,NA,NA,NA,6.82,1.66,10,5,9,4,0,6,0,5,612,3.03
+Parcialmente,partially,av,NA,NA,NA,7.32,1.65,12,5,11,4,0,8,1,8,306,2.79
+Demasiado,excessive,av,NA,NA,NA,6.03,1.37,9,5,9,4,0,8,0,6,946,2.49
+Devidamente,properly,av,NA,NA,NA,6.43,1.59,11,5,10,5,1,5,2,5,409,2.98
+Exactamente,exactly,av,NA,NA,NA,6.1,1.46,11,5,9,5,0,6,0,5,1284,2.61
+Possivelmente,possibly,av,NA,NA,NA,6.82,1.37,13,5,11,5,0,6,0,8,371,3.11
+Recentemente,recently,av,NA,NA,NA,6.74,1.66,12,5,10,5,0,8,0,7,1300,2.57
+Regularmente,regularly,av,NA,NA,NA,7.19,1.25,12,5,11,5,0,8,1,8,223,3.11
+Tipicamente,typically,av,NA,NA,NA,7.14,1.14,11,5,10,5,0,5,0,6,105,2.35
