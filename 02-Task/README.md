@@ -23,7 +23,8 @@ the full explanation.
   run_all_languages.sh     the cron entry point
   .env.example             template for formr credentials; copy to .env (gitignored)
   lib/                     shared logic -- never copy these into a language folder
-    select_words.R           inverse-N weighted sampling
+    select_words.R           inverse-N weighted sampling, 500-word overlap set filled first
+    priority_words.R         loads a language's cue words from the 500-word overlap set
     build_formr_xlsx_core.R  rebuilds one xlsx per survey part from a template + summary
     push_to_formr_core.R     syncs each part's rebuilt xlsx to its live formr study
     pull_results_core.R      pulls raw results per survey part (simplified, see below)

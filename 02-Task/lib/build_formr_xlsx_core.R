@@ -36,11 +36,11 @@ library(readxl)
 library(openxlsx)
 
 build_formr_xlsx <- function(part_names, blocks_per_part = 10, n_cutoff = 30,
-                              log_path = "word_assignment_log.csv") {
+                              log_path = "word_assignment_log.csv", priority_cues = NULL) {
   n_total <- blocks_per_part * length(part_names)
 
   summary <- read.csv("word_n_summary.csv", stringsAsFactors = FALSE)
-  words <- select_words(summary, n_cutoff = n_cutoff, n_select = n_total)
+  words <- select_words(summary, n_cutoff = n_cutoff, n_select = n_total, priority_cues = priority_cues)
 
   log_rows <- list()
 

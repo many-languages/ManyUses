@@ -5,6 +5,19 @@ formr study, prioritizing undersampled cues, per the Stage 1 manuscript's
 design: **30 randomly selected nouns per participant**, with undersampled
 cues prioritized, cutoff at **30 responses per cue**.
 
+Selection is further biased toward the manuscript's **500-word
+cross-linguistic overlap component** (`01-Stimuli/shared_core_top500.csv`,
+see its README's "Cross-linguistic overlap" section) — undersampled cues
+in that 500-word set fill as many of each build's 30 slots as they can
+(still inverse-N weighted within the set, not a fixed order) before
+selection falls back to the general pool. See `../lib/priority_words.R`
+and `../lib/select_words.R`'s `priority_cues` argument. English's priority
+set is exactly `shared_core_top500.csv`'s `gloss_english` column (English
+is the gloss language that file is built around); other languages will
+need their own translation of those 500 concepts, which
+`priority_words.R` extracts from that file's `words` column when present
+— only as large as that language's own translation coverage.
+
 Real formr identifiers, from `survey_parts.R`: run **`manyuses-english`**
 (documentation only — not used in any formr API call), and **three**
 survey/item-tables — `English_Word_Ratings`, `English_Word_Ratings_2`,
@@ -41,9 +54,12 @@ never ambiguous — it's whatever's in the xlsx (and logged in
 counts, but does **not** update `word_n_summary.csv`. Turning a raw
 response row into "cue X got one more response" requires joining it
 against `word_assignment_log.csv` by timestamp (since the word in any
-given slot changes every rebuild cycle) — that per-word cleaning isn't
-built yet. Until it is, `word_n_summary.csv` stays static and each rebuild
-keeps weight-sampling from whatever it was last set to.
+given slot changes every rebuild cycle) — that join now exists
+(`05-Data/Code/lib/reshape_long.R`, part of the response-cleaning
+pipeline), but nothing yet feeds its output back into updating
+`word_n_summary.csv`'s `n_total`. Until that wiring exists,
+`word_n_summary.csv` stays static and each rebuild keeps weight-sampling
+from whatever it was last set to.
 
 ## Pipeline
 
@@ -55,10 +71,15 @@ in `../languages_status.csv`.
 ```mermaid
 flowchart TD
     subgraph shared["lib/ (shared, all languages)"]
-        selwords["select_words.R\ninverse-N weighted sample"]
+        selwords["select_words.R\ninverse-N weighted sample,\npriority_cues fill first"]
+        priowords["priority_words.R"]
         buildcore["build_formr_xlsx_core.R"]
         pushcore["push_to_formr_core.R"]
         pullcore["pull_results_core.R\n(simplified -- raw pull only)"]
+    end
+
+    subgraph core500["01-Stimuli/ (cross-linguistic overlap)"]
+        shared500[("shared_core_top500.csv\n500-word overlap component")]
     end
 
     subgraph eng["English/ (per-language)"]
@@ -87,11 +108,13 @@ flowchart TD
     pull --> pullcore
     pullcore -->|"writes (new file per pull)"| rawcsv
     pullcore -->|"writes (appends)"| pulllog
-    wnseed -.->|"future: real per-word cleaning"| wnsum
+    wnseed -.->|"future: feed 05-Data/Code's\ncleaned per-word counts back in"| wnsum
     wnsum -->|"reads"| build
     parts -->|"reads"| build
     build --> buildcore
     buildcore -->|"reads"| selwords
+    shared500 -->|"reads (English: gloss_english column)"| priowords
+    priowords -->|"priority_cues"| selwords
     t1 & t2 & t3 -->|"reads"| build
     build -->|"writes (overwrites)"| r1 & r2 & r3
     build -->|"writes (appends)"| log
@@ -103,7 +126,7 @@ flowchart TD
     participants -.->|"responses accumulate"| formrapi
 
     classDef fileNode fill:#fff3cd,stroke:#b8860b,color:#000
-    class wnseed,wnsum,pulllog,t1,t2,t3,r1,r2,r3,log,rawcsv,parts fileNode
+    class wnseed,wnsum,pulllog,t1,t2,t3,r1,r2,r3,log,rawcsv,parts,shared500 fileNode
 ```
 
 ## Coverage-speed trade-off
@@ -199,39 +222,30 @@ in this folder.
   expected point: no `formr` package/credentials in this environment);
   the script still exits non-zero overall if anything failed, which
   `../run_all_languages.sh`'s per-language error handling catches.
-- **Not yet verified against a live formr account:** whether each of the
-  three `English_Word_Ratings*` surveys' `formr_api_fetch_results()` calls
-  return what this pipeline expects. Test this first, once real
-  credentials are in `../.env`.
-- **Not built yet:** the real per-word cleaning that would let
-  `word_n_summary.csv` update automatically (joining raw pulls against
-  `word_assignment_log.csv` by timestamp). Until then, treat this whole
-  pipeline as producing three real, live surveys with a *static*
-  word-priority list, not yet a self-updating one.
+- **Verified against a live formr account:** `push_to_formr.R` and
+  `pull_results.R` both confirmed working end-to-end against a real
+  formr instance (all three `English_Word_Ratings*` parts pushed and
+  pulled successfully).
+- **Built, not yet wired in:** the per-word cleaning that resolves each
+  response to the word it actually answered (joining raw pulls against
+  `word_assignment_log.csv` by timestamp) now exists —
+  `05-Data/Code/process_responses.R` — but nothing yet feeds its output
+  back into updating `word_n_summary.csv`'s `n_total`. Until that wiring
+  exists, treat this whole pipeline as producing three real, live surveys
+  with a *static* word-priority list, not yet a self-updating one.
 
 ## TODO before this is fully live
 
-1. Confirm all three `English_Word_Ratings*` surveys import into formr
-   without the row-size error (10 blocks/~130 items each should be well
-   under the limit that ~390 items hit) and that
-   `formr_api_fetch_results(run_name = ..., surveys = ...)` returns the
-   expected shape for each — this is the first real formr credentials
-   test.
-2. Copy `../.env.example` to `../.env` and fill in real `FORMR_CLIENT_ID` /
-   `FORMR_CLIENT_SECRET` (shared across all languages — never commit
-   `.env`), and make sure the server has push access to this repo (SSH key
-   or credential helper).
-3. Install the cron entry from the comment at the top of
+1. Install the cron entry from the comment at the top of
    `../run_all_languages.sh` (point cron at that, not at anything in
    `../lib/` or this folder directly).
-4. Build the real per-word cleaning step (join `05-Data/Raw/English/`'s
-   raw pulls against `word_assignment_log.csv` by timestamp) so
-   `word_n_summary.csv` starts reflecting real response counts instead of
-   staying static.
-5. Once real recruitment volume is known, revisit the coverage-speed
+2. Wire `05-Data/Code/process_responses.R`'s output back into updating
+   `word_n_summary.csv`'s `n_total` so `word_n_summary.csv` starts
+   reflecting real response counts instead of staying static.
+3. Once real recruitment volume is known, revisit the coverage-speed
    trade-off above and shorten the cron interval / adjust
    `BLOCKS_PER_PART` if 7.5 days per full pool pass is too slow.
-6. Add the next language following `../README.md`'s "Adding a new
+4. Add the next language following `../README.md`'s "Adding a new
    language" checklist, and add a row for it in `../languages_status.csv`.
    Set a language's status to `done` there once its data collection is
    complete, rather than removing its row or folder.
