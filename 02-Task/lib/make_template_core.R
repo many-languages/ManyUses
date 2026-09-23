@@ -11,7 +11,7 @@
 library(openxlsx)
 
 make_template <- function(words,
-                           instructions_label,
+                           instructions_label = NULL,
                            prompt_fn,
                            begin_label = "Begin",
                            more_label = "Have you listed all the different uses you can think of?",
@@ -38,8 +38,13 @@ make_template <- function(words,
     rows[[length(rows) + 1]] <<- r
   }
 
-  add_row(type = "note", name = "general_instructions", label = instructions_label)
-  add_row(type = "submit", name = "general_submit", label = begin_label)
+  # Parts are chained into one formr run -- instructions belong on the
+  # first part only, not repeated on every part. Pass NULL for later
+  # parts to skip this intro block entirely.
+  if (!is.null(instructions_label)) {
+    add_row(type = "note", name = "general_instructions", label = instructions_label)
+    add_row(type = "submit", name = "general_submit", label = begin_label)
+  }
 
   for (i in seq_along(words)) {
     slot <- sprintf("w%02d", i)
@@ -74,7 +79,8 @@ make_template <- function(words,
   df <- do.call(rbind.data.frame, c(lapply(rows, as.data.frame, stringsAsFactors = FALSE),
                                      list(stringsAsFactors = FALSE)))
   names(df) <- cols
-  stopifnot(nrow(df) == 2 + n_blocks * 13)
+  n_intro_rows <- if (is.null(instructions_label)) 0 else 2
+  stopifnot(nrow(df) == n_intro_rows + n_blocks * 13)
 
   wb <- createWorkbook()
   addWorksheet(wb, "Sheet1")

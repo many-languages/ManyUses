@@ -39,7 +39,9 @@ for (p in seq_along(PART_NAMES)) {
   part_words <- words[((p - 1) * BLOCKS_PER_PART + 1):(p * BLOCKS_PER_PART)]
   make_template(
     words = part_words,
-    instructions_label = instructions_label,
+    # Parts are chained into one formr run -- instructions belong on the
+    # first part only, not repeated on every part.
+    instructions_label = if (p == 1) instructions_label else NULL,
     prompt_fn = prompt_fn,
     out_path = paste0(PART_NAMES[p], "_template.xlsx")
   )
