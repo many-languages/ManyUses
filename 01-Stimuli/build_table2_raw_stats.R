@@ -16,6 +16,23 @@
 # Extracts just the `manifest` list from build_stimuli_pools.R (word_col/
 # conc_col/invert per source) rather than duplicating it by hand, without
 # running that script's own (slow, udpipe-based) selection pipeline.
+#
+# Two corrections applied here (table only -- neither touches
+# build_stimuli_pools.R's actual selection, which was already unaffected
+# by both issues; see this script's git history for how each was found):
+# - DellaRosa2010 (Italian): min-max rescaled from its own observed range
+#   onto [1, 9] (the range Italian's other three sources actually span).
+#   A genuine scale mismatch (magnitude/units), not a direction issue.
+# - The four invert=TRUE sources (Liu2025; Grigoriev2026's two
+#   Soloviev2022 comparisons; Kanske2010): reverse-scored (min + max - x)
+#   within each source's own observed range, so their rows read in the
+#   same direction (higher = more concrete) as everything else, on their
+#   original scale/units rather than a bare sign flip into negative
+#   numbers. build_stimuli_pools.R itself only sign-flips these
+#   internally for ranking, never for display, so there's no existing
+#   "corrected" raw value to reuse here.
+# Both corrections are per-row-flagged in the `correction` column /
+# table's Note column below, not silently applied.
 
 lines <- readLines("build_stimuli_pools.R")
 manifest_start <- grep("^manifest <- list\\(", lines)
@@ -44,6 +61,39 @@ for (lang in languages) {
     vals <- vals[!is.na(vals)]
     if (length(vals) == 0) next
 
+    correction <- NA_character_
+
+    # DellaRosa2010 (Italian): genuine scale mismatch, not a direction
+    # issue -- runs ~0-700 while every other Italian source runs ~1-9
+    # (see build_table2_raw_stats.R's earlier run, and README.md). Not
+    # declared/rescaled anywhere in build_stimuli_pools.R's manifest.
+    # Min-max rescaled onto [1, 9] here (the range Italian's other three
+    # sources actually span) using DellaRosa2010's OWN observed min/max
+    # among these selected words, so this table isn't reporting a raw
+    # mean of 587 alongside other rows' means of ~5-7.
+    if (spec$source == "DellaRosa2010") {
+      rescale_min <- min(vals); rescale_max <- max(vals)
+      vals <- 1 + (vals - rescale_min) / (rescale_max - rescale_min) * (9 - 1)
+      correction <- sprintf("Rescaled from source's own observed range [%.0f, %.0f] to [1, 9] (min-max)",
+                             rescale_min, rescale_max)
+    }
+
+    # The four invert=TRUE sources (Liu2025, Grigoriev2026's two
+    # Soloviev2022 comparisons, Kanske2010) run high=abstract/low=
+    # concrete -- build_stimuli_pools.R only sign-flips these for
+    # RANKING (percentile rank is invariant to that), never for display,
+    # so there's no existing "corrected" raw value to reuse. For this
+    # table, reverse-scored (min + max - x) within each source's own
+    # observed range among these selected words, rather than a bare sign
+    # flip -- keeps values on the source's actual original scale/units
+    # instead of going negative, while still making every row read in
+    # the same direction (higher = more concrete).
+    if (isTRUE(spec$invert)) {
+      reflect_min <- min(vals); reflect_max <- max(vals)
+      vals <- reflect_min + reflect_max - vals
+      correction <- "Reverse-scored (min + max - x) within its own observed range -- source's native scale runs high=abstract"
+    }
+
     all_rows[[length(all_rows) + 1]] <- data.frame(
       language = lang,
       source = spec$source,
@@ -53,6 +103,7 @@ for (lang in languages) {
       Min = min(vals),
       Max = max(vals),
       inverted_in_pooling = isTRUE(spec$invert),
+      correction = correction,
       stringsAsFactors = FALSE
     )
   }
@@ -98,11 +149,7 @@ md_lines <- c(
 )
 for (i in seq_len(nrow(raw_stats))) {
   r <- raw_stats[i, ]
-  note <- if (r$source == "DellaRosa2010") {
-    "**Scale mismatch -- 0-700ish, not comparable to other Italian sources' 1-9 range**"
-  } else if (isTRUE(r$inverted_in_pooling)) {
-    "Raw scale runs high=abstract (inverted during pooling) -- low raw values here mean MORE concrete, opposite of every other row"
-  } else ""
+  note <- if (!is.na(r$correction)) paste0("*", r$correction, "*") else ""
   md_lines <- c(md_lines, sprintf(
     "| %s | %s | %d | %.2f (%.2f) | %.2f | %.2f | %s |",
     gsub("_", " ", r$language), r$citation_display, r$n_words_matched, r$M, r$SD, r$Min, r$Max, note
