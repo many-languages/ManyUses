@@ -10,6 +10,6 @@
 # These names must exactly match the survey names created in formr
 # (formr derives the survey name from the uploaded file's name).
 
-RUN_NAME <- "manyuses-english" # documentation only; not used in any formr API call
+RUN_NAME <- "manyuses-english" # the formr run these survey parts belong to; passed to formr_api_fetch_results() by pull_results.R
 PART_NAMES <- c("English_Word_Ratings", "English_Word_Ratings_2", "English_Word_Ratings_3")
 BLOCKS_PER_PART <- 10

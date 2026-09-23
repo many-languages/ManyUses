@@ -1,0 +1,5 @@
+# Vendored/OSF projects, not part of this repo's own pipeline -- excluded
+# from renv's dependency scan so `renv::status()` doesn't flag their
+# packages as missing.
+Affordance_Norms_2-main/
+Affordance_Norms_OSF-main/

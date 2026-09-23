@@ -44,8 +44,11 @@ the full explanation.
   `lib/` or a language folder directly. Loops the manifest, runs
   `lib/run_update_and_push.sh <Language>` for each `active` row, skips
   `done` rows and any language with no folder yet.
-- `.env.example` — copy to `.env` and fill in `FORMR_EMAIL` /
-  `FORMR_PASSWORD` (shared across every language, not per-language).
+- `.env.example` — copy to `.env` and fill in `FORMR_CLIENT_ID` /
+  `FORMR_CLIENT_SECRET` (OAuth2 API credentials, used by both
+  `pull_results.R` and `push_to_formr.R` — create these at
+  `admin/account#api` on your formr instance, shared across every
+  language, not per-language).
   `lib/run_update_and_push.sh` sources `.env` automatically if present.
   `.env` itself is gitignored — never commit it.
 
@@ -98,9 +101,9 @@ words get split across multiple formr survey parts.
    what `survey_parts.R` already supplies. Run `make_template.R` once to
    produce each part's `_template.xlsx`.
 5. Add a row to `languages_status.csv`: `<Language>,active`.
-6. Make sure `02-Task/.env` exists with `FORMR_EMAIL` / `FORMR_PASSWORD`
-   set (shared across all languages — see `.env.example` — nothing extra
-   needed per language here).
+6. Make sure `02-Task/.env` exists with `FORMR_CLIENT_ID` /
+   `FORMR_CLIENT_SECRET` set (shared across all languages — see
+   `.env.example` — nothing extra needed per language here).
 7. **Do not** copy anything from `lib/` into the new language folder — if
    a language ever needs genuinely different selection/build/push logic
    (not just different survey names/words), that's a sign `lib/`'s

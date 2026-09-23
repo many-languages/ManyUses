@@ -11,4 +11,4 @@ source("survey_parts.R")
 RAW_DIR <- "../../05-Data/Raw/English"
 
 source("../lib/pull_results_core.R")
-pull_results(PART_NAMES, RAW_DIR)
+pull_results(RUN_NAME, PART_NAMES, RAW_DIR)

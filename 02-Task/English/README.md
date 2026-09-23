@@ -200,7 +200,7 @@ in this folder.
   the script still exits non-zero overall if anything failed, which
   `../run_all_languages.sh`'s per-language error handling catches.
 - **Not yet verified against a live formr account:** whether each of the
-  three `English_Word_Ratings*` surveys' `formr_raw_results()` calls
+  three `English_Word_Ratings*` surveys' `formr_api_fetch_results()` calls
   return what this pipeline expects. Test this first, once real
   credentials are in `../.env`.
 - **Not built yet:** the real per-word cleaning that would let
@@ -214,12 +214,13 @@ in this folder.
 1. Confirm all three `English_Word_Ratings*` surveys import into formr
    without the row-size error (10 blocks/~130 items each should be well
    under the limit that ~390 items hit) and that
-   `formr_raw_results(survey_name = ...)` returns the expected shape for
-   each — this is the first real formr credentials test.
-2. Copy `../.env.example` to `../.env` and fill in real `FORMR_EMAIL` /
-   `FORMR_PASSWORD` (shared across all languages — never commit `.env`),
-   and make sure the server has push access to this repo (SSH key or
-   credential helper).
+   `formr_api_fetch_results(run_name = ..., surveys = ...)` returns the
+   expected shape for each — this is the first real formr credentials
+   test.
+2. Copy `../.env.example` to `../.env` and fill in real `FORMR_CLIENT_ID` /
+   `FORMR_CLIENT_SECRET` (shared across all languages — never commit
+   `.env`), and make sure the server has push access to this repo (SSH key
+   or credential helper).
 3. Install the cron entry from the comment at the top of
    `../run_all_languages.sh` (point cron at that, not at anything in
    `../lib/` or this folder directly).

@@ -29,7 +29,9 @@
 # so each language's own survey_parts.R is the single source of truth for
 # its survey names, sourced by all four per-language scripts.
 #
-# Requires FORMR_EMAIL / FORMR_PASSWORD set in this shell's environment.
+# Requires FORMR_CLIENT_ID / FORMR_CLIENT_SECRET (OAuth2 API credentials,
+# used by both pull_results.R and push_to_formr.R; see
+# push_to_formr_core.R's header) set in this shell's environment.
 # Credentials are shared across every language, not per-language -- see
 # 02-Task/.env.example for the template; copy it to 02-Task/.env (gitignored)
 # and fill in real values, or set these in the server user's own profile.
