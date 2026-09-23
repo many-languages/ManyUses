@@ -60,9 +60,12 @@ logs row counts to `raw_pull_log.csv`, but does **not** update
 `word_n_summary.csv`. Matching each response row to which word it actually
 answered requires joining formr's raw rows against `word_assignment_log.csv`
 by timestamp (since batch-level randomization means the word in any given
-slot changes every rebuild cycle) — that per-word cleaning isn't built yet.
-Until it is, `word_n_summary.csv` stays static and each rebuild keeps
-weight-sampling from whatever it was last set to.
+slot changes every rebuild cycle) — that join, plus non-answer filtering,
+spellcheck, and lemmatization, now exists as `05-Data/Code/process_responses.R`
+(see `05-Data/README.md`), but nothing yet feeds its output back into
+updating `word_n_summary.csv`'s `n_total`. Until that wiring exists,
+`word_n_summary.csv` stays static and each rebuild keeps weight-sampling
+from whatever it was last set to.
 
 ## Dispatcher workflow
 
