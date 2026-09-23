@@ -141,6 +141,17 @@ raw_stats$citation_display <- ifelse(nzchar(raw_stats$variant),
                                       paste0(raw_stats$citation, " [", raw_stats$variant, "]"),
                                       raw_stats$citation)
 
+# KNOWN SIMPLIFICATION: the two Soloviev2022 comparison rows
+# (Grigoriev2026_cmp_Soloviev2022_1000/_500) are attributed to
+# "Grigoriev et al. (2026)" -- the file they were pulled from -- not to
+# Soloviev et al. (2022), the actual norming study those two columns
+# report. Checked Grigoriev2026's own 51-entry CrossRef reference list
+# (2026-09-23) for a matching Soloviev entry; none found (CrossRef's
+# submitted reference metadata is often incomplete, so this isn't
+# conclusive the paper doesn't cite it -- just unverifiable this way).
+# Update citation_metadata.csv with a real Soloviev2022 entry and this
+# will pick it up automatically once one is available.
+
 raw_stats <- raw_stats[order(raw_stats$language, raw_stats$source), ]
 
 md_lines <- c(
