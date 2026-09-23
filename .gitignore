@@ -48,3 +48,7 @@ po/*~
 # RStudio Connect folder
 rsconnect/
 .DS_Store
+
+# Real formr credentials -- 02-Task/.env.example is the template, tracked;
+# 02-Task/.env is the real, filled-in file, never committed.
+02-Task/.env

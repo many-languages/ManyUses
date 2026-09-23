@@ -3,10 +3,11 @@
 # Per-language cron worker: called once per active language by
 # run_all_languages.sh, e.g. `lib/run_update_and_push.sh English`. Run
 # entirely on your own server.
-#   1. recompute word_n_summary.csv from live formr response counts
-#      (that language's own update_summary.R -- the one per-language part
-#      of this whole cycle, since it needs that language's formr study
-#      name/results table)
+#   1. pull_results.R (per-language: formr survey name) -- pulls raw formr
+#      results into 05-Data/Raw/<Language>/ and logs the row count.
+#      DELIBERATELY SIMPLIFIED for now: does not update word_n_summary.csv
+#      (see pull_results_core.R's header) -- real per-word cleaning is
+#      still TODO, so word_n_summary.csv stays whatever it last was.
 #   2. rebuild word_ratings.xlsx: weight-sample 30 words favoring the
 #      most undersampled and bake them as literal text into the survey
 #      (batch-level randomization -- selection happens here, once per
@@ -14,11 +15,14 @@
 #   3. push the rebuilt xlsx to the live formr study (formr_api_upload_survey
 #      syncs an existing study in place)
 #   4. commit + push that language's word_n_summary.csv, word_ratings.xlsx,
-#      and word_assignment_log.csv to GitHub for version history/audit trail
+#      word_assignment_log.csv, and raw_pull_log.csv to GitHub for version
+#      history/audit trail (raw response data itself is NOT committed --
+#      it lands in 05-Data/Raw/, which is gitignored)
 #
-# Requires FORMR_EMAIL / FORMR_PASSWORD set in this shell's environment
-# (e.g. sourced from a .env file below, or the server user's own profile —
-# never commit credentials to this repo).
+# Requires FORMR_EMAIL / FORMR_PASSWORD set in this shell's environment.
+# Credentials are shared across every language, not per-language -- see
+# 02-Task/.env.example for the template; copy it to 02-Task/.env (gitignored)
+# and fill in real values, or set these in the server user's own profile.
 
 set -euo pipefail
 
@@ -38,18 +42,21 @@ if [ ! -d "$LANG_DIR" ]; then
   exit 1
 fi
 
+# Shared across every language -- see 02-Task/.env.example.
+[ -f "$TASK_DIR/.env" ] && source "$TASK_DIR/.env"
+
 cd "$LANG_DIR"
 
-# Uncomment and point at a local, untracked credentials file if you'd rather
-# not rely on the server user's shell environment already having these set:
-# source .env
-
-Rscript update_summary.R
+Rscript pull_results.R
 Rscript "$LIB_DIR/build_formr_xlsx.R"
 Rscript "$LIB_DIR/push_to_formr.R"
 
 cd "$REPO_ROOT"
-git add "02-Task/$LANGUAGE/word_n_summary.csv" "02-Task/$LANGUAGE/word_ratings.xlsx" "02-Task/$LANGUAGE/word_assignment_log.csv"
+for f in word_n_summary.csv word_ratings.xlsx word_assignment_log.csv raw_pull_log.csv; do
+  if [ -f "02-Task/$LANGUAGE/$f" ]; then
+    git add "02-Task/$LANGUAGE/$f"
+  fi
+done
 if ! git diff --cached --quiet; then
   git commit -m "Update $LANGUAGE word N summary and rebuild formr survey"
   git push

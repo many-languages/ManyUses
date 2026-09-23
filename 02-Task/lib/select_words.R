@@ -3,8 +3,9 @@
 # participant). Shared across all languages -- do not copy this into a
 # language folder; build_formr_xlsx.R sources it from here directly.
 #
-# summary: data.frame with columns cue, n_total, needs_norming (as written by
-#   each language's update_summary.R / word_n_summary.csv)
+# summary: data.frame with columns cue, n_total, needs_norming, read from
+#   each language's word_n_summary.csv (not yet updated automatically by
+#   pull_results.R -- see pull_results_core.R's header)
 # n_cutoff: minimum responses a cue needs before it's considered normed
 # n_select: how many cues to show this participant (manuscript: 30)
 #

@@ -13,7 +13,8 @@ library(formr)
 
 formr_connect(
   email = Sys.getenv("FORMR_EMAIL"),
-  password = Sys.getenv("FORMR_PASSWORD")
+  password = Sys.getenv("FORMR_PASSWORD"),
+  host = Sys.getenv("FORMR_HOST", unset = formr_last_host())
 )
 
 formr_api_upload_survey(file_path = "word_ratings.xlsx")
