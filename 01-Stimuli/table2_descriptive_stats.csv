@@ -1,0 +1,14 @@
+"language","M","SD","Min","Max","n_words","n_sources","sources","citations","scale","n_hack_translated_glosses"
+"Chinese_Simplified",0.691306587702248,0.170805099379638,0.401116427432217,1,1560,4,"Liu2007; Liu2025; Yao2017; Yee2017","Liu et al. (2007); Liu et al. (2026); Yao et al. (2017); Yee (2017)","Percentile rank (pooled)",0
+"Chinese_Traditional",0.702291442892946,0.172008759518076,0.411743644826352,1,1664,1,"Su2023","Su et al. (2022)","Percentile rank (pooled)",300
+"Dutch",0.857927384932292,0.0804610392331994,0.722749636199848,0.997955789619569,4000,2,"Brysbaert2014a; Jasmin2012","Brysbaert et al. (2014); Jasmin & Casasanto (2012)","Percentile rank (pooled)",300
+"English",4.6229375,0.286985167239185,2.73,5,4000,2,"Maxwell2024; Pexman2019","Maxwell et al. (2024); Pexman et al. (2019)","1 -- 5 Likert",0
+"French",0.696699448827527,0.173935649664507,0.401401869158878,1,714,2,"Bonin2018; Quadflieg2014","Bonin et al. (2018); Quadflieg et al. (2014)","Percentile rank (pooled)",0
+"Galician",0.698742746615087,0.174340374783527,0.400386847195358,0.999516441005803,624,1,"AlvarezMosquera2026","Álvarez-Mosquera et al. (2026)","Percentile rank (pooled)",0
+"German",0.7005,0.173347017994964,0.401,1,600,1,"Kanske2010","Kanske & Kotz (2010)","Percentile rank (pooled)",600
+"Italian",0.687486506189423,0.169495790777923,0.400921658986175,1,661,4,"Barca2002; DellaRosa2010; Montefinese2014; Montefinese2023_it","Barca et al. (2002); Della Rosa et al. (2010); Montefinese et al. (2014); Montefinese et al. (2023)","Percentile rank (pooled)",0
+"Polish",0.70134465675867,0.172580267314563,0.402866242038217,1,1689,1,"Imbir2016","Imbir (2016)","Percentile rank (pooled)",0
+"Portuguese",0.692604755361122,0.169382446092932,0.400515728661718,1,1712,4,"Cameirao2010; Marques2005; Marques2007; Soares2017","Cameirão & Vicente (2010); Marques (2005); Marques et al. (2007); Soares et al. (2017)","Percentile rank (pooled)",0
+"Russian",0.699672529584123,0.173025152859072,0.400309917355372,0.99896694214876,1068,1,"Grigoriev2026","Grigoriev et al. (2026)","Percentile rank (pooled)",0
+"Spanish",0.684020959794345,0.168904258137444,0.400347680652512,1,1294,6,"Davis2005a; Diez-Alamo2018a; Duchon2013; Ferre2012; Guasch2016; Hinojosa2016a","Davis & Perea (2005); Díez-Álamo et al. (2018); Duchon et al. (2013); Ferré et al. (2012); Guasch et al. (2016); Hinojosa et al. (2016)","Percentile rank (pooled)",0
+"Turkish",0.700272479564033,0.174209079958557,0.400544959128065,1,221,1,"Goz2017","Göz et al. (2017)","Percentile rank (pooled)",0
