@@ -1,0 +1,161 @@
+# English Task: Dynamic Word Selection Demo
+
+Working demo of the pipeline that picks the cue words shown in the English
+formr study, prioritizing undersampled cues, per the Stage 1 manuscript's
+design: **30 randomly selected nouns per participant**, with undersampled
+cues prioritized, cutoff at **30 responses per cue**. The survey now has
+30 word-blocks (`w01`..`w30`), matching that.
+
+**This folder holds only what's genuinely English-specific** — data files
+and two thin wrapper scripts. The actual pipeline logic (selection, xlsx
+rebuilding, pushing to formr) is shared across every language and lives in
+`../lib/`; see `../README.md` for the full shared/per-language split and
+the checklist for adding another language.
+
+**Randomization is batch-level, not per-participant, and happens
+server-side at build time — not inside formr.** A formr session can't
+reliably reach out and rewrite itself mid-study, so instead of embedding a
+word pool and sampling live per session, the server picks the 30 words
+once per rebuild and bakes them as literal text straight into the survey.
+Every participant who takes the survey between one push and the next sees
+that same 30-word set; the next rebuild picks a fresh one. Because the
+words are literal text, "which words were shown" is never ambiguous — it's
+whatever's in the xlsx (and logged in `word_assignment_log.csv`) at that
+time.
+
+## Pipeline
+
+Not called directly by cron — see `../run_all_languages.sh`, the actual
+dispatcher, which runs `../lib/run_update_and_push.sh English` (and every
+other active language) on a schedule, skipping any language marked `done`
+in `../languages_status.csv`.
+
+```mermaid
+flowchart TD
+    subgraph shared["lib/ (shared, all languages)"]
+        selwords["select_words.R\ninverse-N weighted sample"]
+        buildxlsx["build_formr_xlsx.R"]
+        pushfmr["push_to_formr.R"]
+        usumcore["update_summary_core.R"]
+    end
+
+    subgraph eng["English/ (per-language)"]
+        usum["update_summary.R\n(STUDY_NAME, RESULTS_TABLE)"]
+        wnseed[("word_n_seed.csv\nimmutable n_previous")]
+        wnsum[("word_n_summary.csv")]
+        template[("word_ratings_template.xlsx\npristine, never overwritten")]
+        ratings[("word_ratings.xlsx\nlive, rebuilt every cycle")]
+        log[("word_assignment_log.csv\naudit trail")]
+    end
+
+    formrapi["formr API: live responses"] --> usum
+    usum --> usumcore
+    usumcore --> wnseed
+    usumcore --> wnsum
+    wnsum --> buildxlsx
+    buildxlsx --> selwords
+    template --> buildxlsx
+    buildxlsx --> ratings
+    buildxlsx --> log
+    ratings --> pushfmr
+    pushfmr -->|"formr_api_upload_survey()\nsyncs in place"| formrstudy["live formr study"]
+    formrstudy -->|"this cycle's 30 words\nuntil next push"| participants["participants"]
+    participants -.->|"responses accumulate"| formrapi
+```
+
+## Coverage-speed trade-off
+
+Batch-level randomization means coverage speed = (words refreshed per
+cycle) ÷ (cycle length), not driven by participant volume. At the current
+defaults — 30 words, 2-hour cycle, ~2,700-word needs-norming pool — full
+coverage of the pool takes about 90 cycles, roughly **7.5 days**, to
+touch every word once (let alone reach n=30 on each). Shorten the cron
+interval further, or increase `N_BLOCKS` (in `../lib/build_formr_xlsx.R`
+— shared across languages), once real recruitment volume is known if
+that's still too slow.
+
+## The formr survey files
+
+- **`word_ratings_template.xlsx`** — pristine source, 30 word-blocks with
+  placeholder hardcoded English words (never actually shown to a real
+  participant — `../lib/build_formr_xlsx.R` always overwrites them).
+  **Never hand-edit this or let a script overwrite it** — it's always
+  regenerated fresh from `make_template.R`, which is what keeps rebuilds
+  idempotent (each rebuild draws a new random 30, but always starting from
+  the same pristine 30-block structure, never compounding on a prior
+  rebuild's output).
+- **`word_ratings.xlsx`** — the generated, live file, pushed to formr
+  every cron cycle. Don't hand-edit this either, since the next rebuild
+  overwrites it.
+
+## Files in this folder
+
+Only two of these are scripts you'd actually edit — everything else is
+either data or a thin wrapper around shared `../lib/` logic:
+
+- `update_summary.R` — **edit this**: sets `STUDY_NAME` / `RESULTS_TABLE`
+  and calls `../lib/update_summary_core.R`'s `update_summary()`. Currently
+  placeholders — fill in once the actual English survey exists in formr.
+- `make_template.R` — **edit this** only if the instructional text or
+  placeholder words need to change: supplies English content
+  (`words`, `instructions_label`, `prompt_fn`) to
+  `../lib/make_template_core.R`'s `make_template()`, which does the actual
+  xlsx-building. Not part of the regular cron pipeline — only re-run by
+  hand.
+- `word_n_seed.csv` — immutable baseline: each cue's `n_previous` from
+  Maxwell et al. (2024) / Pexman et al. (2019) BOI, as in
+  `01-Stimuli/English/English_Combined_4000.csv`. `update_summary.R` adds
+  live formr counts on top of this; never edit this file directly.
+- `word_n_summary.csv` — the live, committed summary (`cue`, `n_total`,
+  `needs_norming`). Currently seeded 1:1 from `word_n_seed.csv` (no formr
+  responses yet). Regenerated by `update_summary.R`.
+- `word_assignment_log.csv` — audit trail: every rebuild's timestamp, which
+  word landed in which slot, and its `n_total` at selection time. Answers
+  "what did participants see and when" without needing to diff xlsx
+  history. Appended to by `../lib/build_formr_xlsx.R`.
+
+## What's demo-quality vs. verified
+
+- Selection logic (`../lib/select_words.R`) is real and tested: inverse-N
+  weighted sampling, then order-shuffled, matching the manuscript's
+  "randomly selected... undersampled cues prioritized" language.
+- `../lib/build_formr_xlsx.R` is tested end-to-end against this folder's
+  files: verified idempotent in structure (repeated rebuilds always
+  produce a 392-row file from the same pristine template, each with a
+  fresh random 30-word draw), verified word substitution lands in the
+  right blocks, verified the assignment log accumulates correctly across
+  rebuilds, verified it correctly locates `../lib/select_words.R`
+  regardless of working directory.
+- `../lib/push_to_formr.R` / `formr_api_upload_survey()` syncing an
+  existing study in place — confirmed.
+- `../lib/run_update_and_push.sh English` tested end-to-end through the
+  full chain (fails at the expected point locally: no `formr` package/
+  credentials in this environment, caught gracefully by
+  `../run_all_languages.sh`'s per-language error handling).
+- **Still not verified against a live formr account:** the actual
+  `update_summary.R` results-table shape, since the real English survey
+  doesn't exist in formr yet. Confirm the schema once it does, and adjust
+  `../lib/update_summary_core.R`'s aggregation if it differs (e.g. one
+  column per possible cue instead of long format) — that's a shared change,
+  so fix it once for every language, not per language.
+
+## TODO before this goes live
+
+1. Build the actual English survey in formr, note its study name and the
+   results table for the word-response unit, and fill those into
+   `update_summary.R`.
+2. Set up `FORMR_EMAIL` / `FORMR_PASSWORD` on the server that will run cron
+   (shared across all languages, not per-language — e.g. a local `.env`
+   sourced by `../lib/run_update_and_push.sh` — never commit credentials
+   to this repo), and make sure that server has push access to this repo
+   (SSH key or credential helper).
+3. Install the cron entry from the comment at the top of
+   `../run_all_languages.sh` (point cron at that, not at anything in
+   `../lib/` or this folder directly).
+4. Once real recruitment volume is known, revisit the coverage-speed
+   trade-off above and shorten the cron interval / adjust `N_BLOCKS` if
+   7.5 days per full pool pass is too slow.
+5. Add the next language following `../README.md`'s "Adding a new
+   language" checklist, and add a row for it in `../languages_status.csv`.
+   Set a language's status to `done` there once its data collection is
+   complete, rather than removing its row or folder.
