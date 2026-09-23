@@ -1,9 +1,13 @@
 # Per-language content for the shared make_template() in
 # ../lib/make_template_core.R: English instructional text and 30 English
 # placeholder words (never actually shown -- build_formr_xlsx.R always
-# overwrites them at rebuild time). Not part of the regular cron pipeline —
-# only re-run this if N_BLOCKS or the instructional text needs to change.
+# overwrites them at rebuild time), split across this language's survey
+# parts (survey_parts.R -- shared with build_formr_xlsx.R / push_to_formr.R
+# / pull_results.R). One <survey>_template.xlsx is generated per part.
+# Not part of the regular cron pipeline — only re-run this if BLOCKS_PER_PART,
+# PART_NAMES, or the instructional text needs to change.
 
+source("survey_parts.R")
 source("../lib/make_template_core.R")
 
 words <- c(
@@ -11,7 +15,7 @@ words <- c(
   "hammer", "bottle", "pencil", "umbrella", "wallet", "mirror", "blanket", "kettle", "ladder", "bucket",
   "scissors", "candle", "broom", "basket", "glove", "whistle", "anchor", "drum", "lantern", "compass"
 )
-stopifnot(length(words) == 30) # manuscript: 30 randomly selected nouns per participant
+stopifnot(length(words) == length(PART_NAMES) * BLOCKS_PER_PART) # manuscript: 30 randomly selected nouns per participant
 
 instructions_label <- paste(
   "## Instructions",
@@ -31,9 +35,12 @@ prompt_fn <- function(word) {
          word, "**. Put one different use in each box.")
 }
 
-make_template(
-  words = words,
-  instructions_label = instructions_label,
-  prompt_fn = prompt_fn,
-  out_path = "word_ratings_template.xlsx"
-)
+for (p in seq_along(PART_NAMES)) {
+  part_words <- words[((p - 1) * BLOCKS_PER_PART + 1):(p * BLOCKS_PER_PART)]
+  make_template(
+    words = part_words,
+    instructions_label = instructions_label,
+    prompt_fn = prompt_fn,
+    out_path = paste0(PART_NAMES[p], "_template.xlsx")
+  )
+}

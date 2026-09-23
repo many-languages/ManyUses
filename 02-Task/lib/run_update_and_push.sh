@@ -3,21 +3,31 @@
 # Per-language cron worker: called once per active language by
 # run_all_languages.sh, e.g. `lib/run_update_and_push.sh English`. Run
 # entirely on your own server.
-#   1. pull_results.R (per-language: formr survey name) -- pulls raw formr
-#      results into 05-Data/Raw/<Language>/ and logs the row count.
-#      DELIBERATELY SIMPLIFIED for now: does not update word_n_summary.csv
-#      (see pull_results_core.R's header) -- real per-word cleaning is
-#      still TODO, so word_n_summary.csv stays whatever it last was.
-#   2. rebuild word_ratings.xlsx: weight-sample 30 words favoring the
-#      most undersampled and bake them as literal text into the survey
-#      (batch-level randomization -- selection happens here, once per
-#      cycle, not per participant inside formr)
-#   3. push the rebuilt xlsx to the live formr study (formr_api_upload_survey
-#      syncs an existing study in place)
-#   4. commit + push that language's word_n_summary.csv, word_ratings.xlsx,
-#      word_assignment_log.csv, and raw_pull_log.csv to GitHub for version
-#      history/audit trail (raw response data itself is NOT committed --
-#      it lands in 05-Data/Raw/, which is gitignored)
+#   1. pull_results.R (per-language: formr survey names, from
+#      survey_parts.R) -- pulls raw formr results for each survey part into
+#      05-Data/Raw/<Language>/ and logs the row counts. DELIBERATELY
+#      SIMPLIFIED for now: does not update word_n_summary.csv (see
+#      pull_results_core.R's header) -- real per-word cleaning is still
+#      TODO, so word_n_summary.csv stays whatever it last was.
+#   2. build_formr_xlsx.R (per-language: survey_parts.R again) -- weight-
+#      samples all words for this cycle together, splits them across this
+#      language's survey parts, and bakes them as literal text into each
+#      part's survey (batch-level randomization -- selection happens here,
+#      once per cycle, not per participant inside formr)
+#   3. push_to_formr.R (per-language) -- pushes each part's rebuilt xlsx to
+#      its live formr study (formr_api_upload_survey syncs an existing
+#      study in place)
+#   4. commit + push that language's word_n_summary.csv, every survey
+#      part's xlsx, word_assignment_log.csv, and raw_pull_log.csv to GitHub
+#      for version history/audit trail (raw response data itself is NOT
+#      committed -- it lands in 05-Data/Raw/, which is gitignored)
+#
+# Why per-language build/push/pull scripts, not fully shared like
+# select_words.R: each language may have a different number of formr
+# survey "parts" (see build_formr_xlsx_core.R's header -- formr's own
+# MySQL backend forces splitting large word-sets into multiple surveys),
+# so each language's own survey_parts.R is the single source of truth for
+# its survey names, sourced by all four per-language scripts.
 #
 # Requires FORMR_EMAIL / FORMR_PASSWORD set in this shell's environment.
 # Credentials are shared across every language, not per-language -- see
@@ -43,18 +53,20 @@ if [ ! -d "$LANG_DIR" ]; then
 fi
 
 # Shared across every language -- see 02-Task/.env.example.
-[ -f "$TASK_DIR/.env" ] && source "$TASK_DIR/.env"
+if [ -f "$TASK_DIR/.env" ]; then
+  source "$TASK_DIR/.env"
+fi
 
 cd "$LANG_DIR"
 
 Rscript pull_results.R
-Rscript "$LIB_DIR/build_formr_xlsx.R"
-Rscript "$LIB_DIR/push_to_formr.R"
+Rscript build_formr_xlsx.R
+Rscript push_to_formr.R
 
 cd "$REPO_ROOT"
-for f in word_n_summary.csv word_ratings.xlsx word_assignment_log.csv raw_pull_log.csv; do
-  if [ -f "02-Task/$LANGUAGE/$f" ]; then
-    git add "02-Task/$LANGUAGE/$f"
+for f in "02-Task/$LANGUAGE"/*.xlsx "02-Task/$LANGUAGE/word_n_summary.csv" "02-Task/$LANGUAGE/word_assignment_log.csv" "02-Task/$LANGUAGE/raw_pull_log.csv"; do
+  if [ -f "$f" ]; then
+    git add "$f"
   fi
 done
 if ! git diff --cached --quiet; then

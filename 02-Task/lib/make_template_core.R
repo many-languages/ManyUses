@@ -19,7 +19,10 @@ make_template <- function(words,
                            more_choice2 = "No, I can think of a few more",
                            use_label_fn = function(u) paste("Use", u),
                            next_label = "Next",
-                           out_path = "word_ratings_template.xlsx") {
+                           out_path) {
+  # out_path has no default deliberately: it must match <SurveyName>.xlsx
+  # (or _template.xlsx) for that language's real formr survey name -- see
+  # each language's make_template.R for its actual value.
   n_blocks <- length(words)
   block_ids <- sprintf("%02d", seq_len(n_blocks)) # zero-padded so string-sort order matches block order; "letters" only covers 26
 

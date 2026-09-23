@@ -17,36 +17,46 @@
 
 library(formr)
 
-pull_results <- function(survey_name, raw_dir, log_path = "raw_pull_log.csv") {
+# survey_names: a vector -- a language may have more than one formr survey
+# (see build_formr_xlsx_core.R's header for why: formr's MySQL backend has
+# a row-size limit that forces splitting a large word-set into multiple
+# surveys/parts). Pulls each one in turn into its own timestamped raw file.
+pull_results <- function(survey_names, raw_dir, log_path = "raw_pull_log.csv") {
   formr_connect(
     email = Sys.getenv("FORMR_EMAIL"),
     password = Sys.getenv("FORMR_PASSWORD"),
     host = Sys.getenv("FORMR_HOST", unset = formr_last_host())
   )
 
-  responses <- formr_raw_results(survey_name = survey_name)
-
   if (!dir.exists(raw_dir)) dir.create(raw_dir, recursive = TRUE)
   stamp <- format(Sys.time(), "%Y%m%d_%H%M%S")
-  raw_path <- file.path(raw_dir, sprintf("%s_%s.csv", survey_name, stamp))
-  write.csv(responses, raw_path, row.names = FALSE)
 
-  log_entry <- data.frame(
-    pulled_at = Sys.time(),
-    survey_name = survey_name,
-    n_rows = nrow(responses),
-    raw_file = basename(raw_path)
-  )
+  log_rows <- list()
+
+  for (survey_name in survey_names) {
+    responses <- formr_raw_results(survey_name = survey_name)
+
+    raw_path <- file.path(raw_dir, sprintf("%s_%s.csv", survey_name, stamp))
+    write.csv(responses, raw_path, row.names = FALSE)
+
+    log_rows[[survey_name]] <- data.frame(
+      pulled_at = Sys.time(),
+      survey_name = survey_name,
+      n_rows = nrow(responses),
+      raw_file = basename(raw_path)
+    )
+
+    cat("Pulled", nrow(responses), "rows from", survey_name, "-> saved to", raw_path, "\n")
+  }
+
+  log_entry <- do.call(rbind, log_rows)
   write.table(
     log_entry, log_path,
     sep = ",", row.names = FALSE,
     col.names = !file.exists(log_path), append = file.exists(log_path)
   )
 
-  cat(
-    "Pulled", nrow(responses), "rows from", survey_name, "-> saved to", raw_path, "\n",
-    "word_n_summary.csv NOT updated -- per-word cleaning still TODO.\n"
-  )
+  cat("word_n_summary.csv NOT updated -- per-word cleaning still TODO.\n")
 
-  invisible(responses)
+  invisible(log_entry)
 }
