@@ -49,6 +49,15 @@ po/*~
 rsconnect/
 .DS_Store
 
+# Raw (potentially identifying) participant data
+05-Data/Raw/*
+!05-Data/Raw/.gitkeep
+
+# Downloaded udpipe language model (~15MB binary) -- re-downloaded on
+# first run of 05-Data/Code/lib/clean_text.R's lemmatize_pos(), cached
+# locally, never committed.
+05-Data/.udpipe_models/
+
 # Real formr credentials -- 02-Task/.env.example is the template, tracked;
 # 02-Task/.env is the real, filled-in file, never committed.
 02-Task/.env
