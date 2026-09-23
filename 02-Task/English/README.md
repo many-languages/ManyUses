@@ -82,25 +82,28 @@ flowchart TD
         rawcsv[("raw response export\nper part, per pull, timestamped")]
     end
 
-    formrapi["formr API:\n3 surveys"] --> pull
-    parts --> pull
+    formrapi["formr API:\n3 surveys"] -->|"reads"| pull
+    parts -->|"reads"| pull
     pull --> pullcore
-    pullcore --> rawcsv
-    pullcore --> pulllog
+    pullcore -->|"writes (new file per pull)"| rawcsv
+    pullcore -->|"writes (appends)"| pulllog
     wnseed -.->|"future: real per-word cleaning"| wnsum
-    wnsum --> build
-    parts --> build
+    wnsum -->|"reads"| build
+    parts -->|"reads"| build
     build --> buildcore
-    buildcore --> selwords
-    t1 & t2 & t3 --> build
-    build --> r1 & r2 & r3
-    build --> log
-    r1 & r2 & r3 --> push
-    parts --> push
+    buildcore -->|"reads"| selwords
+    t1 & t2 & t3 -->|"reads"| build
+    build -->|"writes (overwrites)"| r1 & r2 & r3
+    build -->|"writes (appends)"| log
+    r1 & r2 & r3 -->|"reads"| push
+    parts -->|"reads"| push
     push --> pushcore
     pushcore -->|"formr_api_upload_survey()\nsyncs each part in place"| formrstudy["3 live formr surveys"]
     formrstudy -->|"this cycle's words\nuntil next push"| participants["participants"]
     participants -.->|"responses accumulate"| formrapi
+
+    classDef fileNode fill:#fff3cd,stroke:#b8860b,color:#000
+    class wnseed,wnsum,pulllog,t1,t2,t3,r1,r2,r3,log,rawcsv,parts fileNode
 ```
 
 ## Coverage-speed trade-off
@@ -187,10 +190,15 @@ in this folder.
 - `push_to_formr.R` / `formr_api_upload_survey()` syncing an existing
   study in place — confirmed (this is also what led to discovering the
   row-size limit and the resulting 3-way split).
-- `../lib/run_update_and_push.sh English` tested end-to-end through the
-  full chain (fails at the expected point locally: no `formr` package/
-  credentials in this environment, caught gracefully by
-  `../run_all_languages.sh`'s per-language error handling).
+- `../lib/run_update_and_push.sh English` tested end-to-end: each of the
+  three R steps is best-effort (a failure in one doesn't skip the others),
+  and the commit+push step always runs afterward regardless of which
+  step(s) failed — since this repo lives on the server, a log update that
+  only exists in the server's local working copy and never gets pushed is
+  as good as lost. Verified locally up to that point (fails at the
+  expected point: no `formr` package/credentials in this environment);
+  the script still exits non-zero overall if anything failed, which
+  `../run_all_languages.sh`'s per-language error handling catches.
 - **Not yet verified against a live formr account:** whether each of the
   three `English_Word_Ratings*` surveys' `formr_raw_results()` calls
   return what this pipeline expects. Test this first, once real

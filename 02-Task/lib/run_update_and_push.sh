@@ -34,7 +34,15 @@
 # 02-Task/.env.example for the template; copy it to 02-Task/.env (gitignored)
 # and fill in real values, or set these in the server user's own profile.
 
-set -euo pipefail
+# Deliberately NOT `set -e`: if any one R step below fails partway through
+# (e.g. build_formr_xlsx.R errors after pull_results.R already wrote a new
+# raw_pull_log.csv row), the commit+push at the end must still run so
+# whatever WAS produced reaches GitHub -- since this repo lives on the
+# server, a log update that only exists in the server's local working
+# copy and never gets pushed is as good as lost. Each step is best-effort;
+# the script still exits non-zero at the end if anything failed, so
+# run_all_languages.sh's per-language failure handling still sees it.
+set -uo pipefail
 
 if [ $# -ne 1 ]; then
   echo "Usage: run_update_and_push.sh <LanguageFolderName>" >&2
@@ -59,10 +67,13 @@ fi
 
 cd "$LANG_DIR"
 
-Rscript pull_results.R
-Rscript build_formr_xlsx.R
-Rscript push_to_formr.R
+STEP_FAILED=0
+Rscript pull_results.R || { echo "$(date): $LANGUAGE pull_results.R failed"; STEP_FAILED=1; }
+Rscript build_formr_xlsx.R || { echo "$(date): $LANGUAGE build_formr_xlsx.R failed"; STEP_FAILED=1; }
+Rscript push_to_formr.R || { echo "$(date): $LANGUAGE push_to_formr.R failed"; STEP_FAILED=1; }
 
+# Always attempt to commit+push whatever exists on disk, regardless of
+# which step(s) above failed -- see the note at the top of this file.
 cd "$REPO_ROOT"
 for f in "02-Task/$LANGUAGE"/*.xlsx "02-Task/$LANGUAGE/word_n_summary.csv" "02-Task/$LANGUAGE/word_assignment_log.csv" "02-Task/$LANGUAGE/raw_pull_log.csv"; do
   if [ -f "$f" ]; then
@@ -74,4 +85,8 @@ if ! git diff --cached --quiet; then
   git push
 else
   echo "$(date): no change for $LANGUAGE, skipping commit"
+fi
+
+if [ "$STEP_FAILED" -eq 1 ]; then
+  exit 1
 fi
