@@ -2,7 +2,7 @@
 "Chinese_Simplified",0.691306587702248,0.170805099379638,0.401116427432217,1,1560,4,"Liu2007; Liu2025; Yao2017; Yee2017","Liu et al. (2007); Liu et al. (2026); Yao et al. (2017); Yee (2017)","Percentile rank (pooled)",0
 "Chinese_Traditional",0.702291442892946,0.172008759518076,0.411743644826352,1,1664,1,"Su2023","Su et al. (2022)","Percentile rank (pooled)",300
 "Dutch",0.857927384932292,0.0804610392331994,0.722749636199848,0.997955789619569,4000,2,"Brysbaert2014a; Jasmin2012","Brysbaert et al. (2014); Jasmin & Casasanto (2012)","Percentile rank (pooled)",300
-"English",4.6229375,0.286985167239185,2.73,5,4000,2,"Maxwell2024; Pexman2019","Maxwell et al. (2024); Pexman et al. (2019)","1 -- 5 Likert",0
+"English",0.877915785386777,0.0862225993465687,0.357146378740817,1,4000,2,"Maxwell2024; Pexman2019","Maxwell et al. (2024); Pexman et al. (2019)","Percentile rank (pooled)",0
 "French",0.696699448827527,0.173935649664507,0.401401869158878,1,714,2,"Bonin2018; Quadflieg2014","Bonin et al. (2018); Quadflieg et al. (2014)","Percentile rank (pooled)",0
 "Galician",0.698742746615087,0.174340374783527,0.400386847195358,0.999516441005803,624,1,"AlvarezMosquera2026","Álvarez-Mosquera et al. (2026)","Percentile rank (pooled)",0
 "German",0.7005,0.173347017994964,0.401,1,600,1,"Kanske2010","Kanske & Kotz (2010)","Percentile rank (pooled)",600

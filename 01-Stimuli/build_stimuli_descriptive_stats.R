@@ -1,4 +1,4 @@
-# Builds the manuscript's Table 2 ("Descriptive Statistics for Cue Word
+# Builds the manuscript's stimuli table ("Descriptive Statistics for Cue Word
 # Concreteness as a Function of Target Language") from the actual
 # selected-word pools, reflecting the pooled percentile-rank method
 # (build_stimuli_pools.R / build_shared_core.R -- see README.md) that
@@ -15,7 +15,7 @@
 #
 # English is unchanged from the old table's method (Maxwell et al. 2024
 # + Pexman et al. 2019, not pooled/percentile-ranked -- see README.md's
-# footnote-equivalent note and STIMULI_SELECTION_STATUS.md), so it's
+# footnote-equivalent note), so it's
 # read from its own file and reported on its native 1-5 concreteness
 # scale, exactly as the current manuscript table already does.
 #
@@ -85,30 +85,54 @@ pooled_stats <- lapply(languages, function(lang) {
 })
 pooled_stats <- bind_rows(pooled_stats)
 
+# English cues were not selected by percentile rank (they are Maxwell et al.
+# 2024's nouns + Pexman et al. 2019's), but are DESCRIBED on the same pooled
+# percentile scale so M/SD/Min/Max are comparable across rows. Each cue's
+# `con` value is Brysbaert, Warriner, & Kuperman (2014) English concreteness
+# (all 4000 verified to match source_datasets/Brysbaert2014.csv); its
+# percentile is its rank among the NOUNS in that full source, tagged with
+# udpipe exactly as build_stimuli_pools.R tags every other source.
+library(udpipe)
+eng_src <- read.csv("source_datasets/Brysbaert2014.csv", stringsAsFactors = FALSE)
+eng_src$word <- tolower(eng_src$word_english)
+eng_src <- aggregate(concrete_mean ~ word, data = eng_src, FUN = mean)
+eng_model <- udpipe_load_model(list.files("../05-Data/.udpipe_models", pattern = "^english-ewt-.*\\.udpipe$", full.names = TRUE)[1])
+eng_ann <- as.data.frame(udpipe_annotate(eng_model, x = eng_src$word, doc_id = seq_along(eng_src$word),
+                                         tagger = "default", parser = "none"))
+eng_ntok <- table(eng_ann$doc_id)
+eng_single <- names(eng_ntok)[eng_ntok == 1]
+eng_nouns <- eng_src[as.integer(eng_ann$doc_id[eng_ann$doc_id %in% eng_single & eng_ann$upos == "NOUN"]), ]
+eng_nouns$percentile <- rank(eng_nouns$concrete_mean, ties.method = "average") / nrow(eng_nouns)
+
 english <- read.csv("English/English_Combined_4000.csv", stringsAsFactors = FALSE)
+english$word <- tolower(english$cues)
+english <- merge(english, eng_nouns[, c("word", "percentile")], by = "word", all.x = TRUE)
+# cues not tagged NOUN in the source are ranked against the noun distribution
+untagged <- is.na(english$percentile)
+english$percentile[untagged] <- ecdf(eng_nouns$concrete_mean)(english$con[untagged])
 english_row <- data.frame(
   language = "English",
-  M = mean(english$con),
-  SD = sd(english$con),
-  Min = min(english$con),
-  Max = max(english$con),
+  M = mean(english$percentile),
+  SD = sd(english$percentile),
+  Min = min(english$percentile),
+  Max = max(english$percentile),
   n_words = nrow(english),
   n_sources = 2,
   sources = "Maxwell2024; Pexman2019",
   citations = "Maxwell et al. (2024); Pexman et al. (2019)",
-  scale = "1 -- 5 Likert",
+  scale = "Percentile rank (pooled)",
   n_hack_translated_glosses = 0L,
   stringsAsFactors = FALSE
 )
 
-table2 <- bind_rows(english_row, pooled_stats) %>% arrange(language)
+stim_table <- bind_rows(english_row, pooled_stats) %>% arrange(language)
 
-write.csv(table2, "table2_descriptive_stats.csv", row.names = FALSE)
-cat("Wrote table2_descriptive_stats.csv --", nrow(table2), "languages.\n\n")
+write.csv(stim_table, "stimuli_descriptive_stats.csv", row.names = FALSE)
+cat("Wrote stimuli_descriptive_stats.csv --", nrow(stim_table), "languages.\n\n")
 
 cat("Source citations still marked [citation needed] (no metadata found\n")
 cat("in semanticprimeR's model cards -- needs a manual citation):\n")
-all_cites <- unique(unlist(strsplit(table2$citations, "; ")))
+all_cites <- unique(unlist(strsplit(stim_table$citations, "; ")))
 needed <- grep("\\[citation needed\\]", all_cites, value = TRUE)
 if (length(needed)) cat(paste(needed, collapse = ", "), "\n\n") else cat("(none)\n\n")
 

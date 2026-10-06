@@ -7,6 +7,7 @@
 | Chinese Traditional | Su et al. (2022) | 1664 | 4.54 (0.89) | 3.25 | 6.95 |  |
 | Dutch | Brysbaert et al. (2014) | 4004 | 4.48 (0.28) | 3.27 | 5.00 |  |
 | Dutch | Jasmin & Casasanto (2012) | 190 | 8.46 (0.38) | 7.29 | 9.00 |  |
+| English | Brysbaert et al. (2014), English cue concreteness | 4000 | 4.62 (0.29) | 2.73 | 5.00 |  |
 | French | Bonin et al. (2018) | 651 | 4.34 (0.46) | 2.04 | 5.00 |  |
 | French | Quadflieg et al. (2014) | 71 | 3.97 (0.55) | 3.20 | 5.58 |  |
 | Galician | Álvarez-Mosquera et al. (2026) | 624 | 6.42 (1.00) | 4.86 | 8.71 |  |

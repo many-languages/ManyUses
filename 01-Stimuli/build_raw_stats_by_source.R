@@ -1,6 +1,6 @@
 # Per-SOURCE raw concreteness descriptive stats (M/SD/Min/Max), restricted
 # to each language's actually-SELECTED words -- a supplement to
-# build_table2_stats.R's pooled percentile-rank stats.
+# build_stimuli_descriptive_stats.R's pooled percentile-rank stats.
 #
 # Deliberately NOT pooled/averaged across sources onto one raw number per
 # language: different sources use different native scales (1-5/1-7/1-9
@@ -9,7 +9,7 @@
 # and not rescaled there), so averaging raw values across sources without
 # correcting for that first would silently mix incompatible numbers (e.g.
 # Italian's naive mean_raw_concreteness maxes out at 700). Percentile-rank
-# is still the right way to POOL across sources (see build_table2_stats.R
+# is still the right way to POOL across sources (see build_stimuli_descriptive_stats.R
 # and README.md) -- this script is for reporting each source's own
 # internally-consistent raw numbers, not for re-pooling.
 #
@@ -65,7 +65,7 @@ for (lang in languages) {
 
     # DellaRosa2010 (Italian): genuine scale mismatch, not a direction
     # issue -- runs ~0-700 while every other Italian source runs ~1-9
-    # (see build_table2_raw_stats.R's earlier run, and README.md). Not
+    # (see build_raw_stats_by_source.R's earlier run, and README.md). Not
     # declared/rescaled anywhere in build_stimuli_pools.R's manifest.
     # Min-max rescaled onto [1, 9] here (the range Italian's other three
     # sources actually span) using DellaRosa2010's OWN observed min/max
@@ -109,9 +109,26 @@ for (lang in languages) {
   }
 }
 
+# English: not a pooled-source language. Its 4000 cues (Maxwell et al. 2024 +
+# Pexman et al. 2019) are described by Brysbaert, Warriner, & Kuperman (2014)
+# English concreteness (1-5), the `con` column in English_Combined_4000.csv.
+english <- read.csv("English/English_Combined_4000.csv", stringsAsFactors = FALSE)
+all_rows[[length(all_rows) + 1]] <- data.frame(
+  language = "English",
+  source = "Brysbaert2014_English",
+  n_words_matched = nrow(english),
+  M = mean(english$con),
+  SD = sd(english$con),
+  Min = min(english$con),
+  Max = max(english$con),
+  inverted_in_pooling = FALSE,
+  correction = NA_character_,
+  stringsAsFactors = FALSE
+)
+
 raw_stats <- do.call(rbind, all_rows)
-write.csv(raw_stats, "table2_raw_stats_by_source.csv", row.names = FALSE)
-cat("Wrote table2_raw_stats_by_source.csv --", nrow(raw_stats), "language x source rows.\n\n")
+write.csv(raw_stats, "raw_stats_by_source.csv", row.names = FALSE)
+cat("Wrote raw_stats_by_source.csv --", nrow(raw_stats), "language x source rows.\n\n")
 print(raw_stats, digits = 3)
 
 cat("\nFlagging any source whose Max looks like a non-standard scale\n")
@@ -128,6 +145,7 @@ base_key_of <- function(raw_key) {
 raw_stats$base_key <- vapply(raw_stats$source, base_key_of, character(1))
 raw_stats$citation <- citations$short_cite[match(raw_stats$base_key, citations$key)]
 raw_stats$citation[is.na(raw_stats$citation)] <- raw_stats$base_key[is.na(raw_stats$citation)]
+raw_stats$citation[raw_stats$source == "Brysbaert2014_English"] <- "Brysbaert et al. (2014), English cue concreteness"
 
 # Distinguish same-paper comparison variants (e.g. Grigoriev2026's three
 # rater-group comparisons) so identically-cited rows with very different
@@ -166,5 +184,5 @@ for (i in seq_len(nrow(raw_stats))) {
     gsub("_", " ", r$language), r$citation_display, r$n_words_matched, r$M, r$SD, r$Min, r$Max, note
   ))
 }
-writeLines(md_lines, "table2_raw_stats_by_source.md")
-cat("\nWrote table2_raw_stats_by_source.md\n")
+writeLines(md_lines, "raw_stats_by_source.md")
+cat("\nWrote raw_stats_by_source.md\n")
