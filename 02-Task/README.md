@@ -27,7 +27,8 @@ the full explanation.
     priority_words.R         loads a language's cue words from the 500-word overlap set
     build_formr_xlsx_core.R  rebuilds one xlsx per survey part from a template + summary
     push_to_formr_core.R     syncs each part's rebuilt xlsx to its live formr study
-    pull_results_core.R      pulls raw results per survey part (simplified, see below)
+    pull_results_core.R      pulls raw results per survey part (raw pull only; cleaning/counts happen after, see below)
+    update_word_counts_core.R recomputes word_n_summary.csv from the seed + cleaned responses
     make_template_core.R     generic xlsx-structure builder
     run_update_and_push.sh   per-language cron worker, takes a language name as $1
   English/                  per-language: data + five thin wrapper/config files
@@ -53,19 +54,24 @@ the full explanation.
   `lib/run_update_and_push.sh` sources `.env` automatically if present.
   `.env` itself is gitignored — never commit it.
 
-**Word-count updates are currently simplified, not real yet:**
-`pull_results.R` pulls each survey part's raw formr results into
+**Word counts are updated from cleaned responses.**
+After each pull, `run_update_and_push.sh` runs `05-Data/Code/process_responses.R`
+(joins each raw response to the word actually shown via
+`word_assignment_log.csv`, drops non-answers, spellchecks, lemmatizes) into
+`05-Data/Processed/<Language>/processed_latest.csv`, then `update_word_counts.R`
+(thin wrapper over `lib/update_word_counts_core.R`) rewrites
+`word_n_summary.csv`: `n_total` = the seed's `n_previous` + the number of
+new *participants* with at least one valid (non-"don't know") response to
+that cue — participants per cue, matching how Maxwell et al. (2024) counted
+n. It is recomputed from the seed on every run, never incremented, because
+each pull re-downloads all responses so far. This all happens before
+`build_formr_xlsx.R` reads the summary, so each rebuild's inverse-N
+weighting and 30-response cutoff reflect real counts. If cleaning fails
+the summary is left as it was.
+
+`pull_results.R` itself still only pulls raw formr results into
 `05-Data/Raw/<Language>/` (gitignored — may contain identifying data) and
-logs row counts to `raw_pull_log.csv`, but does **not** update
-`word_n_summary.csv`. Matching each response row to which word it actually
-answered requires joining formr's raw rows against `word_assignment_log.csv`
-by timestamp (since batch-level randomization means the word in any given
-slot changes every rebuild cycle) — that join, plus non-answer filtering,
-spellcheck, and lemmatization, now exists as `05-Data/Code/process_responses.R`
-(see `05-Data/README.md`), but nothing yet feeds its output back into
-updating `word_n_summary.csv`'s `n_total`. Until that wiring exists,
-`word_n_summary.csv` stays static and each rebuild keeps weight-sampling
-from whatever it was last set to.
+logs row counts to `raw_pull_log.csv`.
 
 ## Dispatcher workflow
 

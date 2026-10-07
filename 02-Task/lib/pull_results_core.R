@@ -1,12 +1,11 @@
 # Shared across all languages -- do not copy this into a language folder.
 #
-# DELIBERATELY SIMPLIFIED FOR NOW: matching each response row to which word
-# it actually answered (since batch-level randomization means the word in
-# slot wNN changes every rebuild cycle) requires joining formr's raw rows
-# against that language's word_assignment_log.csv by timestamp -- real
-# cleaning, not yet built. Until that exists, this step does NOT touch
-# word_n_summary.csv. It only pulls the raw results, saves an untouched
-# copy for later cleaning, and logs how many rows exist so far.
+# This step only pulls the raw results, saves an untouched copy, and logs
+# how many rows exist so far. Matching each response to the word it
+# answered (batch-level randomization means slot wNN's word changes every
+# rebuild) and turning that into word_n_summary.csv's n_total happens in
+# the following steps of run_update_and_push.sh: 05-Data/Code/
+# process_responses.R, then update_word_counts.R.
 #
 # Uses the same OAuth2 REST session as push_to_formr_core.R (see that
 # file's header) -- formr_api_fetch_results(), not formr_api_results(),
@@ -72,8 +71,6 @@ pull_results <- function(run_name, survey_names, raw_dir, log_path = "raw_pull_l
     sep = ",", row.names = FALSE,
     col.names = !file.exists(log_path), append = file.exists(log_path)
   )
-
-  cat("word_n_summary.csv NOT updated -- per-word cleaning still TODO.\n")
 
   invisible(log_entry)
 }

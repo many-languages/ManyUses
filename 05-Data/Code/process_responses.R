@@ -36,6 +36,9 @@ assignment_log <- read.csv(assignment_log_path, stringsAsFactors = FALSE)
 files <- list.files(raw_dir, pattern = "\\.csv$", full.names = TRUE)
 survey_of <- function(path) sub("(_\\d{8}_\\d{6})?(_synthetic)?\\.csv$", "", basename(path))
 files_df <- data.frame(path = files, survey = survey_of(files), stringsAsFactors = FALSE)
+# Only files for a survey that appears in the assignment log are word-rating
+# surveys; anything else in the folder (e.g. consent_codes*.csv) isn't.
+files_df <- files_df[files_df$survey %in% unique(assignment_log$survey), ]
 latest_files <- files_df %>% group_by(survey) %>% slice_max(path, n = 1) %>% ungroup()
 
 long_all <- lapply(seq_len(nrow(latest_files)), function(i) {

@@ -49,17 +49,24 @@ the words are literal text, "which words were shown, in which survey" is
 never ambiguous — it's whatever's in the xlsx (and logged in
 `word_assignment_log.csv`, per survey) at that time.
 
-**Word-count updates are simplified for now, not real yet.**
-`pull_results.R` pulls each survey's raw formr results and logs the row
-counts, but does **not** update `word_n_summary.csv`. Turning a raw
-response row into "cue X got one more response" requires joining it
-against `word_assignment_log.csv` by timestamp (since the word in any
-given slot changes every rebuild cycle) — that join now exists
-(`05-Data/Code/lib/reshape_long.R`, part of the response-cleaning
-pipeline), but nothing yet feeds its output back into updating
-`word_n_summary.csv`'s `n_total`. Until that wiring exists,
-`word_n_summary.csv` stays static and each rebuild keeps weight-sampling
-from whatever it was last set to.
+**Word counts are updated from cleaned responses.**
+After each pull, `run_update_and_push.sh` runs `05-Data/Code/process_responses.R`
+(joins each raw response to the word actually shown via
+`word_assignment_log.csv`, drops non-answers, spellchecks, lemmatizes) into
+`05-Data/Processed/<Language>/processed_latest.csv`, then `update_word_counts.R`
+(thin wrapper over `lib/update_word_counts_core.R`) rewrites
+`word_n_summary.csv`: `n_total` = the seed's `n_previous` + the number of
+new *participants* with at least one valid (non-"don't know") response to
+that cue — participants per cue, matching how Maxwell et al. (2024) counted
+n. It is recomputed from the seed on every run, never incremented, because
+each pull re-downloads all responses so far. This all happens before
+`build_formr_xlsx.R` reads the summary, so each rebuild's inverse-N
+weighting and 30-response cutoff reflect real counts. If cleaning fails
+the summary is left as it was.
+
+`pull_results.R` itself still only pulls raw formr results into
+`05-Data/Raw/<Language>/` (gitignored — may contain identifying data) and
+logs row counts to `raw_pull_log.csv`.
 
 ## Pipeline
 
@@ -88,7 +95,7 @@ flowchart TD
         build["build_formr_xlsx.R"]
         push["push_to_formr.R"]
         wnseed[("word_n_seed.csv\nimmutable n_previous")]
-        wnsum[("word_n_summary.csv\nNOT yet auto-updated")]
+        wnsum[("word_n_summary.csv\nrecomputed each cycle")]
         pulllog[("raw_pull_log.csv\none row per part per pull")]
         t1[("English_Word_Ratings_template.xlsx")]
         t2[("English_Word_Ratings_2_template.xlsx")]
@@ -108,7 +115,7 @@ flowchart TD
     pull --> pullcore
     pullcore -->|"writes (new file per pull)"| rawcsv
     pullcore -->|"writes (appends)"| pulllog
-    wnseed -.->|"future: feed 05-Data/Code's\ncleaned per-word counts back in"| wnsum
+    wnseed -->|"update_word_counts.R:\nseed + cleaned new participants"| wnsum
     wnsum -->|"reads"| build
     parts -->|"reads"| build
     build --> buildcore
@@ -226,22 +233,24 @@ in this folder.
   `pull_results.R` both confirmed working end-to-end against a real
   formr instance (all three `English_Word_Ratings*` parts pushed and
   pulled successfully).
-- **Built, not yet wired in:** the per-word cleaning that resolves each
-  response to the word it actually answered (joining raw pulls against
-  `word_assignment_log.csv` by timestamp) now exists —
-  `05-Data/Code/process_responses.R` — but nothing yet feeds its output
-  back into updating `word_n_summary.csv`'s `n_total`. Until that wiring
-  exists, treat this whole pipeline as producing three real, live surveys
-  with a *static* word-priority list, not yet a self-updating one.
+- **Wired in, tested on synthetic data only:** `process_responses.R` ->
+  `update_word_counts.R` -> `word_n_summary.csv` (recomputed from the seed
+  each run; on the synthetic set it counted 749 participant-cue
+  responses from 25 sessions x 30 words, with one cue dropped as all
+  non-answers). Not yet run against a full real cron cycle.
 
 ## TODO before this is fully live
 
 1. Install the cron entry from the comment at the top of
    `../run_all_languages.sh` (point cron at that, not at anything in
    `../lib/` or this folder directly).
-2. Wire `05-Data/Code/process_responses.R`'s output back into updating
-   `word_n_summary.csv`'s `n_total` so `word_n_summary.csv` starts
-   reflecting real response counts instead of staying static.
+2. Run one full cron cycle against real data and check that
+   `word_n_summary.csv` moves as expected (the wiring is built, but has
+   only been tested on synthetic data).
+2b. **Add the five practice trials to the formr survey** (manuscript
+   Procedure promises five; `make_template_core.R` currently builds only the
+   instructions note plus the 30 real word blocks). Consent and debrief
+   were added in formr directly -- keep them in sync with `03-Ethics`.
 3. Once real recruitment volume is known, revisit the coverage-speed
    trade-off above and shorten the cron interval / adjust
    `BLOCKS_PER_PART` if 7.5 days per full pool pass is too slow.

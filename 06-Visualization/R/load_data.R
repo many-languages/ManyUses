@@ -40,7 +40,9 @@ load_word_progress <- function(language, root = repo_root(), target_n = TARGET_N
     # for real dated pulls; a single "_synthetic" file sorts fine too).
     latest <- processed_files[which.max(file.info(processed_files)$mtime)]
     processed <- read.csv(latest, stringsAsFactors = FALSE)
-    counts <- processed %>% count(word, name = "n") %>% tibble::deframe()
+    # participants per cue (distinct sessions), not individual use rows -- same
+    # definition of n as 02-Task/lib/update_word_counts_core.R
+    counts <- processed %>% distinct(session, word) %>% count(word, name = "n") %>% tibble::deframe()
     n_valid <- setNames(as.integer(counts[cues]), cues)
     n_valid[is.na(n_valid)] <- 0L
   }

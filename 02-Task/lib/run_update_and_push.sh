@@ -5,10 +5,14 @@
 # entirely on your own server.
 #   1. pull_results.R (per-language: formr survey names, from
 #      survey_parts.R) -- pulls raw formr results for each survey part into
-#      05-Data/Raw/<Language>/ and logs the row counts. DELIBERATELY
-#      SIMPLIFIED for now: does not update word_n_summary.csv (see
-#      pull_results_core.R's header) -- real per-word cleaning is still
-#      TODO, so word_n_summary.csv stays whatever it last was.
+#      05-Data/Raw/<Language>/ and logs the row counts.
+#   1b. 05-Data/Code/process_responses.R, then update_word_counts.R
+#      (per-language, thin) -- cleans the pulled responses (resolves each
+#      to the word actually shown, drops non-answers, spellchecks,
+#      lemmatizes) into 05-Data/Processed/<Language>/processed_latest.csv,
+#      then recomputes word_n_summary.csv = seed n_previous + new
+#      participants per cue (see lib/update_word_counts_core.R). If
+#      cleaning fails, word_n_summary.csv is left as it last was.
 #   2. build_formr_xlsx.R (per-language: survey_parts.R again) -- weight-
 #      samples all words for this cycle together, splits them across this
 #      language's survey parts, and bakes them as literal text into each
@@ -71,6 +75,18 @@ cd "$LANG_DIR"
 
 STEP_FAILED=0
 Rscript pull_results.R || { echo "$(date): $LANGUAGE pull_results.R failed"; STEP_FAILED=1; }
+# Clean the pull, then refresh word_n_summary.csv from it BEFORE the rebuild
+# below reads it. process_responses.R sources its lib/ relative to its own
+# folder, so it must be run from there.
+PROCESSED_OUT="$REPO_ROOT/05-Data/Processed/$LANGUAGE/processed_latest.csv"
+if (cd "$REPO_ROOT/05-Data/Code" && Rscript process_responses.R \
+      "$REPO_ROOT/05-Data/Raw/$LANGUAGE" "$LANGUAGE" \
+      "$LANG_DIR/word_assignment_log.csv" "$PROCESSED_OUT"); then
+  Rscript update_word_counts.R || { echo "$(date): $LANGUAGE update_word_counts.R failed"; STEP_FAILED=1; }
+else
+  echo "$(date): $LANGUAGE process_responses.R failed, word_n_summary.csv not updated"
+  STEP_FAILED=1
+fi
 Rscript build_formr_xlsx.R || { echo "$(date): $LANGUAGE build_formr_xlsx.R failed"; STEP_FAILED=1; }
 Rscript push_to_formr.R || { echo "$(date): $LANGUAGE push_to_formr.R failed"; STEP_FAILED=1; }
 
